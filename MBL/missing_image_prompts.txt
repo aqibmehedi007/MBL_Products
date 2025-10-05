@@ -1,0 +1,424 @@
+MISSING PRIMARY PRODUCT IMAGES - AI GENERATION PROMPTS
+============================================================
+
+Instructions:
+- Generate square format images (1024x1024 or 512x512 pixels)
+- Use professional agricultural product photography style
+- Ensure clear, readable text on labels
+- Maintain consistent branding with McDonald Bangladesh
+- White plastic bottle with professional label design
+
+============================================================
+
+1. MBL-006.jpg
+   Product: Cleanoxone 24SL
+   Active Ingredient: Paraquat 24%
+   Category: Herbicides / Weedicides
+   AI Prompt: Professional agricultural product bottle, white plastic container with label, green and orange color scheme, weed control theme, product name 'Cleanoxone 24SL' prominently displayed, active ingredient 'Paraquat 24%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+2. MBL-009.jpg
+   Product: Sunfinity 50.75 WP
+   Active Ingredient: Carfentrazone-ethy 0.75 % + Isoproturon 50%
+   Category: Herbicides / Weedicides
+   AI Prompt: Professional agricultural product bottle, white plastic container with label, green and orange color scheme, weed control theme, product name 'Sunfinity 50.75 WP' prominently displayed, active ingredient 'Carfentrazone-ethy 0.75 % + Isoproturon 50%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+3. MBL-010.jpg
+   Product: Lately 33 EC
+   Active Ingredient: Pendimethalin
+   Category: Herbicides / Weedicides
+   AI Prompt: Professional agricultural product bottle, white plastic container with label, green and orange color scheme, weed control theme, product name 'Lately 33 EC' prominently displayed, active ingredient 'Pendimethalin' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+4. MBL-011.jpg
+   Product: Fullmoon 9OD
+   Active Ingredient: Imidacloprid 7% + Beta- Cyfluthrin 2%
+   Category: Insecticides
+   AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Fullmoon 9OD' prominently displayed, active ingredient 'Imidacloprid 7% + Beta- Cyfluthrin 2%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+5. MBL-012.jpg
+   Product: Lambdafos 33 EC
+   Active Ingredient: Profenoso 30% + Lambda-cyhalothrin 3%
+   Category: Insecticides
+   AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Lambdafos 33 EC' prominently displayed, active ingredient 'Profenoso 30% + Lambda-cyhalothrin 3%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+6. MBL-013.jpg
+   Product: Indoxiprid 22.2 SC
+   Active Ingredient: Indoxacarb 14.5% + Acetamiprid 7.7%
+   Category: Insecticides
+   AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Indoxiprid 22.2 SC' prominently displayed, active ingredient 'Indoxacarb 14.5% + Acetamiprid 7.7%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+7. MBL-014.jpg
+   Product: Abamid 38WDG
+   Active Ingredient: Abamectin 2% + Imidacloprid 36%
+   Category: Insecticides
+   AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Abamid 38WDG' prominently displayed, active ingredient 'Abamectin 2% + Imidacloprid 36%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+8. MBL-015.jpg
+   Product: Pullet 50% (Effervescent Tablet)
+   Active Ingredient: Pymetrozine
+   Category: Insecticides
+   AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Pullet 50% (Effervescent Tablet)' prominently displayed, active ingredient 'Pymetrozine' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+9. MBL-016.jpg
+   Product: Lutham 40 WDG
+   Active Ingredient: Thiamethoxam 30% + Lufenuron 10%
+   Category: Insecticides
+   AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Lutham 40 WDG' prominently displayed, active ingredient 'Thiamethoxam 30% + Lufenuron 10%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+10. MBL-017.jpg
+    Product: Sigmazel 6WDG
+    Active Ingredient: Emamectin Benzoate 4% + Beta Cypermethrin 2%
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Sigmazel 6WDG' prominently displayed, active ingredient 'Emamectin Benzoate 4% + Beta Cypermethrin 2%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+11. MBL-018.jpg
+    Product: Sunabaprid 4EC
+    Active Ingredient: Abamectin 1% + Acetamiprid 3%
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Sunabaprid 4EC' prominently displayed, active ingredient 'Abamectin 1% + Acetamiprid 3%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+12. MBL-019.jpg
+    Product: Sunine 6WDG
+    Active Ingredient: Abamectin 2% + Emamectin Benzoate 4%
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Sunine 6WDG' prominently displayed, active ingredient 'Abamectin 2% + Emamectin Benzoate 4%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+13. MBL-020.jpg
+    Product: McNil 3GR
+    Active Ingredient: Fipronil
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'McNil 3GR' prominently displayed, active ingredient 'Fipronil' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+14. MBL-021.jpg
+    Product: Suntap 50 SP
+    Active Ingredient: Cartap
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Suntap 50 SP' prominently displayed, active ingredient 'Cartap' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+15. MBL-022.jpg
+    Product: Suntap Plus 50WP
+    Active Ingredient: Cartap hydrochloride 47.5% + Fipronil 2.5%
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Suntap Plus 50WP' prominently displayed, active ingredient 'Cartap hydrochloride 47.5% + Fipronil 2.5%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+16. MBL-023.jpg
+    Product: Gain 20SL
+    Active Ingredient: Imidacloprid
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Gain 20SL' prominently displayed, active ingredient 'Imidacloprid' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+17. MBL-024.jpg
+    Product: Gain Super 70WG
+    Active Ingredient: Imidacloprid 70%
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Gain Super 70WG' prominently displayed, active ingredient 'Imidacloprid 70%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+18. MBL-025.jpg
+    Product: Vitabryl 85WP
+    Active Ingredient: Carbaryl
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Vitabryl 85WP' prominently displayed, active ingredient 'Carbaryl' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+19. MBL-026.jpg
+    Product: Sabion 60EC
+    Active Ingredient: Diazinon
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Sabion 60EC' prominently displayed, active ingredient 'Diazinon' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+20. MBL-027.jpg
+    Product: Sunmerin 10EC
+    Active Ingredient: Cypermethrin
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Sunmerin 10EC' prominently displayed, active ingredient 'Cypermethrin' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+21. MBL-028.jpg
+    Product: Sunvelarate 20EC
+    Active Ingredient: Fenvelarate
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Sunvelarate 20EC' prominently displayed, active ingredient 'Fenvelarate' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+22. MBL-029.jpg
+    Product: McDoate 5 WDG
+    Active Ingredient: Emamectin Benzoate
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'McDoate 5 WDG' prominently displayed, active ingredient 'Emamectin Benzoate' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+23. MBL-030.jpg
+    Product: Cyperphos 55EC
+    Active Ingredient: Chlorpyriphos 50% + Cypermethrin 5% +
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Cyperphos 55EC' prominently displayed, active ingredient 'Chlorpyriphos 50% + Cypermethrin 5% +' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+24. MBL-031.jpg
+    Product: Benefit 20EC
+    Active Ingredient: Carbosulfan
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Benefit 20EC' prominently displayed, active ingredient 'Carbosulfan' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+25. MBL-032.jpg
+    Product: Kriphate 75SP
+    Active Ingredient: Acephate
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Kriphate 75SP' prominently displayed, active ingredient 'Acephate' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+26. MBL-033.jpg
+    Product: Kirifos 20EC
+    Active Ingredient: Chlorpyrifos
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Kirifos 20EC' prominently displayed, active ingredient 'Chlorpyrifos' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+27. MBL-034.jpg
+    Product: Alumphos 56%
+    Active Ingredient: Aluminium Phosphide
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Alumphos 56%' prominently displayed, active ingredient 'Aluminium Phosphide' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+28. MBL-035.jpg
+    Product: Sunthrin 2.5EC
+    Active Ingredient: Bifenthrin
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Sunthrin 2.5EC' prominently displayed, active ingredient 'Bifenthrin' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+29. MBL-036.jpg
+    Product: Ether Plus 40 WG
+    Active Ingredient: Emamectin Benzoate 20% + Thiamethoxam 20%
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Ether Plus 40 WG' prominently displayed, active ingredient 'Emamectin Benzoate 20% + Thiamethoxam 20%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+30. MBL-037.jpg
+    Product: Binta 2EC
+    Active Ingredient: Abamectin 0.6% + Beta-Cypermethrin 1.55%
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Binta 2EC' prominently displayed, active ingredient 'Abamectin 0.6% + Beta-Cypermethrin 1.55%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+31. MBL-038.jpg
+    Product: Pyrin 20WP
+    Active Ingredient: Pyridaben
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Pyrin 20WP' prominently displayed, active ingredient 'Pyridaben' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+32. MBL-039.jpg
+    Product: Nyzin 80WDG
+    Active Ingredient: Nitenpyram 20% + Pymetrozin 60%
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Nyzin 80WDG' prominently displayed, active ingredient 'Nitenpyram 20% + Pymetrozin 60%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+33. MBL-040.jpg
+    Product: McZinex 60EC
+    Active Ingredient: Diazinon
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'McZinex 60EC' prominently displayed, active ingredient 'Diazinon' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+34. MBL-041.jpg
+    Product: Vantage 56%
+    Active Ingredient: Aluminium Phosphide
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Vantage 56%' prominently displayed, active ingredient 'Aluminium Phosphide' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+35. MBL-042.jpg
+    Product: Growell 50SP
+    Active Ingredient: Cartap
+    Category: Insecticides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, blue and red color scheme, pest control theme, product name 'Growell 50SP' prominently displayed, active ingredient 'Cartap' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+36. MBL-044.jpg
+    Product: Dazim 50WP
+    Active Ingredient: Carbendazim
+    Category: Fungicides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, purple and yellow color scheme, disease control theme, product name 'Dazim 50WP' prominently displayed, active ingredient 'Carbendazim' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+37. MBL-045.jpg
+    Product: McVit 80DF
+    Active Ingredient: Sulphur
+    Category: Fungicides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, purple and yellow color scheme, disease control theme, product name 'McVit 80DF' prominently displayed, active ingredient 'Sulphur' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+38. MBL-046.jpg
+    Product: PolySuf 80WG
+    Active Ingredient: Sulphur
+    Category: Fungicides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, purple and yellow color scheme, disease control theme, product name 'PolySuf 80WG' prominently displayed, active ingredient 'Sulphur' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+39. MBL-047.jpg
+    Product: Sunzoxy 32.5 SC
+    Active Ingredient: Azoxystrobin 20% + Difenoconazole 12.5%
+    Category: Fungicides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, purple and yellow color scheme, disease control theme, product name 'Sunzoxy 32.5 SC' prominently displayed, active ingredient 'Azoxystrobin 20% + Difenoconazole 12.5%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+40. MBL-048.jpg
+    Product: Sunfighter 25SC
+    Active Ingredient: Hexaconazole 3% + Tricyclazole 22%
+    Category: Fungicides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, purple and yellow color scheme, disease control theme, product name 'Sunfighter 25SC' prominently displayed, active ingredient 'Hexaconazole 3% + Tricyclazole 22%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+41. MBL-049.jpg
+    Product: McVo 75WG
+    Active Ingredient: Tebuconazole 50% + Trifloxystrobin 25%
+    Category: Fungicides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, purple and yellow color scheme, disease control theme, product name 'McVo 75WG' prominently displayed, active ingredient 'Tebuconazole 50% + Trifloxystrobin 25%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+42. MBL-050.jpg
+    Product: Cardion 50WP
+    Active Ingredient: Iprodion 25% + Carbendazim 25%
+    Category: Fungicides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, purple and yellow color scheme, disease control theme, product name 'Cardion 50WP' prominently displayed, active ingredient 'Iprodion 25% + Carbendazim 25%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+43. MBL-051.jpg
+    Product: Sunoxanil 72WP
+    Active Ingredient: Cymoxanil + Mancozeb
+    Category: Fungicides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, purple and yellow color scheme, disease control theme, product name 'Sunoxanil 72WP' prominently displayed, active ingredient 'Cymoxanil + Mancozeb' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+44. MBL-052.jpg
+    Product: More 72WP
+    Active Ingredient: Mancozeb + Cymoxanil
+    Category: Fungicides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, purple and yellow color scheme, disease control theme, product name 'More 72WP' prominently displayed, active ingredient 'Mancozeb + Cymoxanil' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+45. MBL-053.jpg
+    Product: McZeb 80WP
+    Active Ingredient: Mancozeb
+    Category: Fungicides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, purple and yellow color scheme, disease control theme, product name 'McZeb 80WP' prominently displayed, active ingredient 'Mancozeb' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+46. MBL-054.jpg
+    Product: CM 75WP
+    Active Ingredient: Mancozeb + Carbedazim
+    Category: Fungicides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, purple and yellow color scheme, disease control theme, product name 'CM 75WP' prominently displayed, active ingredient 'Mancozeb + Carbedazim' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+47. MBL-055.jpg
+    Product: Krizole 5EC
+    Active Ingredient: Hexaconazole
+    Category: Fungicides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, purple and yellow color scheme, disease control theme, product name 'Krizole 5EC' prominently displayed, active ingredient 'Hexaconazole' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+48. MBL-056.jpg
+    Product: Positive 30SE
+    Active Ingredient: Propiconazole 15% + Difenoconazole 15%
+    Category: Fungicides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, purple and yellow color scheme, disease control theme, product name 'Positive 30SE' prominently displayed, active ingredient 'Propiconazole 15% + Difenoconazole 15%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+49. MBL-057.jpg
+    Product: Sunvit 50WP
+    Active Ingredient: Copper Oxychloride
+    Category: Fungicides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, purple and yellow color scheme, disease control theme, product name 'Sunvit 50WP' prominently displayed, active ingredient 'Copper Oxychloride' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+50. MBL-058.jpg
+    Product: Polyco 50 WP
+    Active Ingredient: Copper Oxychloride
+    Category: Fungicides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, purple and yellow color scheme, disease control theme, product name 'Polyco 50 WP' prominently displayed, active ingredient 'Copper Oxychloride' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+51. MBL-059.jpg
+    Product: Sunpuma 54WP
+    Active Ingredient: Kasugamycin 4% + Carbendazim 50%
+    Category: Fungicides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, purple and yellow color scheme, disease control theme, product name 'Sunpuma 54WP' prominently displayed, active ingredient 'Kasugamycin 4% + Carbendazim 50%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+52. MBL-060.jpg
+    Product: Azox 50WG
+    Active Ingredient: Azoxystrobin 50%
+    Category: Fungicides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, purple and yellow color scheme, disease control theme, product name 'Azox 50WG' prominently displayed, active ingredient 'Azoxystrobin 50%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+53. MBL-061.jpg
+    Product: Thiza 20SC
+    Active Ingredient: Thifluzamide
+    Category: Fungicides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, purple and yellow color scheme, disease control theme, product name 'Thiza 20SC' prominently displayed, active ingredient 'Thifluzamide' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+54. MBL-062.jpg
+    Product: Sunsarto 11WP
+    Active Ingredient: Hexaconazole 2.5% + Validamycin 8.5%
+    Category: Fungicides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, purple and yellow color scheme, disease control theme, product name 'Sunsarto 11WP' prominently displayed, active ingredient 'Hexaconazole 2.5% + Validamycin 8.5%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+55. MBL-063.jpg
+    Product: Sunoscar 21.5WP
+    Active Ingredient: Bismerthiozole 20% + Kasuga 1.5%
+    Category: Fungicides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, purple and yellow color scheme, disease control theme, product name 'Sunoscar 21.5WP' prominently displayed, active ingredient 'Bismerthiozole 20% + Kasuga 1.5%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+56. MBL-064.jpg
+    Product: Sunca 50 SC
+    Active Ingredient: Boscalid
+    Category: Fungicides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, purple and yellow color scheme, disease control theme, product name 'Sunca 50 SC' prominently displayed, active ingredient 'Boscalid' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+57. MBL-065.jpg
+    Product: Sunzole Plus 70WP
+    Active Ingredient: Fenoxanil 20% + Tricyclazole 50%
+    Category: Fungicides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, purple and yellow color scheme, disease control theme, product name 'Sunzole Plus 70WP' prominently displayed, active ingredient 'Fenoxanil 20% + Tricyclazole 50%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+58. MBL-066.jpg
+    Product: McSun 62.5WG
+    Active Ingredient: Cyprodinil 37.5% + Fludioxonil 25%
+    Category: Fungicides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, purple and yellow color scheme, disease control theme, product name 'McSun 62.5WG' prominently displayed, active ingredient 'Cyprodinil 37.5% + Fludioxonil 25%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+59. MBL-067.jpg
+    Product: Asavax 40WP
+    Active Ingredient: Carboxin + Thiram
+    Category: Fungicides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, purple and yellow color scheme, disease control theme, product name 'Asavax 40WP' prominently displayed, active ingredient 'Carboxin + Thiram' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+60. MBL-069.jpg
+    Product: Krosin –AG 10SP
+    Active Ingredient: Streptomycin sulphate 9% + Tetracycline hydrochloride 1%
+    Category: Bactericides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, teal and white color scheme, bacterial control theme, product name 'Krosin –AG 10SP' prominently displayed, active ingredient 'Streptomycin sulphate 9% + Tetracycline hydrochloride 1%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+61. MBL-071.jpg
+    Product: Abom 1.8EC
+    Active Ingredient: Abamectin
+    Category: Acaricides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, orange and black color scheme, mite control theme, product name 'Abom 1.8EC' prominently displayed, active ingredient 'Abamectin' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+62. MBL-072.jpg
+    Product: Abom Super 3EW
+    Active Ingredient: Abamectin 3%
+    Category: Acaricides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, orange and black color scheme, mite control theme, product name 'Abom Super 3EW' prominently displayed, active ingredient 'Abamectin 3%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+63. MBL-073.jpg
+    Product: Sumite 57EC
+    Active Ingredient: Propergite
+    Category: Acaricides
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, orange and black color scheme, mite control theme, product name 'Sumite 57EC' prominently displayed, active ingredient 'Propergite' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+64. MBL-077.jpg
+    Product: McZinc (Hepta)
+    Active Ingredient: Zinc Sulphate Hepta Hydrate
+    Category: Fertilizers (Macro & Micro)
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, brown and gold color scheme, plant nutrition theme, product name 'McZinc (Hepta)' prominently displayed, active ingredient 'Zinc Sulphate Hepta Hydrate' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+65. MBL-078.jpg
+    Product: McSium
+    Active Ingredient: Magnesium Sulphate/MgSO4
+    Category: Fertilizers (Macro & Micro)
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, brown and gold color scheme, plant nutrition theme, product name 'McSium' prominently displayed, active ingredient 'Magnesium Sulphate/MgSO4' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+66. MBL-079.jpg
+    Product: McBoron
+    Active Ingredient: Boric Acid
+    Category: Fertilizers (Macro & Micro)
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, brown and gold color scheme, plant nutrition theme, product name 'McBoron' prominently displayed, active ingredient 'Boric Acid' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+67. MBL-080.jpg
+    Product: McChili
+    Active Ingredient: Chelated Zinc
+    Category: Fertilizers (Macro & Micro)
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, brown and gold color scheme, plant nutrition theme, product name 'McChili' prominently displayed, active ingredient 'Chelated Zinc' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+68. MBL-081.jpg
+    Product: Solubor Boron
+    Active Ingredient: Boron 20%
+    Category: Fertilizers (Macro & Micro)
+    AI Prompt: Professional agricultural product bottle, white plastic container with label, brown and gold color scheme, plant nutrition theme, product name 'Solubor Boron' prominently displayed, active ingredient 'Boron 20%' shown, McDonald Bangladesh branding, clean white background, professional product photography, square format, high quality, detailed label design
+
+============================================================
+TOTAL MISSING PRIMARY IMAGES: 68
+
+Note: All images should be generated in square format (1024x1024 or 512x512 pixels) with professional agricultural product photography style, maintaining consistent McDonald Bangladesh branding.
