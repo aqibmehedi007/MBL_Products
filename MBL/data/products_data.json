@@ -2,83 +2,103 @@
   {
     "product_id": "MBL-001",
     "product_name": "Activar 25EC",
-    "product_image": "",
+    "product_image": "images/MBL-001.jpg",
     "medicine_name": "Oxadiazon",
-    "category_name": "Unknown",
+    "category_name": "Herbicides / Weedicides",
     "description": "Selective contact pre-emergence herbicideBathua",
     "indication": "",
-    "dosage": "",
+    "dosage": "20 ml/ 10 Lit of water, 400 ml/acre; 20 ml/ 10 Lit of water, 400 ml/acre; 10 ml/ 10 Lit of water, 200 ml/acre",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Weeds of rice; Weeds of Potato (Bathua); Weeds of onion & Garlic (Bathua)",
     "product_tags": [
-      "oxadiazon",
-      "unknown"
+      "weeds of onion & garlic (bathua)",
+      "weeds of rice",
+      "herbicides",
+      "weeds of potato (bathua)",
+      "oxadiazon"
     ],
     "product_price": "",
     "reg_no": "AP - 698",
     "serial_no": "1",
     "product_url": "https://www.mcdonaldbd.com/product/activar-25ec/",
     "origin": "Asiatic, Singapore",
-    "extraction_date": "2025-10-05T11:14:24.924350"
+    "extraction_date": "2025-10-05T11:14:24.924350",
+    "additional_images": [
+      "images/MBL-001_(1).jpg"
+    ]
   },
   {
     "product_id": "MBL-002",
     "product_name": "Ridweed RP",
-    "product_image": "",
+    "product_image": "images/MBL-002.jpg",
     "medicine_name": "Glyphosate",
-    "category_name": "Unknown",
+    "category_name": "Herbicides / Weedicides",
     "description": "Systemic, Non-selective, Early post-emergence herbicide",
     "indication": "",
     "dosage": "",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Weeds of Tea garden; Weeds of Rubber Garden; Weeds of fallow land",
     "product_tags": [
+      "weeds of fallow land",
       "glyphosate",
-      "unknown"
+      "weeds of rubber garden",
+      "weeds of tea garden",
+      "herbicides"
     ],
     "product_price": "",
     "reg_no": "AP - 319",
     "serial_no": "2",
     "product_url": "https://www.mcdonaldbd.com/product/ridweed-rp/",
     "origin": "Asiatic, Singapore",
-    "extraction_date": "2025-10-05T11:14:24.924350"
+    "extraction_date": "2025-10-05T11:14:24.924350",
+    "additional_images": [
+      "images/MBL-002_(1).jpg",
+      "images/MBL-002_(2).jpg",
+      "images/MBL-002_(3).jpg",
+      "images/MBL-002_(4).jpg"
+    ]
   },
   {
     "product_id": "MBL-003",
     "product_name": "Porishker 10WP",
-    "product_image": "",
+    "product_image": "images/MBL-003.jpg",
     "medicine_name": "Pyrazosulfuran-ethyl",
-    "category_name": "Unknown",
+    "category_name": "Herbicides / Weedicides",
     "description": "Selective Systemic pre & post-emergence.",
     "indication": "",
-    "dosage": "",
+    "dosage": "25 gm / bigha (33 decimal); 75 gm / acre; 185 gm / ha",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Weeds of rice (sedge, grass & broad leaved).",
     "product_tags": [
-      "pyrazosulfuran-ethyl",
-      "unknown"
+      "herbicides",
+      "weeds of rice (sedge, grass & broad leaved).",
+      "pyrazosulfuran-ethyl"
     ],
     "product_price": "",
     "reg_no": "AP-2591",
     "serial_no": "3",
     "product_url": "https://www.mcdonaldbd.com/product/porishker-10wp/",
     "origin": "Asiatic, Singapore",
-    "extraction_date": "2025-10-05T11:14:24.924350"
+    "extraction_date": "2025-10-05T11:14:24.924350",
+    "additional_images": [
+      "images/MBL-003_(1).jpg",
+      "images/MBL-003_(2).jpg"
+    ]
   },
   {
     "product_id": "MBL-004",
     "product_name": "Sunchance 18WP",
-    "product_image": "",
+    "product_image": "images/MBL-004.jpg",
     "medicine_name": "Bensulfuron methyl 4% + Acetachlor 14%",
-    "category_name": "Unknown",
+    "category_name": "Herbicides / Weedicides",
     "description": "",
     "indication": "",
     "dosage": "",
     "side_effect": "",
     "crops_pests": "",
     "product_tags": [
-      "bensulfuron methyl 4% + acetachlor 14%",
-      "unknown"
+      "herbicides",
+      "bensulfuron methyl 4% + acetachlor 14%"
     ],
     "product_price": "",
     "reg_no": "AP-4750",
@@ -90,17 +110,17 @@
   {
     "product_id": "MBL-005",
     "product_name": "Sunwell 5EC",
-    "product_image": "",
+    "product_image": "images/MBL-005.jpg",
     "medicine_name": "Quizalofop-p-ethyl",
-    "category_name": "Unknown",
+    "category_name": "Herbicides / Weedicides",
     "description": "",
     "indication": "",
     "dosage": "",
     "side_effect": "",
     "crops_pests": "",
     "product_tags": [
-      "quizalofop-p-ethyl",
-      "unknown"
+      "herbicides",
+      "quizalofop-p-ethyl"
     ],
     "product_price": "",
     "reg_no": "AP-4861",
@@ -114,15 +134,15 @@
     "product_name": "Cleanoxone 24SL",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Paraquat 24%",
-    "category_name": "Unknown",
+    "category_name": "Herbicides / Weedicides",
     "description": "",
     "indication": "",
     "dosage": "",
     "side_effect": "",
     "crops_pests": "",
     "product_tags": [
-      "paraquat 24%",
-      "unknown"
+      "herbicides",
+      "paraquat 24%"
     ],
     "product_price": "",
     "reg_no": "AP-4307",
@@ -134,61 +154,74 @@
   {
     "product_id": "MBL-007",
     "product_name": "Weedoxone",
-    "product_image": "",
+    "product_image": "images/MBL-007.jpg",
     "medicine_name": "Paraquat 20% SL",
-    "category_name": "Unknown",
+    "category_name": "Herbicides / Weedicides",
     "description": "Contact, selective, early post-emergence",
     "indication": "",
-    "dosage": "",
+    "dosage": "1.15 Lit / acre",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "– Weeds of Tea garden; – Weeds of Rubber Garden; – Weeds of fallow land",
     "product_tags": [
+      "– weeds of tea garden",
+      "herbicides",
       "paraquat 20% sl",
-      "unknown"
+      "– weeds of rubber garden",
+      "– weeds of fallow land"
     ],
     "product_price": "",
     "reg_no": "AP - 1094",
     "serial_no": "7",
     "product_url": "https://www.mcdonaldbd.com/product/weedoxone/",
     "origin": "Sandong Chaichang Chem. Co. China",
-    "extraction_date": "2025-10-05T11:14:24.924350"
+    "extraction_date": "2025-10-05T11:14:24.924350",
+    "additional_images": [
+      "images/MBL-007_(1).jpg",
+      "images/MBL-007_(2).jpg"
+    ]
   },
   {
     "product_id": "MBL-008",
     "product_name": "2,4-D Weeder 72SL",
-    "product_image": "",
+    "product_image": "images/MBL-008.jpg",
     "medicine_name": "2,4-D Amine",
-    "category_name": "Unknown",
+    "category_name": "Herbicides / Weedicides",
     "description": "Systemic, selective, Early post-emergence",
     "indication": "",
-    "dosage": "",
+    "dosage": "1.00 Lit / acre (Tea & Rubber); 500 mL / acre (wheat)",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "– Weeds of Tea & Rubber; – Weeds of Wheat; – Weeds of Dry land Aus Rice",
     "product_tags": [
+      "– weeds of wheat",
+      "– weeds of tea & rubber",
       "2,4-d amine",
-      "unknown"
+      "– weeds of dry land aus rice",
+      "herbicides"
     ],
     "product_price": "",
     "reg_no": "AP - 1197",
     "serial_no": "8",
     "product_url": "https://www.mcdonaldbd.com/product/24-d-weeder-72sl/",
     "origin": "Sandong Chaichang Chem. Co. China",
-    "extraction_date": "2025-10-05T11:14:24.924350"
+    "extraction_date": "2025-10-05T11:14:24.924350",
+    "additional_images": [
+      "images/MBL-008_(1).png"
+    ]
   },
   {
     "product_id": "MBL-009",
     "product_name": "Sunfinity 50.75 WP",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Carfentrazone-ethy 0.75 % + Isoproturon 50%",
-    "category_name": "Unknown",
+    "category_name": "Herbicides / Weedicides",
     "description": "",
     "indication": "",
     "dosage": "",
     "side_effect": "",
     "crops_pests": "",
     "product_tags": [
-      "carfentrazone-ethy 0.75 % + isoproturon 50%",
-      "unknown"
+      "herbicides",
+      "carfentrazone-ethy 0.75 % + isoproturon 50%"
     ],
     "product_price": "",
     "reg_no": "AP-",
@@ -202,15 +235,15 @@
     "product_name": "Lately 33 EC",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Pendimethalin",
-    "category_name": "Unknown",
+    "category_name": "Herbicides / Weedicides",
     "description": "",
     "indication": "",
     "dosage": "",
     "side_effect": "",
     "crops_pests": "",
     "product_tags": [
-      "pendimethalin",
-      "unknown"
+      "herbicides",
+      "pendimethalin"
     ],
     "product_price": "",
     "reg_no": "AP-",
@@ -220,11 +253,11 @@
     "extraction_date": "2025-10-05T11:14:24.924350"
   },
   {
-    "product_id": "MBL-001",
+    "product_id": "MBL-011",
     "product_name": "Fullmoon 9OD",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Imidacloprid 7% + Beta- Cyfluthrin 2%",
-    "category_name": "Unknown",
+    "category_name": "Insecticides",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -232,7 +265,7 @@
     "crops_pests": "",
     "product_tags": [
       "imidacloprid 7% + beta- cyfluthrin 2%",
-      "unknown"
+      "insecticides"
     ],
     "product_price": "",
     "reg_no": "AP-",
@@ -242,11 +275,11 @@
     "extraction_date": "2025-10-05T11:14:24.925343"
   },
   {
-    "product_id": "MBL-002",
+    "product_id": "MBL-012",
     "product_name": "Lambdafos 33 EC",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Profenoso 30% + Lambda-cyhalothrin 3%",
-    "category_name": "Unknown",
+    "category_name": "Insecticides",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -254,7 +287,7 @@
     "crops_pests": "",
     "product_tags": [
       "profenoso 30% + lambda-cyhalothrin 3%",
-      "unknown"
+      "insecticides"
     ],
     "product_price": "",
     "reg_no": "AP-",
@@ -264,19 +297,19 @@
     "extraction_date": "2025-10-05T11:14:24.925343"
   },
   {
-    "product_id": "MBL-003",
+    "product_id": "MBL-013",
     "product_name": "Indoxiprid 22.2 SC",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Indoxacarb 14.5% + Acetamiprid 7.7%",
-    "category_name": "Unknown",
+    "category_name": "Insecticides",
     "description": "",
     "indication": "",
     "dosage": "",
     "side_effect": "",
     "crops_pests": "",
     "product_tags": [
-      "indoxacarb 14.5% + acetamiprid 7.7%",
-      "unknown"
+      "insecticides",
+      "indoxacarb 14.5% + acetamiprid 7.7%"
     ],
     "product_price": "",
     "reg_no": "AP-5698",
@@ -286,19 +319,19 @@
     "extraction_date": "2025-10-05T11:14:24.925343"
   },
   {
-    "product_id": "MBL-004",
+    "product_id": "MBL-014",
     "product_name": "Abamid 38WDG",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Abamectin 2% + Imidacloprid 36%",
-    "category_name": "Unknown",
+    "category_name": "Insecticides",
     "description": "",
     "indication": "",
     "dosage": "",
     "side_effect": "",
     "crops_pests": "",
     "product_tags": [
-      "abamectin 2% + imidacloprid 36%",
-      "unknown"
+      "insecticides",
+      "abamectin 2% + imidacloprid 36%"
     ],
     "product_price": "",
     "reg_no": "AP-5684",
@@ -308,11 +341,11 @@
     "extraction_date": "2025-10-05T11:14:24.925343"
   },
   {
-    "product_id": "MBL-005",
+    "product_id": "MBL-015",
     "product_name": "Pullet 50% (Effervescent Tablet)",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Pymetrozine",
-    "category_name": "Unknown",
+    "category_name": "Insecticides",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -320,7 +353,7 @@
     "crops_pests": "",
     "product_tags": [
       "pymetrozine",
-      "unknown"
+      "insecticides"
     ],
     "product_price": "",
     "reg_no": "AP-5570",
@@ -330,19 +363,19 @@
     "extraction_date": "2025-10-05T11:14:24.925343"
   },
   {
-    "product_id": "MBL-006",
+    "product_id": "MBL-016",
     "product_name": "Lutham 40 WDG",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Thiamethoxam 30% + Lufenuron 10%",
-    "category_name": "Unknown",
+    "category_name": "Insecticides",
     "description": "",
     "indication": "",
     "dosage": "",
     "side_effect": "",
     "crops_pests": "",
     "product_tags": [
-      "thiamethoxam 30% + lufenuron 10%",
-      "unknown"
+      "insecticides",
+      "thiamethoxam 30% + lufenuron 10%"
     ],
     "product_price": "",
     "reg_no": "AP-5522",
@@ -352,11 +385,11 @@
     "extraction_date": "2025-10-05T11:14:24.925343"
   },
   {
-    "product_id": "MBL-007",
+    "product_id": "MBL-017",
     "product_name": "Sigmazel 6WDG",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Emamectin Benzoate 4% + Beta Cypermethrin 2%",
-    "category_name": "Unknown",
+    "category_name": "Insecticides",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -364,7 +397,7 @@
     "crops_pests": "",
     "product_tags": [
       "emamectin benzoate 4% + beta cypermethrin 2%",
-      "unknown"
+      "insecticides"
     ],
     "product_price": "",
     "reg_no": "AP-5236",
@@ -374,11 +407,11 @@
     "extraction_date": "2025-10-05T11:14:24.925343"
   },
   {
-    "product_id": "MBL-008",
+    "product_id": "MBL-018",
     "product_name": "Sunabaprid 4EC",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Abamectin 1% + Acetamiprid 3%",
-    "category_name": "Unknown",
+    "category_name": "Insecticides",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -386,7 +419,7 @@
     "crops_pests": "",
     "product_tags": [
       "abamectin 1% + acetamiprid 3%",
-      "unknown"
+      "insecticides"
     ],
     "product_price": "",
     "reg_no": "AP-5230",
@@ -396,11 +429,11 @@
     "extraction_date": "2025-10-05T11:14:24.925343"
   },
   {
-    "product_id": "MBL-009",
+    "product_id": "MBL-019",
     "product_name": "Sunine 6WDG",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Abamectin 2% + Emamectin Benzoate 4%",
-    "category_name": "Unknown",
+    "category_name": "Insecticides",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -408,7 +441,7 @@
     "crops_pests": "",
     "product_tags": [
       "abamectin 2% + emamectin benzoate 4%",
-      "unknown"
+      "insecticides"
     ],
     "product_price": "",
     "reg_no": "AP-4878",
@@ -418,11 +451,11 @@
     "extraction_date": "2025-10-05T11:14:24.925343"
   },
   {
-    "product_id": "MBL-010",
+    "product_id": "MBL-020",
     "product_name": "McNil 3GR",
-    "product_image": "",
+    "product_image": "images/MBL-020.jpg",
     "medicine_name": "Fipronil",
-    "category_name": "Unknown",
+    "category_name": "Insecticides",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -430,7 +463,7 @@
     "crops_pests": "",
     "product_tags": [
       "fipronil",
-      "unknown"
+      "insecticides"
     ],
     "product_price": "",
     "reg_no": "AP -3787",
@@ -440,41 +473,49 @@
     "extraction_date": "2025-10-05T11:14:24.925343"
   },
   {
-    "product_id": "MBL-011",
+    "product_id": "MBL-021",
     "product_name": "Suntap 50 SP",
-    "product_image": "",
+    "product_image": "images/MBL-021.jpg",
     "medicine_name": "Cartap",
-    "category_name": "Unknown",
+    "category_name": "Insecticides",
     "description": "Suntap 50SP (Cartap) – Systemic.",
     "indication": "",
-    "dosage": "",
+    "dosage": "25 gm/ 10 L water i.e.500 gm / acre (YSB & GLH); 30 gm / 10 L water i.e. 600 gm / acre (BPH); 15 gm / 10 L water i.e. 300 gm / acre (HISPA); 10 gm / 10 L water i.e. 200 gm / acre (BSFB); 15 gm /10 L water (Mango)",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Yellow Stem Borer, Green Leaf Hopper, BPH & Hispa of Rice,; BSFB of Brinjal,; Mango Fruit Borer",
     "product_tags": [
+      "insecticides",
+      "yellow stem borer, green leaf hopper, bph & hispa of rice,",
       "cartap",
-      "unknown"
+      "bsfb of brinjal,",
+      "mango fruit borer"
     ],
     "product_price": "",
     "reg_no": "AP - 217",
     "serial_no": "11",
     "product_url": "https://www.mcdonaldbd.com/product/suntap-50-sp/",
     "origin": "Sundat, Singapore",
-    "extraction_date": "2025-10-05T11:14:24.925343"
+    "extraction_date": "2025-10-05T11:14:24.925343",
+    "additional_images": [
+      "images/MBL-021_(1).jpg",
+      "images/MBL-021_(2).jpg",
+      "images/MBL-021_(3).png"
+    ]
   },
   {
-    "product_id": "MBL-012",
+    "product_id": "MBL-022",
     "product_name": "Suntap Plus 50WP",
-    "product_image": "",
+    "product_image": "images/MBL-022.jpg",
     "medicine_name": "Cartap hydrochloride 47.5% + Fipronil 2.5%",
-    "category_name": "Unknown",
+    "category_name": "Insecticides",
     "description": "",
     "indication": "",
     "dosage": "",
     "side_effect": "",
     "crops_pests": "",
     "product_tags": [
-      "cartap hydrochloride 47.5% + fipronil 2.5%",
-      "unknown"
+      "insecticides",
+      "cartap hydrochloride 47.5% + fipronil 2.5%"
     ],
     "product_price": "",
     "reg_no": "AP - 4499",
@@ -484,41 +525,53 @@
     "extraction_date": "2025-10-05T11:14:24.925343"
   },
   {
-    "product_id": "MBL-013",
+    "product_id": "MBL-023",
     "product_name": "Gain 20SL",
-    "product_image": "",
+    "product_image": "images/MBL-023.jpg",
     "medicine_name": "Imidacloprid",
-    "category_name": "Unknown",
+    "category_name": "Insecticides",
     "description": "GAIN 20SL (IMIDACLOPRID) – Systemic Insecticide.",
     "indication": "",
-    "dosage": "",
+    "dosage": "50 ml / acre (Rice); 40 ml / acre (Brinjal); 400 ml / acre (Cotton); 400 ml / acre (S.cane); 600 ml / acre (Tea)",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "BPH of rice,; Aphid & Jassid of vegetables & cotton,; Termites of Sugarcane & Tea.",
     "product_tags": [
+      "aphid & jassid of vegetables & cotton,",
+      "insecticides",
       "imidacloprid",
-      "unknown"
+      "termites of sugarcane & tea.",
+      "bph of rice,"
     ],
     "product_price": "",
     "reg_no": "AP-1005",
     "serial_no": "13",
     "product_url": "https://www.mcdonaldbd.com/product/gain-20sl/",
     "origin": "Asiatic, Singapore",
-    "extraction_date": "2025-10-05T11:14:24.925343"
+    "extraction_date": "2025-10-05T11:14:24.925343",
+    "additional_images": [
+      "images/MBL-023_(1).jpg",
+      "images/MBL-023_(2).jpg",
+      "images/MBL-023_(3).jpg",
+      "images/MBL-023_(4).jpg",
+      "images/MBL-023_(5).jpg",
+      "images/MBL-023_(6).jpg",
+      "images/MBL-023_(7).jpg"
+    ]
   },
   {
-    "product_id": "MBL-014",
+    "product_id": "MBL-024",
     "product_name": "Gain Super 70WG",
-    "product_image": "",
+    "product_image": "images/MBL-024.jpg",
     "medicine_name": "Imidacloprid 70%",
-    "category_name": "Unknown",
+    "category_name": "Insecticides",
     "description": "",
     "indication": "",
     "dosage": "",
     "side_effect": "",
     "crops_pests": "",
     "product_tags": [
-      "imidacloprid 70%",
-      "unknown"
+      "insecticides",
+      "imidacloprid 70%"
     ],
     "product_price": "",
     "reg_no": "AP-3985",
@@ -528,207 +581,276 @@
     "extraction_date": "2025-10-05T11:14:24.925343"
   },
   {
-    "product_id": "MBL-015",
+    "product_id": "MBL-025",
     "product_name": "Vitabryl 85WP",
-    "product_image": "",
+    "product_image": "images/MBL-025.jpg",
     "medicine_name": "Carbaryl",
-    "category_name": "Unknown",
+    "category_name": "Insecticides",
     "description": "VITABRYL 85WP (CARBARYL) – Contact & Stomach.",
     "indication": "",
-    "dosage": "",
+    "dosage": "30 gm/ 10 L water i.e.600 gm / acre for all mentioned pests.",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Jute Hairy Caterpillar,; Hispa, GLH & BPH of rice,; Mango Hopper",
     "product_tags": [
+      "insecticides",
+      "hispa, glh & bph of rice,",
       "carbaryl",
-      "unknown"
+      "jute hairy caterpillar,",
+      "mango hopper"
     ],
     "product_price": "",
     "reg_no": "AP - 401",
     "serial_no": "15",
     "product_url": "https://www.mcdonaldbd.com/product/vitabryl-85wp/",
     "origin": "Asiatic, Singapore",
-    "extraction_date": "2025-10-05T11:14:24.925343"
+    "extraction_date": "2025-10-05T11:14:24.925343",
+    "additional_images": [
+      "images/MBL-025_(1).png",
+      "images/MBL-025_(2).png",
+      "images/MBL-025_(3).png"
+    ]
   },
   {
-    "product_id": "MBL-016",
+    "product_id": "MBL-026",
     "product_name": "Sabion 60EC",
-    "product_image": "",
+    "product_image": "images/MBL-026.png",
     "medicine_name": "Diazinon",
-    "category_name": "Unknown",
+    "category_name": "Insecticides",
     "description": "SABION /McZinex 60EC (DIAZINON): Contact, Stomach, Respiratory & Locally Penetrable.",
     "indication": "",
-    "dosage": "",
+    "dosage": "400-600 ml / acre (Rice); 400 ml / acre (Mustard); 400 ml / acre (Potato)",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Stem Borer, BPH, GLH & Gall Midge of rice,; Aphid of Potato, Mustard and some other vegetables",
     "product_tags": [
+      "insecticides",
+      "aphid of potato, mustard and some other vegetables",
       "diazinon",
-      "unknown"
+      "stem borer, bph, glh & gall midge of rice,"
     ],
     "product_price": "",
     "reg_no": "AP - 160",
     "serial_no": "16",
     "product_url": "https://www.mcdonaldbd.com/product/sabion-60ec/",
     "origin": "Sundat,  Singapore",
-    "extraction_date": "2025-10-05T11:14:24.925343"
+    "extraction_date": "2025-10-05T11:14:24.925343",
+    "additional_images": [
+      "images/MBL-026_(1).jpg",
+      "images/MBL-026_(2).jpg",
+      "images/MBL-026_(3).png",
+      "images/MBL-026_(4).jpg",
+      "images/MBL-026_(5).jpg"
+    ]
   },
   {
-    "product_id": "MBL-017",
+    "product_id": "MBL-027",
     "product_name": "Sunmerin 10EC",
-    "product_image": "",
+    "product_image": "images/MBL-027.jpg",
     "medicine_name": "Cypermethrin",
-    "category_name": "Unknown",
+    "category_name": "Insecticides",
     "description": "Sunmerin 10EC (Cypermethrin) – Synthetic Pyrethroid, Contact & Stomach.",
     "indication": "",
-    "dosage": "",
+    "dosage": "10 ml /10 L water (Mango); 250 ml / acre (Cotton); 200 ml / acre (Tea)",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Mango Hopper,; Cotton Bollworm,; Tea Mosquito Bug (Helopeltis)",
     "product_tags": [
+      "cotton bollworm,",
+      "insecticides",
       "cypermethrin",
-      "unknown"
+      "tea mosquito bug (helopeltis)",
+      "mango hopper,"
     ],
     "product_price": "",
     "reg_no": "AP - 209",
     "serial_no": "17",
     "product_url": "https://www.mcdonaldbd.com/product/sunmerin-10ec/",
     "origin": "Sundat, Singapore",
-    "extraction_date": "2025-10-05T11:14:24.925343"
+    "extraction_date": "2025-10-05T11:14:24.925343",
+    "additional_images": [
+      "images/MBL-027_(1).png",
+      "images/MBL-027_(2).png",
+      "images/MBL-027_(3).jpg",
+      "images/MBL-027_(4).jpg"
+    ]
   },
   {
-    "product_id": "MBL-018",
+    "product_id": "MBL-028",
     "product_name": "Sunvelarate 20EC",
-    "product_image": "",
+    "product_image": "images/MBL-028.jpg",
     "medicine_name": "Fenvelarate",
     "category_name": "Unknown",
     "description": "Sunvalerate 20EC (Fenvalerate) – Synthetic Pyrethroid, Contact & Stomach.",
     "indication": "",
-    "dosage": "",
+    "dosage": "5 ml /10 L water (Mango); 10 ml /10 L water (Bean)",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Mango Hopper,; Bean Pod Borer",
     "product_tags": [
       "fenvelarate",
-      "unknown"
+      "bean pod borer",
+      "unknown",
+      "mango hopper,"
     ],
     "product_price": "",
     "reg_no": "AP - 250",
     "serial_no": "18",
     "product_url": "https://www.mcdonaldbd.com/product/sunvelarate-20ec/",
     "origin": "Sundat, Singapore",
-    "extraction_date": "2025-10-05T11:14:24.925343"
+    "extraction_date": "2025-10-05T11:14:24.925343",
+    "additional_images": [
+      "images/MBL-028_(1).png",
+      "images/MBL-028_(2).png",
+      "images/MBL-028_(3).png"
+    ]
   },
   {
-    "product_id": "MBL-019",
+    "product_id": "MBL-029",
     "product_name": "McDoate 5 WDG",
-    "product_image": "",
+    "product_image": "images/MBL-029.jpg",
     "medicine_name": "Emamectin Benzoate",
-    "category_name": "Unknown",
+    "category_name": "Insecticides",
     "description": "Non-systemic having capacity of trans-laminar movement to penetrate into leave tissue;",
     "indication": "",
     "dosage": "",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Brinjal Shoot & Fruit Borer (BSFB),; Bean Pod Borer,; Long Yard Bean Pod Borer,; Lady’s finger fruit borer,; Spodoptera & Helicoverpa of Tomato & cotton",
     "product_tags": [
+      "insecticides",
+      "brinjal shoot & fruit borer (bsfb),",
       "emamectin benzoate",
-      "unknown"
+      "long yard bean pod borer,",
+      "bean pod borer,"
     ],
     "product_price": "",
     "reg_no": "AP-3717",
     "serial_no": "19",
     "product_url": "https://www.mcdonaldbd.com/product/mcdoate-5-sg/",
     "origin": "Asiatic, Singapore",
-    "extraction_date": "2025-10-05T11:14:24.925343"
+    "extraction_date": "2025-10-05T11:14:24.925343",
+    "additional_images": [
+      "images/MBL-029_(1).jpg",
+      "images/MBL-029_(2).jpg",
+      "images/MBL-029_(3).jpg",
+      "images/MBL-029_(4).jpg"
+    ]
   },
   {
-    "product_id": "MBL-020",
+    "product_id": "MBL-030",
     "product_name": "Cyperphos 55EC",
-    "product_image": "",
+    "product_image": "images/MBL-030.png",
     "medicine_name": "Chlorpyriphos 50% + Cypermethrin 5% +",
-    "category_name": "Unknown",
+    "category_name": "Insecticides",
     "description": "Contact, Stomach, Respiratory & Nervous poisioning",
     "indication": "",
     "dosage": "",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Brinjal Aphid",
     "product_tags": [
-      "chlorpyriphos 50% + cypermethrin 5% +",
-      "unknown"
+      "brinjal aphid",
+      "insecticides",
+      "chlorpyriphos 50% + cypermethrin 5% +"
     ],
     "product_price": "",
     "reg_no": "AP – 3018",
     "serial_no": "20",
     "product_url": "https://www.mcdonaldbd.com/product/cyperphos-55ec/",
     "origin": "Asiatic, Singapore",
-    "extraction_date": "2025-10-05T11:14:24.925343"
+    "extraction_date": "2025-10-05T11:14:24.925343",
+    "additional_images": [
+      "images/MBL-030_(1).jpg"
+    ]
   },
   {
-    "product_id": "MBL-021",
+    "product_id": "MBL-031",
     "product_name": "Benefit 20EC",
-    "product_image": "",
+    "product_image": "images/MBL-031.jpg",
     "medicine_name": "Carbosulfan",
     "category_name": "Unknown",
     "description": "BENEFIT 20EC (CARBOSULFAN) – Systemic.",
     "indication": "",
-    "dosage": "",
+    "dosage": "400 ml / acre (Rice); 400 ml / acre (Brinjal); 500 ml / acre (Cotton); 500 ml / acre (Bean)",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "BPH of rice,; Brinjal Shoot & Fruit borer (BSFB),; Aphid & Jassid of Bean & Cotton.",
     "product_tags": [
       "carbosulfan",
-      "unknown"
+      "brinjal shoot & fruit borer (bsfb),",
+      "bph of rice,",
+      "unknown",
+      "aphid & jassid of bean & cotton."
     ],
     "product_price": "",
     "reg_no": "AP - 621",
     "serial_no": "21",
     "product_url": "https://www.mcdonaldbd.com/product/benefit-20ec/",
     "origin": "Asiatic, Singapore",
-    "extraction_date": "2025-10-05T11:14:24.925343"
+    "extraction_date": "2025-10-05T11:14:24.925343",
+    "additional_images": [
+      "images/MBL-031_(1).png",
+      "images/MBL-031_(2).jpg",
+      "images/MBL-031_(3).jpg"
+    ]
   },
   {
-    "product_id": "MBL-022",
+    "product_id": "MBL-032",
     "product_name": "Kriphate 75SP",
-    "product_image": "",
+    "product_image": "images/MBL-032.jpg",
     "medicine_name": "Acephate",
     "category_name": "Unknown",
     "description": "Kriphate 75SP (Acephate) – Broad spectrum Contact & stomach poisoning insecticide.",
     "indication": "",
-    "dosage": "",
+    "dosage": "10 g / L water; 200 g/acre (Helopeltis); 15 g / L water; 300 g/acre (BPH)",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Tea Mosquito bug (Helopeltis); BPH of rice",
     "product_tags": [
-      "acephate",
-      "unknown"
+      "tea mosquito bug (helopeltis)",
+      "unknown",
+      "bph of rice",
+      "acephate"
     ],
     "product_price": "",
     "reg_no": "AP -1417",
     "serial_no": "22",
     "product_url": "https://www.mcdonaldbd.com/product/kriphate-75sp/",
     "origin": "Krishi Rasayan, India",
-    "extraction_date": "2025-10-05T11:14:24.925343"
+    "extraction_date": "2025-10-05T11:14:24.925343",
+    "additional_images": [
+      "images/MBL-032_(1).png",
+      "images/MBL-032_(2).png",
+      "images/MBL-032_(3).png"
+    ]
   },
   {
-    "product_id": "MBL-023",
+    "product_id": "MBL-033",
     "product_name": "Kirifos 20EC",
-    "product_image": "",
+    "product_image": "images/MBL-033.jpg",
     "medicine_name": "Chlorpyrifos",
     "category_name": "Unknown",
     "description": "KIRIFOS 20EC (Chlorpyrifos) – Contact, Stomach & Respiratory.",
     "indication": "",
-    "dosage": "",
+    "dosage": "20-30 ml / 10 Lit water i.e. 400-600 ml/acre (Rice); 150 ml / 10 Lit water i.e. 3 Lit/acre (Potato); 200 ml / 10 Lit water i.e. 4 Lit/acre (Tea)",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "BPH of Rice,; Cut worm of Potato,; Termites of Tea",
     "product_tags": [
+      "cut worm of potato,",
       "chlorpyrifos",
-      "unknown"
+      "bph of rice,",
+      "unknown",
+      "termites of tea"
     ],
     "product_price": "",
     "reg_no": "AP - 945",
     "serial_no": "23",
     "product_url": "https://www.mcdonaldbd.com/product/kirifos-20ec/",
     "origin": "Krishi Rasayan, India",
-    "extraction_date": "2025-10-05T11:14:24.925343"
+    "extraction_date": "2025-10-05T11:14:24.925343",
+    "additional_images": [
+      "images/MBL-033_(1).png",
+      "images/MBL-033_(2).png",
+      "images/MBL-033_(3).png"
+    ]
   },
   {
-    "product_id": "MBL-024",
+    "product_id": "MBL-034",
     "product_name": "Alumphos 56%",
-    "product_image": "",
+    "product_image": "images/MBL-034.jpg",
     "medicine_name": "Aluminium Phosphide",
     "category_name": "Unknown",
     "description": "ALUMPHOS 56% (ALUMINIUM PHOSPHIDE) – Fumigant.",
@@ -745,36 +867,45 @@
     "serial_no": "24",
     "product_url": "https://www.mcdonaldbd.com/product/alumphos-56/",
     "origin": "Sundat, Singapore",
-    "extraction_date": "2025-10-05T11:14:24.925343"
+    "extraction_date": "2025-10-05T11:14:24.925343",
+    "additional_images": [
+      "images/MBL-034_(1).png",
+      "images/MBL-034_(2).png"
+    ]
   },
   {
-    "product_id": "MBL-025",
+    "product_id": "MBL-035",
     "product_name": "Sunthrin 2.5EC",
-    "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
+    "product_image": "images/MBL-035_(1).png",
     "medicine_name": "Bifenthrin",
     "category_name": "Unknown",
     "description": "SUNTHRIN 2.5EC (Bifenthrin) – Broad spectrum synthetic Pyrethroid, Contact & stomach poisoning.",
     "indication": "",
-    "dosage": "",
+    "dosage": "500 ml / ha (Helopeltis); 600 ml / ha (cotton)",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Tea Mosquito bug (Helopeltis); Cotton Bowl worm",
     "product_tags": [
       "bifenthrin",
-      "unknown"
+      "cotton bowl worm",
+      "unknown",
+      "tea mosquito bug (helopeltis)"
     ],
     "product_price": "",
     "reg_no": "AP-1277",
     "serial_no": "25",
     "product_url": "https://www.mcdonaldbd.com/product/sunthrin-2-5ec/",
     "origin": "Sundat, Singapore",
-    "extraction_date": "2025-10-05T11:14:24.925343"
+    "extraction_date": "2025-10-05T11:14:24.925343",
+    "additional_images": [
+      "images/MBL-035_(2).png"
+    ]
   },
   {
-    "product_id": "MBL-026",
+    "product_id": "MBL-036",
     "product_name": "Ether Plus 40 WG",
-    "product_image": "",
+    "product_image": "images/MBL-036.jpg",
     "medicine_name": "Emamectin Benzoate 20% + Thiamethoxam 20%",
-    "category_name": "Unknown",
+    "category_name": "Insecticides",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -782,7 +913,7 @@
     "crops_pests": "",
     "product_tags": [
       "emamectin benzoate 20% + thiamethoxam 20%",
-      "unknown"
+      "insecticides"
     ],
     "product_price": "",
     "reg_no": "AP - 4969",
@@ -792,11 +923,11 @@
     "extraction_date": "2025-10-05T11:14:24.925343"
   },
   {
-    "product_id": "MBL-027",
+    "product_id": "MBL-037",
     "product_name": "Binta 2EC",
-    "product_image": "",
+    "product_image": "images/MBL-037.jpg",
     "medicine_name": "Abamectin 0.6% + Beta-Cypermethrin 1.55%",
-    "category_name": "Unknown",
+    "category_name": "Insecticides",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -804,7 +935,7 @@
     "crops_pests": "",
     "product_tags": [
       "abamectin 0.6% + beta-cypermethrin 1.55%",
-      "unknown"
+      "insecticides"
     ],
     "product_price": "",
     "reg_no": "AP - 4935",
@@ -814,9 +945,9 @@
     "extraction_date": "2025-10-05T11:14:24.925343"
   },
   {
-    "product_id": "MBL-028",
+    "product_id": "MBL-038",
     "product_name": "Pyrin 20WP",
-    "product_image": "",
+    "product_image": "images/MBL-038.jpg",
     "medicine_name": "Pyridaben",
     "category_name": "Unknown",
     "description": "",
@@ -836,9 +967,9 @@
     "extraction_date": "2025-10-05T11:14:24.925343"
   },
   {
-    "product_id": "MBL-029",
+    "product_id": "MBL-039",
     "product_name": "Nyzin 80WDG",
-    "product_image": "",
+    "product_image": "images/MBL-039.jpg",
     "medicine_name": "Nitenpyram 20% + Pymetrozin 60%",
     "category_name": "Unknown",
     "description": "",
@@ -847,8 +978,8 @@
     "side_effect": "",
     "crops_pests": "",
     "product_tags": [
-      "nitenpyram 20% + pymetrozin 60%",
-      "unknown"
+      "unknown",
+      "nitenpyram 20% + pymetrozin 60%"
     ],
     "product_price": "",
     "reg_no": "AP- 4915",
@@ -858,29 +989,34 @@
     "extraction_date": "2025-10-05T11:14:24.925343"
   },
   {
-    "product_id": "MBL-030",
+    "product_id": "MBL-040",
     "product_name": "McZinex 60EC",
-    "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
+    "product_image": "images/MBL-040_(1).png",
     "medicine_name": "Diazinon",
-    "category_name": "Unknown",
+    "category_name": "Insecticides",
     "description": "SABION /McZinex 60EC (DIAZINON): Contact, Stomach, Respiratory & Locally Penetrable.",
     "indication": "",
-    "dosage": "",
+    "dosage": "400-600 ml / acre (Rice); 400 ml / acre (Mustard); 400 ml / acre (Potato)",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Stem Borer, BPH, GLH & Gall Midge of rice,; Aphid of Potato, Mustard and some other vegetables",
     "product_tags": [
+      "insecticides",
+      "aphid of potato, mustard and some other vegetables",
       "diazinon",
-      "unknown"
+      "stem borer, bph, glh & gall midge of rice,"
     ],
     "product_price": "",
     "reg_no": "AP-1434",
     "serial_no": "30",
     "product_url": "https://www.mcdonaldbd.com/product/mczinex-60ec/",
     "origin": "Panchem, Singapore",
-    "extraction_date": "2025-10-05T11:14:24.925343"
+    "extraction_date": "2025-10-05T11:14:24.925343",
+    "additional_images": [
+      "images/MBL-040_(2).png"
+    ]
   },
   {
-    "product_id": "MBL-031",
+    "product_id": "MBL-041",
     "product_name": "Vantage 56%",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Aluminium Phosphide",
@@ -902,11 +1038,11 @@
     "extraction_date": "2025-10-05T11:14:24.925343"
   },
   {
-    "product_id": "MBL-032",
+    "product_id": "MBL-042",
     "product_name": "Growell 50SP",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Cartap",
-    "category_name": "Unknown",
+    "category_name": "Insecticides",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -914,7 +1050,7 @@
     "crops_pests": "",
     "product_tags": [
       "cartap",
-      "unknown"
+      "insecticides"
     ],
     "product_price": "",
     "reg_no": "AP -3731",
@@ -924,33 +1060,46 @@
     "extraction_date": "2025-10-05T11:14:24.925343"
   },
   {
-    "product_id": "MBL-001",
+    "product_id": "MBL-043",
     "product_name": "Knowin 50WP",
-    "product_image": "",
+    "product_image": "images/MBL-043.jpg",
     "medicine_name": "Carbendazim",
-    "category_name": "Unknown",
+    "category_name": "Fungicides",
     "description": "KNOWIN 50WP (CARBENDAZIM) – Systemic.",
     "indication": "",
-    "dosage": "",
+    "dosage": "20 gm / 10 Lit water, 400 gm / acre (rice); 20 gm / 10 Lit water (guava); 10 gm / 10 Lit water (Mango); 20 gm / 10 Lit water (Banana); 20 gm / 10 Lit water (Onion); 10 gm / 10 Lit water (Sugarcane); 15 gm / 10 Lit water, 400 gm / acre (Tea),",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Sheath Blight of rice,; Anthracnose of Guava,; Anthracnose of Mango,; Sigatoga of Banana,; Purple Blotch of Onion,; Red rot & Wilt of sugarcane,; Red rust, Black rot, Dieback of Tea",
     "product_tags": [
+      "sheath blight of rice,",
+      "anthracnose of guava,",
       "carbendazim",
-      "unknown"
+      "anthracnose of mango,",
+      "fungicides"
     ],
     "product_price": "",
     "reg_no": "AP - 241",
     "serial_no": "1",
     "product_url": "https://www.mcdonaldbd.com/product/knowin-50wp/",
     "origin": "Sundat, Singapore",
-    "extraction_date": "2025-10-05T11:14:24.926109"
+    "extraction_date": "2025-10-05T11:14:24.926109",
+    "additional_images": [
+      "images/MBL-043_(1).jpg",
+      "images/MBL-043_(2).jpg",
+      "images/MBL-043_(3).jpg",
+      "images/MBL-043_(4).jpg",
+      "images/MBL-043_(5).jpg",
+      "images/MBL-043_(6).jpg",
+      "images/MBL-043_(7).jpg",
+      "images/MBL-043_(8).png"
+    ]
   },
   {
-    "product_id": "MBL-002",
+    "product_id": "MBL-044",
     "product_name": "Dazim 50WP",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Carbendazim",
-    "category_name": "Unknown",
+    "category_name": "Fungicides",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -958,7 +1107,7 @@
     "crops_pests": "",
     "product_tags": [
       "carbendazim",
-      "unknown"
+      "fungicides"
     ],
     "product_price": "",
     "reg_no": "AP-4608",
@@ -968,55 +1117,65 @@
     "extraction_date": "2025-10-05T11:14:24.926109"
   },
   {
-    "product_id": "MBL-003",
+    "product_id": "MBL-045",
     "product_name": "McVit 80DF",
-    "product_image": "",
+    "product_image": "images/MBL-045.jpg",
     "medicine_name": "Sulphur",
-    "category_name": "Unknown",
+    "category_name": "Fungicides",
     "description": "McVit 80DF(Sulphur)–Contact & Gas (Steam)",
     "indication": "",
-    "dosage": "",
+    "dosage": "2 gm / L of water.",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Powdery mildew of Cucurbits.",
     "product_tags": [
+      "powdery mildew of cucurbits.",
       "sulphur",
-      "unknown"
+      "fungicides"
     ],
     "product_price": "",
     "reg_no": "AP - 2439",
     "serial_no": "3",
     "product_url": "https://www.mcdonaldbd.com/product/mcvit-80df/",
     "origin": "Jaishil Sulphur and Chemical Ind. India",
-    "extraction_date": "2025-10-05T11:14:24.926109"
+    "extraction_date": "2025-10-05T11:14:24.926109",
+    "additional_images": [
+      "images/MBL-045_(1).jpg"
+    ]
   },
   {
-    "product_id": "MBL-004",
+    "product_id": "MBL-046",
     "product_name": "PolySuf 80WG",
-    "product_image": "",
+    "product_image": "images/MBL-046.jpg",
     "medicine_name": "Sulphur",
-    "category_name": "Unknown",
+    "category_name": "Fungicides",
     "description": "Polysuf 80WG(Sulphur)–Contact",
     "indication": "",
-    "dosage": "",
+    "dosage": "20 gm / 10 Lit of water, 400 gm / acre (cucurbit); 2.2 Kg / ha (Tea)",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Powdery Mildew of Cucurbits,; Red Spider mite of Tea",
     "product_tags": [
+      "red spider mite of tea",
       "sulphur",
-      "unknown"
+      "powdery mildew of cucurbits,",
+      "fungicides"
     ],
     "product_price": "",
     "reg_no": "AP-1401",
     "serial_no": "4",
     "product_url": "https://www.mcdonaldbd.com/product/polysuf-80wg/",
     "origin": "Sulphur Mills, India",
-    "extraction_date": "2025-10-05T11:14:24.926109"
+    "extraction_date": "2025-10-05T11:14:24.926109",
+    "additional_images": [
+      "images/MBL-046_(1).jpg",
+      "images/MBL-046_(2).jpg"
+    ]
   },
   {
-    "product_id": "MBL-005",
+    "product_id": "MBL-047",
     "product_name": "Sunzoxy 32.5 SC",
-    "product_image": "",
+    "product_image": "images/MBL-047.jpg",
     "medicine_name": "Azoxystrobin 20% + Difenoconazole 12.5%",
-    "category_name": "Unknown",
+    "category_name": "Fungicides",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -1024,7 +1183,7 @@
     "crops_pests": "",
     "product_tags": [
       "azoxystrobin 20% + difenoconazole 12.5%",
-      "unknown"
+      "fungicides"
     ],
     "product_price": "",
     "reg_no": "AP - 4658",
@@ -1034,11 +1193,11 @@
     "extraction_date": "2025-10-05T11:14:24.926109"
   },
   {
-    "product_id": "MBL-006",
+    "product_id": "MBL-048",
     "product_name": "Sunfighter 25SC",
-    "product_image": "",
+    "product_image": "images/MBL-048.jpg",
     "medicine_name": "Hexaconazole 3% + Tricyclazole 22%",
-    "category_name": "Unknown",
+    "category_name": "Fungicides",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -1046,7 +1205,7 @@
     "crops_pests": "",
     "product_tags": [
       "hexaconazole 3% + tricyclazole 22%",
-      "unknown"
+      "fungicides"
     ],
     "product_price": "",
     "reg_no": "AP - 3575",
@@ -1056,11 +1215,11 @@
     "extraction_date": "2025-10-05T11:14:24.926109"
   },
   {
-    "product_id": "MBL-007",
+    "product_id": "MBL-049",
     "product_name": "McVo 75WG",
-    "product_image": "",
+    "product_image": "images/MBL-049.jpg",
     "medicine_name": "Tebuconazole 50% + Trifloxystrobin 25%",
-    "category_name": "Unknown",
+    "category_name": "Fungicides",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -1068,7 +1227,7 @@
     "crops_pests": "",
     "product_tags": [
       "tebuconazole 50% + trifloxystrobin 25%",
-      "unknown"
+      "fungicides"
     ],
     "product_price": "",
     "reg_no": "AP - 4674",
@@ -1078,11 +1237,11 @@
     "extraction_date": "2025-10-05T11:14:24.926109"
   },
   {
-    "product_id": "MBL-008",
+    "product_id": "MBL-050",
     "product_name": "Cardion 50WP",
-    "product_image": "",
+    "product_image": "images/MBL-050.jpg",
     "medicine_name": "Iprodion 25% + Carbendazim 25%",
-    "category_name": "Unknown",
+    "category_name": "Fungicides",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -1090,7 +1249,7 @@
     "crops_pests": "",
     "product_tags": [
       "iprodion 25% + carbendazim 25%",
-      "unknown"
+      "fungicides"
     ],
     "product_price": "",
     "reg_no": "AP - 3632",
@@ -1100,55 +1259,74 @@
     "extraction_date": "2025-10-05T11:14:24.926109"
   },
   {
-    "product_id": "MBL-009",
+    "product_id": "MBL-051",
     "product_name": "Sunoxanil 72WP",
-    "product_image": "",
+    "product_image": "images/MBL-051.jpg",
     "medicine_name": "Cymoxanil + Mancozeb",
-    "category_name": "Unknown",
+    "category_name": "Fungicides",
     "description": "Sunoxanil 72WP (Cymoxanil + Mancozeb)– Contact & Systemic.",
     "indication": "",
-    "dosage": "",
+    "dosage": "40 gm / 10 Lit water, 800 gm / acre (Potato); 20 gm / 10 Lit water (Mango); 20 gm / 10 Lit water, 400 gm / acre (Onion); 20 gm / 10 Lit water, 400 gm / acre (Tomato)",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Late Blight of Potato,; Powdery mildew of Mango,; Purple Blotch of Onion,; Early & Late Blight of Tomato.",
     "product_tags": [
-      "cymoxanil + mancozeb",
-      "unknown"
+      "powdery mildew of mango,",
+      "purple blotch of onion,",
+      "late blight of potato,",
+      "fungicides",
+      "cymoxanil + mancozeb"
     ],
     "product_price": "",
     "reg_no": "AP - 796",
     "serial_no": "9",
     "product_url": "https://www.mcdonaldbd.com/product/sunoxanil-72wp/",
     "origin": "Sundat, Singapore",
-    "extraction_date": "2025-10-05T11:14:24.926109"
+    "extraction_date": "2025-10-05T11:14:24.926109",
+    "additional_images": [
+      "images/MBL-051_(1).png",
+      "images/MBL-051_(2).png",
+      "images/MBL-051_(3).png",
+      "images/MBL-051_(4).jpg",
+      "images/MBL-051_(5).jpg",
+      "images/MBL-051_(6).jpg"
+    ]
   },
   {
-    "product_id": "MBL-010",
+    "product_id": "MBL-052",
     "product_name": "More 72WP",
-    "product_image": "",
+    "product_image": "images/MBL-052.jpg",
     "medicine_name": "Mancozeb + Cymoxanil",
-    "category_name": "Unknown",
+    "category_name": "Fungicides",
     "description": "More 720WP(Cymoxanil + Mancozeb)–Contact, curative, preventive & Transleminer movement.",
     "indication": "",
-    "dosage": "",
+    "dosage": "2 gm / L of water",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Anthracnose of Mango.",
     "product_tags": [
+      "anthracnose of mango.",
       "mancozeb + cymoxanil",
-      "unknown"
+      "fungicides"
     ],
     "product_price": "",
     "reg_no": "AP - 2521",
     "serial_no": "10",
     "product_url": "https://www.mcdonaldbd.com/product/more-72wp/",
     "origin": "Asiatic, Singapore",
-    "extraction_date": "2025-10-05T11:14:24.926109"
+    "extraction_date": "2025-10-05T11:14:24.926109",
+    "additional_images": [
+      "images/MBL-052_(1).jpg",
+      "images/MBL-052_(2).jpg",
+      "images/MBL-052_(3).jpg",
+      "images/MBL-052_(4).png",
+      "images/MBL-052_(5).png"
+    ]
   },
   {
-    "product_id": "MBL-011",
+    "product_id": "MBL-053",
     "product_name": "McZeb 80WP",
-    "product_image": "",
+    "product_image": "images/MBL-053.jpg",
     "medicine_name": "Mancozeb",
-    "category_name": "Unknown",
+    "category_name": "Fungicides",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -1156,7 +1334,7 @@
     "crops_pests": "",
     "product_tags": [
       "mancozeb",
-      "unknown"
+      "fungicides"
     ],
     "product_price": "",
     "reg_no": "AP - 3597",
@@ -1166,55 +1344,68 @@
     "extraction_date": "2025-10-05T11:14:24.926109"
   },
   {
-    "product_id": "MBL-012",
+    "product_id": "MBL-054",
     "product_name": "CM 75WP",
-    "product_image": "",
+    "product_image": "images/MBL-054.jpg",
     "medicine_name": "Mancozeb + Carbedazim",
-    "category_name": "Unknown",
+    "category_name": "Fungicides",
     "description": "CM 75WP(Carbendazim + Mancozeb)–Contact & Systemic",
     "indication": "",
-    "dosage": "",
+    "dosage": "2 gm / L of water",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Early blight of Tomato",
     "product_tags": [
       "mancozeb + carbedazim",
-      "unknown"
+      "early blight of tomato",
+      "fungicides"
     ],
     "product_price": "",
     "reg_no": "AP - 2529",
     "serial_no": "12",
     "product_url": "https://www.mcdonaldbd.com/product/cm-75wp/",
     "origin": "Krishi Rassayan, India",
-    "extraction_date": "2025-10-05T11:14:24.926109"
+    "extraction_date": "2025-10-05T11:14:24.926109",
+    "additional_images": [
+      "images/MBL-054_(1).png",
+      "images/MBL-054_(2).png"
+    ]
   },
   {
-    "product_id": "MBL-013",
+    "product_id": "MBL-055",
     "product_name": "Krizole 5EC",
-    "product_image": "",
+    "product_image": "images/MBL-055.jpg",
     "medicine_name": "Hexaconazole",
-    "category_name": "Unknown",
+    "category_name": "Fungicides",
     "description": "Krizole 5EC (Hexaconazole)–Systemic.",
     "indication": "",
-    "dosage": "",
+    "dosage": "10 ml / 10 Lit water (Mango); 10 gm / 10 Lit water (Banana); 10 gm / 10 Lit water, 200 ml / acre (Rice)",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Anthracnose of Mango,; Sigatoga of Banana,; Sheath Blight of Rice",
     "product_tags": [
       "hexaconazole",
-      "unknown"
+      "sheath blight of rice",
+      "anthracnose of mango,",
+      "sigatoga of banana,",
+      "fungicides"
     ],
     "product_price": "",
     "reg_no": "AP-1199",
     "serial_no": "13",
     "product_url": "https://www.mcdonaldbd.com/product/krizole-5ec/",
     "origin": "Krishi Rasayan, India",
-    "extraction_date": "2025-10-05T11:14:24.926109"
+    "extraction_date": "2025-10-05T11:14:24.926109",
+    "additional_images": [
+      "images/MBL-055_(1).png",
+      "images/MBL-055_(2).png",
+      "images/MBL-055_(3).png"
+    ]
   },
   {
-    "product_id": "MBL-014",
+    "product_id": "MBL-056",
     "product_name": "Positive 30SE",
-    "product_image": "",
+    "product_image": "images/MBL-056.jpg",
     "medicine_name": "Propiconazole 15% + Difenoconazole 15%",
-    "category_name": "Unknown",
+    "category_name": "Fungicides",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -1222,7 +1413,7 @@
     "crops_pests": "",
     "product_tags": [
       "propiconazole 15% + difenoconazole 15%",
-      "unknown"
+      "fungicides"
     ],
     "product_price": "",
     "reg_no": "AP - 4615",
@@ -1232,55 +1423,67 @@
     "extraction_date": "2025-10-05T11:14:24.926109"
   },
   {
-    "product_id": "MBL-015",
+    "product_id": "MBL-057",
     "product_name": "Sunvit 50WP",
-    "product_image": "",
+    "product_image": "images/MBL-057.jpg",
     "medicine_name": "Copper Oxychloride",
-    "category_name": "Unknown",
+    "category_name": "Fungicides",
     "description": "SUNVIT 50WP(Copper Oxychloride)–Contact & Preventive.",
     "indication": "",
-    "dosage": "",
+    "dosage": "50 gm / 10 Lit of water, 1 Kg / acre",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Leaf Spot & Anthracnose of Chili,; Leaf spot of sesame,; Red Rust of Tea.",
     "product_tags": [
+      "leaf spot & anthracnose of chili,",
+      "leaf spot of sesame,",
       "copper oxychloride",
-      "unknown"
+      "fungicides",
+      "red rust of tea."
     ],
     "product_price": "",
     "reg_no": "AP - 527",
     "serial_no": "15",
     "product_url": "https://www.mcdonaldbd.com/product/sunvit-50wp/",
     "origin": "Sundat, Singapore",
-    "extraction_date": "2025-10-05T11:14:24.926109"
+    "extraction_date": "2025-10-05T11:14:24.926109",
+    "additional_images": [
+      "images/MBL-057_(1).png",
+      "images/MBL-057_(2).png"
+    ]
   },
   {
-    "product_id": "MBL-016",
+    "product_id": "MBL-058",
     "product_name": "Polyco 50 WP",
-    "product_image": "",
+    "product_image": "images/MBL-058.jpg",
     "medicine_name": "Copper Oxychloride",
-    "category_name": "Unknown",
+    "category_name": "Fungicides",
     "description": "Polyco 50WP(Copper Oxychloride)–Preventive",
     "indication": "",
-    "dosage": "",
+    "dosage": "70 gm / 10 Lit of water, 3.5 Kg / ha (oil crops); 56 gm / 10 Lit of water, 2.8 Kg / ha (Tea)",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Leaf Spot of Oil crops (specially Sesame),; Red Rust of Tea",
     "product_tags": [
+      "leaf spot of oil crops (specially sesame),",
+      "red rust of tea",
       "copper oxychloride",
-      "unknown"
+      "fungicides"
     ],
     "product_price": "",
     "reg_no": "AP - 1841",
     "serial_no": "16",
     "product_url": "https://www.mcdonaldbd.com/product/polyco-50-wp/",
     "origin": "Sulphur Mills, India",
-    "extraction_date": "2025-10-05T11:14:24.926109"
+    "extraction_date": "2025-10-05T11:14:24.926109",
+    "additional_images": [
+      "images/MBL-058_(1).png"
+    ]
   },
   {
-    "product_id": "MBL-017",
+    "product_id": "MBL-059",
     "product_name": "Sunpuma 54WP",
-    "product_image": "",
+    "product_image": "images/MBL-059.jpg",
     "medicine_name": "Kasugamycin 4% + Carbendazim 50%",
-    "category_name": "Unknown",
+    "category_name": "Fungicides",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -1288,7 +1491,7 @@
     "crops_pests": "",
     "product_tags": [
       "kasugamycin 4% + carbendazim 50%",
-      "unknown"
+      "fungicides"
     ],
     "product_price": "",
     "reg_no": "AP - 5039",
@@ -1298,19 +1501,19 @@
     "extraction_date": "2025-10-05T11:14:24.926109"
   },
   {
-    "product_id": "MBL-018",
+    "product_id": "MBL-060",
     "product_name": "Azox 50WG",
-    "product_image": "",
+    "product_image": "images/MBL-060.jpg",
     "medicine_name": "Azoxystrobin 50%",
-    "category_name": "Unknown",
+    "category_name": "Fungicides",
     "description": "",
     "indication": "",
     "dosage": "",
     "side_effect": "",
     "crops_pests": "",
     "product_tags": [
-      "azoxystrobin 50%",
-      "unknown"
+      "fungicides",
+      "azoxystrobin 50%"
     ],
     "product_price": "",
     "reg_no": "AP - 5054",
@@ -1320,7 +1523,7 @@
     "extraction_date": "2025-10-05T11:14:24.926109"
   },
   {
-    "product_id": "MBL-019",
+    "product_id": "MBL-061",
     "product_name": "Thiza 20SC",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Thifluzamide",
@@ -1331,8 +1534,8 @@
     "side_effect": "",
     "crops_pests": "",
     "product_tags": [
-      "thifluzamide",
-      "unknown"
+      "unknown",
+      "thifluzamide"
     ],
     "product_price": "",
     "reg_no": "AP-5052",
@@ -1342,11 +1545,11 @@
     "extraction_date": "2025-10-05T11:14:24.926109"
   },
   {
-    "product_id": "MBL-020",
+    "product_id": "MBL-062",
     "product_name": "Sunsarto 11WP",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Hexaconazole 2.5% + Validamycin 8.5%",
-    "category_name": "Unknown",
+    "category_name": "Fungicides",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -1354,7 +1557,7 @@
     "crops_pests": "",
     "product_tags": [
       "hexaconazole 2.5% + validamycin 8.5%",
-      "unknown"
+      "fungicides"
     ],
     "product_price": "",
     "reg_no": "AP-5050",
@@ -1364,7 +1567,7 @@
     "extraction_date": "2025-10-05T11:14:24.926109"
   },
   {
-    "product_id": "MBL-021",
+    "product_id": "MBL-063",
     "product_name": "Sunoscar 21.5WP",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Bismerthiozole 20% + Kasuga 1.5%",
@@ -1386,11 +1589,11 @@
     "extraction_date": "2025-10-05T11:14:24.926109"
   },
   {
-    "product_id": "MBL-022",
+    "product_id": "MBL-064",
     "product_name": "Sunca 50 SC",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Boscalid",
-    "category_name": "Unknown",
+    "category_name": "Fungicides",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -1398,7 +1601,7 @@
     "crops_pests": "",
     "product_tags": [
       "boscalid",
-      "unknown"
+      "fungicides"
     ],
     "product_price": "",
     "reg_no": "AP-5808",
@@ -1408,11 +1611,11 @@
     "extraction_date": "2025-10-05T11:14:24.926109"
   },
   {
-    "product_id": "MBL-023",
+    "product_id": "MBL-065",
     "product_name": "Sunzole Plus 70WP",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Fenoxanil 20% + Tricyclazole 50%",
-    "category_name": "Unknown",
+    "category_name": "Fungicides",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -1420,7 +1623,7 @@
     "crops_pests": "",
     "product_tags": [
       "fenoxanil 20% + tricyclazole 50%",
-      "unknown"
+      "fungicides"
     ],
     "product_price": "",
     "reg_no": "AP-5438",
@@ -1430,11 +1633,11 @@
     "extraction_date": "2025-10-05T11:14:24.926109"
   },
   {
-    "product_id": "MBL-024",
+    "product_id": "MBL-066",
     "product_name": "McSun 62.5WG",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Cyprodinil 37.5% + Fludioxonil 25%",
-    "category_name": "Unknown",
+    "category_name": "Fungicides",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -1442,7 +1645,7 @@
     "crops_pests": "",
     "product_tags": [
       "cyprodinil 37.5% + fludioxonil 25%",
-      "unknown"
+      "fungicides"
     ],
     "product_price": "",
     "reg_no": "AP-5388",
@@ -1452,11 +1655,11 @@
     "extraction_date": "2025-10-05T11:14:24.926109"
   },
   {
-    "product_id": "MBL-025",
+    "product_id": "MBL-067",
     "product_name": "Asavax 40WP",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Carboxin + Thiram",
-    "category_name": "Unknown",
+    "category_name": "Fungicides",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -1464,7 +1667,7 @@
     "crops_pests": "",
     "product_tags": [
       "carboxin + thiram",
-      "unknown"
+      "fungicides"
     ],
     "product_price": "",
     "reg_no": "AP-5101",
@@ -1474,63 +1677,76 @@
     "extraction_date": "2025-10-05T11:14:24.926109"
   },
   {
-    "product_id": "MBL-001",
+    "product_id": "MBL-068",
     "product_name": "Krosin –AG 10SP",
-    "product_image": "",
+    "product_image": "images/MBL-068.jpg",
     "medicine_name": "Streptomycin sulphate 9% + Tetracycline hydrochloride 1%",
-    "category_name": "Unknown",
+    "category_name": "Antibacterial Antibiotic",
     "description": "Systemic Action",
     "indication": "",
     "dosage": "",
     "side_effect": "",
     "crops_pests": "",
     "product_tags": [
-      "streptomycin sulphate 9% + tetracycline hydrochloride 1%",
-      "unknown"
+      "antibacterial antibiotic",
+      "streptomycin sulphate 9% + tetracycline hydrochloride 1%"
     ],
     "product_price": "",
     "reg_no": "AP - 3204",
     "serial_no": "1",
     "product_url": "https://www.mcdonaldbd.com/product/krosin-ag-10sp/",
     "origin": "Krishi Rasayan, India",
-    "extraction_date": "2025-10-05T11:14:24.926816"
+    "extraction_date": "2025-10-05T11:14:24.926816",
+    "additional_images": [
+      "images/MBL-068_(1).jpg",
+      "images/MBL-068_(2).jpg",
+      "images/MBL-068_(3).jpg",
+      "images/MBL-068_(4).jpg",
+      "images/MBL-068_(5).jpg"
+    ]
   },
   {
-    "product_id": "MBL-001",
+    "product_id": "MBL-069",
     "product_name": "Abom 1.8EC",
-    "product_image": "",
+    "product_image": "images/MBL-069.jpg",
     "medicine_name": "Abamectin",
-    "category_name": "Unknown",
+    "category_name": "Insecticides",
     "description": "Contact & Stomach Poisoning action",
     "indication": "",
     "dosage": "",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Red Spider mite of Tea,; Red mite of Brinjal & Cucurbits",
     "product_tags": [
+      "red mite of brinjal & cucurbits",
       "abamectin",
-      "unknown"
+      "insecticides",
+      "red spider mite of tea,"
     ],
     "product_price": "",
     "reg_no": "AP - 891",
     "serial_no": "1",
     "product_url": "https://www.mcdonaldbd.com/product/abom-1-8ec/",
     "origin": "Shawarat, Singapore",
-    "extraction_date": "2025-10-05T11:14:24.926816"
+    "extraction_date": "2025-10-05T11:14:24.926816",
+    "additional_images": [
+      "images/MBL-069_(1).jpg",
+      "images/MBL-069_(2).jpg"
+    ]
   },
   {
-    "product_id": "MBL-002",
+    "product_id": "MBL-070",
     "product_name": "Abom Super 3EW",
-    "product_image": "",
+    "product_image": "images/MBL-070.jpg",
     "medicine_name": "Abamectin 3%",
-    "category_name": "Unknown",
+    "category_name": "Insecticides",
     "description": "",
     "indication": "",
     "dosage": "",
     "side_effect": "",
     "crops_pests": "",
     "product_tags": [
-      "abamectin 3%",
-      "unknown"
+      "insecticides",
+      "abamectin 3%"
     ],
     "product_price": "",
     "reg_no": "AP - 4871",
@@ -1540,11 +1756,11 @@
     "extraction_date": "2025-10-05T11:14:24.926816"
   },
   {
-    "product_id": "MBL-003",
+    "product_id": "MBL-071",
     "product_name": "Sumite 57EC",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Propergite",
-    "category_name": "Unknown",
+    "category_name": "Acaricides / Miticides",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -1552,7 +1768,7 @@
     "crops_pests": "",
     "product_tags": [
       "propergite",
-      "unknown"
+      "acaricides"
     ],
     "product_price": "",
     "reg_no": "AP - 360",
@@ -1562,19 +1778,19 @@
     "extraction_date": "2025-10-05T11:14:24.926816"
   },
   {
-    "product_id": "MBL-004",
+    "product_id": "MBL-072",
     "product_name": "Fenmite 5SC",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Fenpyroximate",
-    "category_name": "Unknown",
+    "category_name": "Acaricides / Miticides",
     "description": "",
     "indication": "",
     "dosage": "",
     "side_effect": "",
     "crops_pests": "",
     "product_tags": [
-      "fenpyroximate",
-      "unknown"
+      "acaricides",
+      "fenpyroximate"
     ],
     "product_price": "",
     "reg_no": "AP-5308",
@@ -1584,11 +1800,11 @@
     "extraction_date": "2025-10-05T11:14:24.926816"
   },
   {
-    "product_id": "MBL-005",
+    "product_id": "MBL-073",
     "product_name": "Sunstar 10EC",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Fenazaquin",
-    "category_name": "Unknown",
+    "category_name": "Acaricides / Miticides",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -1596,7 +1812,7 @@
     "crops_pests": "",
     "product_tags": [
       "fenazaquin",
-      "unknown"
+      "acaricides"
     ],
     "product_price": "",
     "reg_no": "AP-5716",
@@ -1606,11 +1822,11 @@
     "extraction_date": "2025-10-05T11:14:24.926816"
   },
   {
-    "product_id": "MBL-001",
+    "product_id": "MBL-074",
     "product_name": "Magnol",
-    "product_image": "",
+    "product_image": "images/MBL-074.png",
     "medicine_name": "Triacontanol 0.05%  (500 mg/L)",
-    "category_name": "Unknown",
+    "category_name": "Plant Growth Regulator (PGR)",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -1618,7 +1834,7 @@
     "crops_pests": "",
     "product_tags": [
       "triacontanol 0.05%  (500 mg/l)",
-      "unknown"
+      "plant growth regulator (pgr)"
     ],
     "product_price": "",
     "reg_no": "IMP-3793",
@@ -1628,11 +1844,11 @@
     "extraction_date": "2025-10-05T11:14:24.926816"
   },
   {
-    "product_id": "MBL-002",
+    "product_id": "MBL-075",
     "product_name": "Brass 481 Plus",
-    "product_image": "",
+    "product_image": "images/MBL-075.jpg",
     "medicine_name": "Brassinolide 0.01% SP",
-    "category_name": "Unknown",
+    "category_name": "Plant Growth Regulator (PGR)",
     "description": "",
     "indication": "",
     "dosage": "",
@@ -1640,7 +1856,7 @@
     "crops_pests": "",
     "product_tags": [
       "brassinolide 0.01% sp",
-      "unknown"
+      "plant growth regulator (pgr)"
     ],
     "product_price": "",
     "reg_no": "IMP - 6132",
@@ -1650,19 +1866,20 @@
     "extraction_date": "2025-10-05T11:14:24.926816"
   },
   {
-    "product_id": "MBL-001",
+    "product_id": "MBL-076",
     "product_name": "McZinc Gold (Mono)",
-    "product_image": "",
+    "product_image": "images/MBL-076.jpg",
     "medicine_name": "Zinc Sulphate Mono Hydrate",
-    "category_name": "Unknown",
+    "category_name": "Fertilizers (Macro & Micro)",
     "description": "McZinc Gold (Zinc Sulphate Monohydrate): Zn = 36%, S = 17.5%.",
     "indication": "",
-    "dosage": "",
+    "dosage": "2-4 Kg /acre, but if Zn deficiency symptom appears the dose may be doubled.; Uses McZinc Gold as broadcast during final land preparation & before sowing/transplanting.; In case of rice, this can be use as top dressing mixed with urea when the plant age is 20-25 DAT.; If didn’t use during final land preparation, no tension, you can spray @ 20 gm / 10 Lit of water over the plants.; McZinc Gold can be mixed with any other fertilizer for use except Phosphate.",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Rice, Wheat, Maize, Cotton, Tea, Mustard, Potato, Onion, Chili, Mango, Banana, Betel leaf, Brinjal, Cabbage, cauliflower etc.",
     "product_tags": [
+      "fertilizers (macro & micro)",
       "zinc sulphate mono hydrate",
-      "unknown"
+      "rice, wheat, maize, cotton, tea, mustard, potato, onion, chili, mango, banana, betel leaf, brinjal, cabbage, cauliflower etc."
     ],
     "product_price": "",
     "reg_no": "IMP 1116",
@@ -1672,19 +1889,20 @@
     "extraction_date": "2025-10-05T11:14:24.926816"
   },
   {
-    "product_id": "MBL-002",
+    "product_id": "MBL-077",
     "product_name": "McZinc (Hepta)",
     "product_image": "https://www.mcdonaldbd.com/wp-content/themes/mc-donald/images/product-image.jpg",
     "medicine_name": "Zinc Sulphate Hepta Hydrate",
-    "category_name": "Unknown",
+    "category_name": "Fertilizers (Macro & Micro)",
     "description": "McZinc Hepta (Zinc Sulphate Heptahydrate): Zn = 21%, S= 10.5%.",
     "indication": "",
-    "dosage": "",
+    "dosage": "3-5 Kg /acre, but if Zn deficiency symptom appears the dose may be doubled.; Uses McZinc Gold as broadcast during final land preparation & before sowing/transplanting.; In case of rice, this can be use as top dressing mixed with urea when the plant age is 20-25 DAT.; If didn’t use during final land preparation, no tension, you can spray @ 30 gm / 10 Lit of water over the plants.; McZinc Gold can be mixed with any other fertilizers for use except Phosphate.",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Rice, Wheat, Maize, Cotton, Tea, Mustard, Potato, Onion, Chili, Mango, Banana, Betel leaf, Brinjal, Cabbage, cauliflower etc.",
     "product_tags": [
-      "zinc sulphate hepta hydrate",
-      "unknown"
+      "fertilizers (macro & micro)",
+      "rice, wheat, maize, cotton, tea, mustard, potato, onion, chili, mango, banana, betel leaf, brinjal, cabbage, cauliflower etc.",
+      "zinc sulphate hepta hydrate"
     ],
     "product_price": "",
     "reg_no": "IMP 1117",
@@ -1694,19 +1912,22 @@
     "extraction_date": "2025-10-05T11:14:24.926816"
   },
   {
-    "product_id": "MBL-003",
+    "product_id": "MBL-078",
     "product_name": "McSium",
-    "product_image": "",
+    "product_image": "images/MBL-078.jpg",
     "medicine_name": "Magnesium Sulphate/MgSO4",
-    "category_name": "Unknown",
+    "category_name": "Fertilizers (Macro & Micro)",
     "description": "McSium (Magnesium Sulphate): Mg = 9.5%, S = 12.5%.",
     "indication": "",
-    "dosage": "",
+    "dosage": "3-6 Kg / Bigha (33 decimal); 4-8 Kg / Bigha (33 decimal); 200-300 gm / Tree; Both before and after sowing/transplanting it can be used as broadcast.",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Rice, Wheat & Maize; Potato, Chili, Tomato, Brinjal, Potol, Cabbages, Cauliflowers etc.; Mango, Banana, Jackfruit, Papaya and others fruits.",
     "product_tags": [
+      "fertilizers (macro & micro)",
+      "rice, wheat & maize",
       "magnesium sulphate/mgso4",
-      "unknown"
+      "mango, banana, jackfruit, papaya and others fruits.",
+      "potato, chili, tomato, brinjal, potol, cabbages, cauliflowers etc."
     ],
     "product_price": "",
     "reg_no": "IMP 1115",
@@ -1716,19 +1937,19 @@
     "extraction_date": "2025-10-05T11:14:24.926816"
   },
   {
-    "product_id": "MBL-004",
+    "product_id": "MBL-079",
     "product_name": "McBoron",
-    "product_image": "",
+    "product_image": "images/MBL-079.png",
     "medicine_name": "Boric Acid",
-    "category_name": "Unknown",
+    "category_name": "Fertilizers (Macro & Micro)",
     "description": "Boron = 17%.",
     "indication": "",
     "dosage": "",
     "side_effect": "",
     "crops_pests": "",
     "product_tags": [
-      "boric acid",
-      "unknown"
+      "fertilizers (macro & micro)",
+      "boric acid"
     ],
     "product_price": "",
     "reg_no": "IMP 1215",
@@ -1738,19 +1959,20 @@
     "extraction_date": "2025-10-05T11:14:24.926816"
   },
   {
-    "product_id": "MBL-005",
+    "product_id": "MBL-080",
     "product_name": "McChili",
-    "product_image": "",
+    "product_image": "images/MBL-080.jpg",
     "medicine_name": "Chelated Zinc",
-    "category_name": "Unknown",
+    "category_name": "Fertilizers (Macro & Micro)",
     "description": "McChili (Chelated Zinc): Zn = 10%.",
     "indication": "",
-    "dosage": "",
+    "dosage": "17 gm / Bigha (33 decimal); First of all take 100 ml of water in a pot, then add 17 gm McChili in the water and mix it well.; Then take 20ml of this mixture in 10 Lit of water and mix it well and spray.; We can use the first prepared 100 ml 5 times i.e. 5 X 10 Lit = 50 Lit of water i.e. 100 ml original preparation for 50 Lit of water for 1 bigha.; In case of rice, 1stspray should be done 3 weeks after transplanting and 2ndspray 6 weeks after transplanting.",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "All crops and vegetables",
     "product_tags": [
+      "fertilizers (macro & micro)",
       "chelated zinc",
-      "unknown"
+      "all crops and vegetables"
     ],
     "product_price": "",
     "reg_no": "IMP 1216",
@@ -1760,19 +1982,19 @@
     "extraction_date": "2025-10-05T11:14:24.926816"
   },
   {
-    "product_id": "MBL-006",
+    "product_id": "MBL-081",
     "product_name": "Solubor Boron",
-    "product_image": "",
+    "product_image": "images/MBL-081.jpg",
     "medicine_name": "Boron 20%",
-    "category_name": "Unknown",
+    "category_name": "Fertilizers (Macro & Micro)",
     "description": "",
     "indication": "",
     "dosage": "",
     "side_effect": "",
     "crops_pests": "",
     "product_tags": [
-      "boron 20%",
-      "unknown"
+      "fertilizers (macro & micro)",
+      "boron 20%"
     ],
     "product_price": "",
     "reg_no": "IMP - 5711",
