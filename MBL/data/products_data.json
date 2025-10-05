@@ -35,7 +35,7 @@
     "category_name": "Herbicides / Weedicides",
     "description": "Systemic, Non-selective, Early post-emergence herbicide",
     "indication": "",
-    "dosage": "",
+    "dosage": "75 ml / 10 Lit of water 1.5 Lit / acre",
     "side_effect": "",
     "crops_pests": "Weeds of Tea garden; Weeds of Rubber Garden; Weeds of fallow land",
     "product_tags": [
@@ -93,9 +93,9 @@
     "category_name": "Herbicides / Weedicides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "For Tea weeds : 3.0 Kg/ha or 1.2 Kg/acre; 2; 400",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Tea Weeds e.g. Bagrakot, Ulu; & Solutions; mation                      :; & Pests                      :; Tea weeds : 3.0 Kg/ha or 1.2 Kg/acre",
     "product_tags": [
       "herbicides",
       "bensulfuron methyl 4% + acetachlor 14%"
@@ -115,9 +115,9 @@
     "category_name": "Herbicides / Weedicides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "@ 650 ml/ha or 260 ml/acre; 260",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Jute weeds e.g. Soto sheyama, Anguli ghash etc.; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "herbicides",
       "quizalofop-p-ethyl"
@@ -137,9 +137,9 @@
     "category_name": "Herbicides / Weedicides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "3 ml/L of water",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "– Weeds of Banana garden; & Solutions; mation                      :; & Pests                      :; Banana garden",
     "product_tags": [
       "herbicides",
       "paraquat 24%"
@@ -216,9 +216,9 @@
     "category_name": "Herbicides / Weedicides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "1.50 Kg/ha",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Wheat weeds: C.album, P.heterophylla, A. viritus, P. oleracea; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "herbicides",
       "carfentrazone-ethy 0.75 % + isoproturon 50%"
@@ -238,9 +238,9 @@
     "category_name": "Herbicides / Weedicides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "1.0 L/ha",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Potato weeds:; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "herbicides",
       "pendimethalin"
@@ -260,9 +260,9 @@
     "category_name": "Insecticides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "0.5 ml/L of water",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Brinjal Aphid; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "imidacloprid 7% + beta- cyfluthrin 2%",
       "insecticides"
@@ -282,9 +282,9 @@
     "category_name": "Insecticides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "1.0 ml/L of water",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Mango Hopper; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "profenoso 30% + lambda-cyhalothrin 3%",
       "insecticides"
@@ -304,9 +304,9 @@
     "category_name": "Insecticides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "1 ml/L of water",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Brinjal Aphid; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "insecticides",
       "indoxacarb 14.5% + acetamiprid 7.7%"
@@ -326,9 +326,9 @@
     "category_name": "Insecticides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "125 g/ha",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Rice BPH; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "insecticides",
       "abamectin 2% + imidacloprid 36%"
@@ -348,9 +348,9 @@
     "category_name": "Insecticides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "200 g/ha",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Rice BPH; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "pymetrozine",
       "insecticides"
@@ -370,9 +370,9 @@
     "category_name": "Insecticides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "150 g/ha",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Tea Aphid; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "insecticides",
       "thiamethoxam 30% + lufenuron 10%"
@@ -392,9 +392,9 @@
     "category_name": "Insecticides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "500 g/ha",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Tea Red Spider Mite; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "emamectin benzoate 4% + beta cypermethrin 2%",
       "insecticides"
@@ -414,9 +414,9 @@
     "category_name": "Insecticides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "500 ml /ha",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Tea Red Spider Mite; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "abamectin 1% + acetamiprid 3%",
       "insecticides"
@@ -436,9 +436,9 @@
     "category_name": "Insecticides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "0.5 g/Liter of water",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Brinjal aphid; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "abamectin 2% + emamectin benzoate 4%",
       "insecticides"
@@ -458,9 +458,9 @@
     "category_name": "Insecticides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "10 kg/ha or 4 Kg/acre; 4",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Rice yellow Stem Borer; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "fipronil",
       "insecticides"
@@ -510,9 +510,9 @@
     "category_name": "Insecticides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "750 gm/ha or 300 gm/acre; 300",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Rice Yellow Stem Borer; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "insecticides",
       "cartap hydrochloride 47.5% + fipronil 2.5%"
@@ -566,9 +566,9 @@
     "category_name": "Insecticides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "35.70 gm/ha or 15 gm/acre; 15",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Rice BPH; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "insecticides",
       "imidacloprid 70%"
@@ -709,7 +709,7 @@
     "category_name": "Insecticides",
     "description": "Non-systemic having capacity of trans-laminar movement to penetrate into leave tissue;",
     "indication": "",
-    "dosage": "",
+    "dosage": "10 gm / 10 Liter of water",
     "side_effect": "",
     "crops_pests": "Brinjal Shoot & Fruit Borer (BSFB),; Bean Pod Borer,; Long Yard Bean Pod Borer,; Lady’s finger fruit borer,; Spodoptera & Helicoverpa of Tomato & cotton",
     "product_tags": [
@@ -740,7 +740,7 @@
     "category_name": "Insecticides",
     "description": "Contact, Stomach, Respiratory & Nervous poisioning",
     "indication": "",
-    "dosage": "",
+    "dosage": "1ml / L water; 200ml/acre; 200",
     "side_effect": "",
     "crops_pests": "Brinjal Aphid",
     "product_tags": [
@@ -855,9 +855,9 @@
     "category_name": "Unknown",
     "description": "ALUMPHOS 56% (ALUMINIUM PHOSPHIDE) – Fumigant.",
     "indication": "",
-    "dosage": "",
+    "dosage": "4 tablets / M.Ton of stored grain/products.",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "& Solutions; mation                      :; & Pests                      :; e.g. rice moth/grain moth; Rice",
     "product_tags": [
       "aluminium phosphide",
       "unknown"
@@ -908,9 +908,9 @@
     "category_name": "Insecticides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "Tea Helopeltis (Tea Mosquito Bug) @ 100 g/ha",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Tea Helopeltis (Tea Mosquito Bug); & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "emamectin benzoate 20% + thiamethoxam 20%",
       "insecticides"
@@ -930,9 +930,9 @@
     "category_name": "Insecticides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "@ 500 ml / ha",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Tea Red Spider Mites; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "abamectin 0.6% + beta-cypermethrin 1.55%",
       "insecticides"
@@ -952,9 +952,9 @@
     "category_name": "Unknown",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "@ 500 g /ha i.e. 1.0 g / L of water",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Tea Red Spider Mite; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "pyridaben",
       "unknown"
@@ -974,9 +974,9 @@
     "category_name": "Unknown",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "@ 0.5 g/L of Water",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Brinjal Aphid; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "unknown",
       "nitenpyram 20% + pymetrozin 60%"
@@ -1023,9 +1023,9 @@
     "category_name": "Unknown",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "Home",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": ".; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "aluminium phosphide",
       "unknown"
@@ -1045,9 +1045,9 @@
     "category_name": "Insecticides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "Home",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": ".; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "cartap",
       "insecticides"
@@ -1102,9 +1102,9 @@
     "category_name": "Fungicides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "1 kg/ha,; 20 ml/10 L",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Mango anthracnose; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "carbendazim",
       "fungicides"
@@ -1178,9 +1178,9 @@
     "category_name": "Fungicides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "@ 1.0 ml / L of water",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Mango Anthracnose; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "azoxystrobin 20% + difenoconazole 12.5%",
       "fungicides"
@@ -1200,9 +1200,9 @@
     "category_name": "Fungicides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "Mango Antrhacnose @ 0.5 ml/ L of water",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Mango Antrhacnose; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "hexaconazole 3% + tricyclazole 22%",
       "fungicides"
@@ -1222,9 +1222,9 @@
     "category_name": "Fungicides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "300 g/ha (6 g/ 10 L of water)",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Rice Blast; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "tebuconazole 50% + trifloxystrobin 25%",
       "fungicides"
@@ -1244,9 +1244,9 @@
     "category_name": "Fungicides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "2 g /L of water",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Purple Blotch of Onion; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "iprodion 25% + carbendazim 25%",
       "fungicides"
@@ -1329,9 +1329,9 @@
     "category_name": "Fungicides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "2 gm/ Liter water",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Early blight of Tomato; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "mancozeb",
       "fungicides"
@@ -1408,9 +1408,9 @@
     "category_name": "Fungicides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "Mango Anthracnose @ 1.0 ml/L of water",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Mango Anthracnose; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "propiconazole 15% + difenoconazole 15%",
       "fungicides"
@@ -1486,9 +1486,9 @@
     "category_name": "Fungicides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "@ 1.5 g/L of water",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Sweet Gourd powdery mildew; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "kasugamycin 4% + carbendazim 50%",
       "fungicides"
@@ -1508,9 +1508,9 @@
     "category_name": "Fungicides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "@ 0.5 g / L of water",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Powdery mildew of Sweet gourd; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "fungicides",
       "azoxystrobin 50%"
@@ -1530,9 +1530,9 @@
     "category_name": "Unknown",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "250 ml/ha",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Tea die back; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "unknown",
       "thifluzamide"
@@ -1552,9 +1552,9 @@
     "category_name": "Fungicides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "500 g/ha",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Tomato wilt; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "hexaconazole 2.5% + validamycin 8.5%",
       "fungicides"
@@ -1574,9 +1574,9 @@
     "category_name": "Unknown",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "1.5 Kg/ha",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Tea die back; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "bismerthiozole 20% + kasuga 1.5%",
       "unknown"
@@ -1596,9 +1596,9 @@
     "category_name": "Fungicides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "1 ml/L of water",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Cucumber Powdery Mildew; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "boscalid",
       "fungicides"
@@ -1618,9 +1618,9 @@
     "category_name": "Fungicides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "0.5 g/L of water",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Powdery mildew of Cucumber; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "fenoxanil 20% + tricyclazole 50%",
       "fungicides"
@@ -1640,9 +1640,9 @@
     "category_name": "Fungicides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "1 g / L of water",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Powdery mildew of Sweet gourd; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "cyprodinil 37.5% + fludioxonil 25%",
       "fungicides"
@@ -1662,9 +1662,9 @@
     "category_name": "Fungicides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "3 g /Kg Seed",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Foot Rot & Seedling Blight of Wheat; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "carboxin + thiram",
       "fungicides"
@@ -1684,9 +1684,9 @@
     "category_name": "Antibacterial Antibiotic",
     "description": "Systemic Action",
     "indication": "",
-    "dosage": "",
+    "dosage": "10 g/10 Liter of Water",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Bacterial Wilt of Brinjal; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "antibacterial antibiotic",
       "streptomycin sulphate 9% + tetracycline hydrochloride 1%"
@@ -1713,7 +1713,7 @@
     "category_name": "Insecticides",
     "description": "Contact & Stomach Poisoning action",
     "indication": "",
-    "dosage": "",
+    "dosage": "10 ml / 10 Lit water,",
     "side_effect": "",
     "crops_pests": "Red Spider mite of Tea,; Red mite of Brinjal & Cucurbits",
     "product_tags": [
@@ -1741,9 +1741,9 @@
     "category_name": "Insecticides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "@ 500 ml/ha",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Tea Red Spider mite; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "insecticides",
       "abamectin 3%"
@@ -1763,9 +1763,9 @@
     "category_name": "Acaricides / Miticides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "Null",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Null; & Solutions; mation                      :; & Pests                      :; mite",
     "product_tags": [
       "propergite",
       "acaricides"
@@ -1785,9 +1785,9 @@
     "category_name": "Acaricides / Miticides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "1.0 L/ha",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "1. Tea Red Spider Mite; & Solutions; mation                      :; & Pests                      :; mite",
     "product_tags": [
       "acaricides",
       "fenpyroximate"
@@ -1807,9 +1807,9 @@
     "category_name": "Acaricides / Miticides",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "600 ml/ha",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Tea Red Spider Mite; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "fenazaquin",
       "acaricides"
@@ -1829,9 +1829,9 @@
     "category_name": "Plant Growth Regulator (PGR)",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "3-5 ml / 10 Liter of water",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Growth stunting of all crops; & Solutions; mation                      :; & Pests                      :; Flower dropping of all crops",
     "product_tags": [
       "triacontanol 0.05%  (500 mg/l)",
       "plant growth regulator (pgr)"
@@ -1851,9 +1851,9 @@
     "category_name": "Plant Growth Regulator (PGR)",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "@ 4-5 g/10 L of water",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "All Crops; & Solutions; mation                      :; & Pests                      :; Dosage rate                      :",
     "product_tags": [
       "brassinolide 0.01% sp",
       "plant growth regulator (pgr)"
@@ -1944,9 +1944,9 @@
     "category_name": "Fertilizers (Macro & Micro)",
     "description": "Boron = 17%.",
     "indication": "",
-    "dosage": "",
+    "dosage": "1-1.5 Kg/ bigha (33 decimal)",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "Boron supplier to; & Solutions; mation                      :; & Pests                      :; Rice",
     "product_tags": [
       "fertilizers (macro & micro)",
       "boric acid"
@@ -1989,9 +1989,9 @@
     "category_name": "Fertilizers (Macro & Micro)",
     "description": "",
     "indication": "",
-    "dosage": "",
+    "dosage": "@ 10-15 g/1 0 L of water (spray); 5",
     "side_effect": "",
-    "crops_pests": "",
+    "crops_pests": "All Crops; & Solutions; mation                      :; & Pests                      :; Dosage rate                      :",
     "product_tags": [
       "fertilizers (macro & micro)",
       "boron 20%"
