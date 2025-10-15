@@ -1,0 +1,32 @@
+{
+  "product_id": "MBL-040",
+  "product_name": "Cyperphos 55 EC",
+  "product_image": "images/Cyperphos_55EC.jpg",
+  "medicine_name": "Chlorpyrifos 50% + Cypermethrin 5%",
+  "category_name": "Insecticides",
+  "description": "Cyperphos 55EC is a combination insecticide with contact, stomach, respiratory & nervous poisoning action, effective against Brinjal Aphid.",
+  "application_rates": "1 ml / L water; 200 ml/acre",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "side_effect": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land.",
+  "crops_pests": "Brinjal - Aphid",
+  "crops": "Brinjal",
+  "pest": "Aphid",
+  "symptoms": "leaf yellowing, curling, and stunting",
+  "causes": "Aphid infestation",
+  "product_tags": [
+    "cyperfos 55 ec",
+    "chlorpyrifos",
+    "cypermethrin",
+    "brinjal",
+    "aphid",
+    "insecticide"
+  ],
+  "product_price": "",
+  "reg_no": "AP – 3018",
+  "serial_no": "77",
+  "product_url": "https://www.mcdonaldbd.com/product/cyperphos-55ec/",
+  "origin": "Asiatic, Singapore",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

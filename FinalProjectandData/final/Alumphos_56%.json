@@ -1,0 +1,30 @@
+{
+  "product_id": "MBL-034",
+  "product_name": "Alumphos 56%",
+  "product_image": "images/Alumphos_56%.jpg",
+  "medicine_name": "Aluminium Phosphide",
+  "category_name": "Fumigant",
+  "description": "Alumphos 56% is a fumigant used to protect stored agricultural commodities from insect pests. It releases phosphine gas upon contact with atmospheric moisture.",
+  "application_rates": "4 tablets / M.Ton of stored grain/products.",
+  "frequency_of_use": "Apply as needed during storage period, typically every 3-6 months depending on pest pressure",
+  "side_effect": "Extremely toxic to humans and animals if inhaled or ingested. Phosphine gas is colorless and highly poisonous. Must be handled only by trained professionals with appropriate respiratory protection.",
+  "crops_pests": "Stored grains (rice, wheat), seeds, and processed foods",
+  "crops": "Stored Grains, Seeds, Processed Foods",
+  "pest": "Weevils, Moths, Beetles",
+  "symptoms": "usually seen in stored products",
+  "causes": "",
+  "product_tags": [
+    "alumphos",
+    "aluminium phosphide",
+    "fumigant",
+    "stored grain pest"
+  ],
+  "product_price": "",
+  "reg_no": "AP - 253",
+  "serial_no": "24",
+  "product_url": "https://www.mcdonaldbd.com/product/alumphos-56/",
+  "origin": "Sundat, Singapore",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

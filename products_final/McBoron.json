@@ -1,0 +1,30 @@
+{
+  "product_id": "MBL-079",
+  "product_name": "McBoron",
+  "product_image": "images/McBoron.jpg",
+  "medicine_name": "Boric Acid",
+  "category_name": "Fertilizers (Macro & Micro)",
+  "description": "McBoron is a boron fertilizer containing 17% boron as boric acid. Essential for proper plant growth, flowering, and fruit development. Prevents boron deficiency symptoms in crops.",
+  "application_rates": "1-1.5 Kg/ bigha (33 decimal)",
+  "frequency_of_use": "Apply 1-2 times during growing season, preferably during flowering and fruiting stages",
+  "side_effect": "Generally safe for plants and environment. Use protective equipment during application. Store away from children and animals.",
+  "crops_pests": "All Crops",
+  "crops": "All Crops",
+  "pest": "Boron supplier",
+  "symptoms": "Poor flowering, fruit development issues, stunted growth, leaf curling",
+  "causes": "Boron deficiency in soil affecting plant growth and development",
+  "product_tags": [
+    "mcboron",
+    "boric acid",
+    "fertilizer",
+    "all crops"
+  ],
+  "product_price": "",
+  "reg_no": "IMP 1215",
+  "serial_no": "4",
+  "product_url": "https://www.mcdonaldbd.com/product/mcboron/",
+  "origin": "S. America",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

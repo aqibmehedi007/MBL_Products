@@ -1,0 +1,33 @@
+{
+  "product_id": "MBL-013",
+  "product_name": "Sunchance 18 WP",
+  "product_image": "images/Sunchance_18WP.jpg",
+  "medicine_name": "Bensulfuron methyl 4% + Acetachlor 14%",
+  "category_name": "Herbicides / Weedicides",
+  "description": "Sunchance 18WP is a combination herbicide containing Bensulfuron methyl and Acetachlor. It provides effective control of tea weeds including Bagrakot and Ulu. The dual active ingredients ensure comprehensive weed control with residual activity.",
+  "application_rates": "Tea- 3 kg/ha Rice- 750 gm/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "side_effect": "May cause skin and eye irritation. Avoid contact with skin and eyes. Use protective clothing during application. Do not apply during windy conditions.",
+  "crops_pests": "Rice - Weeds/ Pani kochu, Holde mutha, Shayma; Tea - Weeds/ Bagrakot, Ulu",
+  "crops": "Rice, Tea",
+  "pest": "Weeds, Pani kochu, Holde mutha, Shayma, Bagrakot, Ulu",
+  "symptoms": "Weed infestation causing competition for nutrients, water, and sunlight, leading to reduced crop yield and quality",
+  "causes": "Broadleaf weeds, sedges, and grasses competing with rice and tea crops for resources",
+  "product_tags": [
+    "sunchance 18 wp",
+    "bensulfuron methyl",
+    "acetachlor",
+    "rice",
+    "tea",
+    "weeds",
+    "herbicide"
+  ],
+  "product_price": "",
+  "reg_no": "AP-4750",
+  "serial_no": "23",
+  "product_url": "https://www.mcdonaldbd.com/product/sunchance-18wp/",
+  "origin": "Sundat (S) Pte. Ltd. Singapore",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

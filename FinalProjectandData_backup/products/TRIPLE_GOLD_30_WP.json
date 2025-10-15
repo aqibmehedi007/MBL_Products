@@ -1,0 +1,32 @@
+{
+  "product_id": "MBL-018",
+  "product_name": "TRIPLE GOLD 30 WP",
+  "product_image": "images/TRIPLE_GOLD_30_WP.jpg",
+  "medicine_name": "Bispyribac sodium 20% + Pyrazosulfuron-ethyl 10%",
+  "category_name": "Herbicides / Weedicides",
+  "description": "",
+  "application_rates": "150 gm/ha; 60 gm/acre; 20 gm/bigha",
+  "frequency_of_use": "1 time in each cropping season",
+  "side_effect": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land.",
+  "crops_pests": "Rice - Weeds",
+  "crops": "Rice",
+  "pest": "Weeds",
+  "symptoms": "",
+  "causes": "",
+  "product_tags": [
+    "triple gold 30 wp",
+    "bispyribac sodium",
+    "pyrazosulfuron-ethyl",
+    "rice",
+    "weeds",
+    "herbicide"
+  ],
+  "product_price": "",
+  "reg_no": "",
+  "serial_no": "18",
+  "product_url": "",
+  "origin": "",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "product_id": "MBL-016",
+  "product_name": "Sunoxanil 72 WP",
+  "product_image": "images/Sunoxanil_72WP.jpg",
+  "medicine_name": "Mancozeb 64% + cymoxanil 8%",
+  "category_name": "Fungicides",
+  "description": "Sunoxanil 72WP is a contact and systemic fungicide, effective against Late Blight of Potato, Powdery mildew of Mango, Purple Blotch of Onion, and Early & Late Blight of Tomato.",
+  "application_rates": "2 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "side_effect": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land.",
+  "crops_pests": "Potato - Late blight; Mango - Powdery mildew; Onion - Purple Blotch; Tomato - Early & Late Blight",
+  "crops": "Potato, Mango, Onion, Tomato",
+  "pest": "Late blight, Powdery mildew, Purple Blotch, Early Blight",
+  "symptoms": "water-soaked, irregular, dark spots on leaves and stems that develop into brown, necrotic lesions with a white, fuzzy mold in humid conditions, and tubers show brown, purplish patches with a reddish-brown internal rot",
+  "causes": "Phytophthora infestans",
+  "product_tags": [
+    "sunoxanil 72 wp",
+    "mancozeb",
+    "cymoxanil",
+    "potato",
+    "late blight",
+    "fungicide"
+  ],
+  "product_price": "",
+  "reg_no": "AP - 796",
+  "serial_no": "29",
+  "product_url": "https://www.mcdonaldbd.com/product/sunoxanil-72wp/",
+  "origin": "Sundat, Singapore",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "product_id": "MBL-028",
+  "product_name": "Sunvelarate 20EC",
+  "product_image": "images/Sunvelarate_20EC.jpg",
+  "medicine_name": "Fenvelarate",
+  "category_name": "Insecticides",
+  "description": "Sunvalerate 20EC (Fenvalerate) – Synthetic Pyrethroid, Contact & Stomach.",
+  "application_rates": "5 ml /10 L water (Mango); 10 ml /10 L water (Bean)",
+  "frequency_of_use": "",
+  "side_effect": "Can cause skin and eye irritation. Users should wear protective clothing. Highly toxic to fish and bees. Avoid spray drift.",
+  "crops_pests": "Mango Hopper,; Bean Pod Borer",
+  "crops": "Mango, Bean",
+  "pest": "Hopper, Pod Borer",
+  "symptoms": "",
+  "causes": "",
+  "product_tags": [
+    "sunvelarate 20ec",
+    "fenvelarate",
+    "insecticide"
+  ],
+  "product_price": "",
+  "reg_no": "AP - 250",
+  "serial_no": "18",
+  "product_url": "https://www.mcdonaldbd.com/product/sunvelarate-20ec/",
+  "origin": "Sundat, Singapore",
+  "isActive": "false",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "product_id": "MBL-026",
+  "product_name": "Ether Plus 40 WG",
+  "product_image": "images/Ether_Plus_40_WG.jpg",
+  "medicine_name": "Emamectin benzoate 20% + Thiamethoxam 20%",
+  "category_name": "Insecticides",
+  "description": "Ether Plus 40 WG is a combination insecticide with translaminar and systemic action, providing broad-spectrum control of sucking and chewing pests like Tea Helopeltis (Tea Mosquito Bug).",
+  "application_rates": "Tea: 100 gm/ha, apply during Helopeltis infestation",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "side_effect": "Toxic to bees and aquatic organisms. Wear protective clothing to avoid skin and eye contact. Do not contaminate water sources.",
+  "crops_pests": "Tea - Helopeltis Bugs",
+  "crops": "Tea",
+  "pest": "Helopeltis Bugs, Tea Mosquito Bug",
+  "symptoms": "discolored, necrotic lesions, leaf curling and deformation, dieback of young shoots, and even premature fruit drop in affected plants",
+  "causes": "Helopeltis antonii",
+  "product_tags": [
+    "ether plus 40 wg",
+    "emamectin benzoate",
+    "thiamethoxam",
+    "tea",
+    "helopeltis",
+    "insecticide"
+  ],
+  "product_price": "",
+  "reg_no": "AP - 4969",
+  "serial_no": "48",
+  "product_url": "https://www.mcdonaldbd.com/product/ether-plus-40-wg/",
+  "origin": "Asiatic, Singapore",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

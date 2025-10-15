@@ -1,0 +1,31 @@
+{
+  "product_id": "MBL-023",
+  "product_name": "Sumite 57 EC",
+  "product_image": "images/Sumite_57EC.jpg",
+  "medicine_name": "Propergite",
+  "category_name": "Acaricides / Miticides",
+  "description": "Sumite 57EC is a contact acaricide/miticide used for controlling a wide variety of mites, including the Tea Red Spider Mite.",
+  "application_rates": "1.68 L/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "side_effect": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land.",
+  "crops_pests": "Tea - Red mite",
+  "crops": "Tea",
+  "pest": "Red mite, Tea Red Spider Mite",
+  "symptoms": "yellowish or reddish-brown spots along the midrib of leaves, bronzing of leaves, and eventual defoliation",
+  "causes": "Oligonychus coffeae",
+  "product_tags": [
+    "sumite 57 ec",
+    "propergite",
+    "tea",
+    "red mite",
+    "acaricide"
+  ],
+  "product_price": "",
+  "reg_no": "AP - 360",
+  "serial_no": "39",
+  "product_url": "https://www.mcdonaldbd.com/product/sumite-57ec/",
+  "origin": "Sundat, Singapore",
+  "isActive": "false",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

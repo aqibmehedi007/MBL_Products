@@ -1,0 +1,31 @@
+{
+  "product_id": "MBL-010",
+  "product_name": "McNil 3 GR",
+  "product_image": "images/McNil_3GR.jpg",
+  "medicine_name": "Fipronil",
+  "category_name": "Insecticides",
+  "description": "McNil 3GR is a broad-spectrum insecticide in granular form that acts through contact and ingestion. It is used for the control of soil insects and foliar pests like stem borers and leaf folders in rice.",
+  "application_rates": "10 kg/ha or 4 Kg/acre",
+  "frequency_of_use": "1 time in each cropping season",
+  "side_effect": "Moderately toxic to mammals. Highly toxic to fish and bees. Do not apply near water bodies or during flowering.",
+  "crops_pests": "Rice - Yellow stem borer, leaf folder",
+  "crops": "Rice",
+  "pest": "Yellow stem borer, leaf folder, soil insects",
+  "symptoms": "\"deadhearts\" (drying of central shoots) during the vegetative stage, and \"whiteheads\" (empty, white panicles) during the reproductive stage",
+  "causes": "yellow stem borer",
+  "product_tags": [
+    "mcnil 3 gr",
+    "fipronil",
+    "rice",
+    "yellow stem borer",
+    "insecticide"
+  ],
+  "product_price": "",
+  "reg_no": "AP -3787",
+  "serial_no": "16",
+  "product_url": "https://www.mcdonaldbd.com/product/mcnil-3gr/",
+  "origin": "Krishi Rasayan, India",
+  "isActive": "false",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

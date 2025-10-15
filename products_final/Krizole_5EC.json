@@ -1,0 +1,29 @@
+{
+  "product_id": "MBL-055",
+  "product_name": "Krizole 5EC",
+  "product_image": "images/Krizole_5EC.jpg",
+  "medicine_name": "Hexaconazole",
+  "category_name": "Fungicides",
+  "description": "Krizole 5EC (Hexaconazole)–Systemic.",
+  "application_rates": "10 ml / 10 Lit water (Mango); 10 gm / 10 Lit water (Banana); 10 gm / 10 Lit water, 200 ml / acre (Rice)",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "side_effect": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land.",
+  "crops_pests": "Anthracnose of Mango,; Sigatoga of Banana,; Sheath Blight of Rice",
+  "crops": "Mango, Banana, Rice",
+  "pest": "Anthracnose, Sigatoga, Sheath Blight",
+  "symptoms": "Dark lesions on fruits and leaves, circular spots with concentric rings, leaf blight, sheath lesions",
+  "causes": "Fungal pathogens: Colletotrichum gloeosporioides (Anthracnose), Mycosphaerella musicola (Sigatoga), Rhizoctonia solani (Sheath Blight)",
+  "product_tags": [
+    "krizole 5ec",
+    "hexaconazole",
+    "fungicide"
+  ],
+  "product_price": "",
+  "reg_no": "AP-1199",
+  "serial_no": "13",
+  "product_url": "https://www.mcdonaldbd.com/product/krizole-5ec/",
+  "origin": "Krishi Rasayan, India",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

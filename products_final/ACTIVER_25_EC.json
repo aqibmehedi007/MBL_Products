@@ -1,0 +1,31 @@
+{
+  "product_id": "MBL-011",
+  "product_name": "Activer 25 EC",
+  "product_image": "images/ACTIVER_25_EC.jpg",
+  "medicine_name": "Oxadiazon",
+  "category_name": "Herbicides / Weedicides",
+  "description": "Activar 25EC is a selective contact pre-emergence herbicide containing Oxadiazon. It effectively controls broadleaf weeds and sedges in rice fields, potato crops, and onion/garlic cultivation.",
+  "application_rates": "2 ml/L of water or 1 L/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "side_effect": "May cause mild skin irritation if direct contact occurs. Avoid contact with eyes. Use protective clothing during application. Keep away from children and animals.",
+  "crops_pests": "Rice - Weeds; Potato - Weeds; Onion & Garlic - Weeds",
+  "crops": "Rice, Potato, Onion, Garlic",
+  "pest": "Weeds, Broadleaf weeds, Sedges",
+  "symptoms": "Weed infestation causing competition for nutrients, water, and sunlight, leading to reduced crop yield and quality",
+  "causes": "Broadleaf weeds and sedges competing with crops for resources",
+  "product_tags": [
+    "activer 25 ec",
+    "oxadiazon",
+    "rice",
+    "weeds",
+    "herbicide"
+  ],
+  "product_price": "",
+  "reg_no": "AP - 698",
+  "serial_no": "21",
+  "product_url": "https://www.mcdonaldbd.com/product/activar-25ec/",
+  "origin": "Asiatic, Singapore",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

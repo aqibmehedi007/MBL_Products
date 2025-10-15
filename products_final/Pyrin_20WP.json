@@ -1,0 +1,31 @@
+{
+  "product_id": "MBL-024",
+  "product_name": "Pyrin 20 WP",
+  "product_image": "images/Pyrin_20WP.jpg",
+  "medicine_name": "Pyridaben",
+  "category_name": "Acaricides / Miticides",
+  "description": "Pyrin 20WP is a contact miticide and insecticide used to control mites and some insects like whiteflies and aphids. It provides quick knockdown and long residual control of Tea Red Spider Mite.",
+  "application_rates": "500 gm/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "side_effect": "May cause skin and eye irritation. Wear protective gear. Toxic to aquatic life. Avoid contamination of water.",
+  "crops_pests": "Tea - Red mite",
+  "crops": "Tea",
+  "pest": "Red mite, Tea Red Spider Mite, whiteflies, aphids",
+  "symptoms": "yellowish or reddish-brown spots along the midrib of leaves, bronzing of leaves, and eventual defoliation",
+  "causes": "Oligonychus coffeae",
+  "product_tags": [
+    "pyrin 20 wp",
+    "pyridaben",
+    "tea",
+    "red mite",
+    "acaricide"
+  ],
+  "product_price": "",
+  "reg_no": "AP - 4982",
+  "serial_no": "40",
+  "product_url": "https://www.mcdonaldbd.com/product/pyrin-20wp/",
+  "origin": "Shandong, China",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

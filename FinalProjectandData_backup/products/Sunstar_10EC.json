@@ -1,0 +1,32 @@
+{
+  "product_id": "MBL-073",
+  "product_name": "Sunstar 10EC",
+  "product_image": "images/Sunstar_10EC.jpg",
+  "medicine_name": "Fenazaquin",
+  "category_name": "Acaricides / Miticides",
+  "description": "Sunstar 10EC is a contact and ingested miticide that is effective against all life stages of mites.",
+  "application_rates": "600 ml/ha",
+  "frequency_of_use": "",
+  "side_effect": "",
+  "crops_pests": "Tea Red Spider Mite",
+  "crops": "Tea",
+  "pest": "Red Spider Mite",
+  "symptoms": "",
+  "causes": "",
+  "product_tags": [
+    "sunstar 10ec",
+    "fenazaquin",
+    "acaricide",
+    "miticide",
+    "tea",
+    "red spider mite"
+  ],
+  "product_price": "",
+  "reg_no": "AP-5716",
+  "serial_no": "5",
+  "product_url": "https://www.mcdonaldbd.com/product/sunstar-10ec/",
+  "origin": "Sundat, Singapore",
+  "isActive": "false",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

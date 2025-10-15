@@ -1,0 +1,33 @@
+{
+  "product_id": "MBL-039",
+  "product_name": "Sunabaprid 4 EC",
+  "product_image": "images/Sunabaprid_4EC.jpg",
+  "medicine_name": "Abamectin 1% + Acetamiprid 3%",
+  "category_name": "Insecticides/Acaricides",
+  "description": "Sunabaprid 4EC is an insecticide/miticide with translaminar and systemic properties for controlling a variety of pests like mites and sucking insects (aphids, whiteflies).",
+  "application_rates": "500 ml /ha",
+  "frequency_of_use": "Apply 2-3 times at 10-14 day intervals",
+  "side_effect": "Use PPE to avoid exposure. Toxic to aquatic life and bees. Avoid spray drift and application during foraging periods of bees.",
+  "crops_pests": "Brinjal - Red mite; Tea - Red Spider Mite",
+  "crops": "Brinjal, Tea",
+  "pest": "Red mite, Red Spider Mite, aphids, whiteflies",
+  "symptoms": "a speckled, yellow, or white appearance on leaves due to cell contents being sucked out, which progresses to drying, browning, and leaf drop",
+  "causes": "Tetranychus urticae",
+  "product_tags": [
+    "sunabaprid 4 ec",
+    "abamectin",
+    "acetamiprid",
+    "brinjal",
+    "red mite",
+    "acaricide",
+    "insecticide"
+  ],
+  "product_price": "",
+  "reg_no": "AP-5230",
+  "serial_no": "75",
+  "product_url": "https://www.mcdonaldbd.com/product/sunabaprid-4ec/",
+  "origin": "Sundat, Singapore",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

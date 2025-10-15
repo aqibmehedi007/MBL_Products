@@ -1,0 +1,32 @@
+{
+  "product_id": "MBL-011",
+  "product_name": "MCNIL PLUS 2.30 GR",
+  "product_image": "images/MCNIL_PLUS_2.30_GR.jpg",
+  "medicine_name": "Imidacloprid 2% + Fipronil 0.3%",
+  "category_name": "Insecticides",
+  "description": "",
+  "application_rates": "10 kg/ha; 4 kg/acre",
+  "frequency_of_use": "1 time in each cropping season",
+  "side_effect": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land.",
+  "crops_pests": "Rice - Yellow stem borer",
+  "crops": "Rice",
+  "pest": "Yellow stem borer",
+  "symptoms": "\"deadhearts\" (drying of central shoots) during the vegetative stage, and \"whiteheads\" (empty, white panicles) during the reproductive stage",
+  "causes": "yellow stem borer",
+  "product_tags": [
+    "mcnil plus 2.30 gr",
+    "imidacloprid",
+    "fipronil",
+    "rice",
+    "yellow stem borer",
+    "insecticide"
+  ],
+  "product_price": "",
+  "reg_no": "",
+  "serial_no": "11",
+  "product_url": "",
+  "origin": "",
+  "isActive": "false",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "product_id": "MBL-079",
+  "product_name": "McBoron",
+  "product_image": "images/McBoron.jpg",
+  "medicine_name": "Boric Acid",
+  "category_name": "Fertilizers (Macro & Micro)",
+  "description": "Boron = 17%.",
+  "application_rates": "1-1.5 Kg/ bigha (33 decimal)",
+  "frequency_of_use": "",
+  "side_effect": "",
+  "crops_pests": "All Crops",
+  "crops": "All Crops",
+  "pest": "Boron supplier",
+  "symptoms": "",
+  "causes": "",
+  "product_tags": [
+    "mcboron",
+    "boric acid",
+    "fertilizer",
+    "all crops"
+  ],
+  "product_price": "",
+  "reg_no": "IMP 1215",
+  "serial_no": "4",
+  "product_url": "https://www.mcdonaldbd.com/product/mcboron/",
+  "origin": "S. America",
+  "isActive": "false",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

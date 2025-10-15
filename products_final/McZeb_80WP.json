@@ -1,0 +1,31 @@
+{
+  "product_id": "MBL-036",
+  "product_name": "McZeb 80 WP",
+  "product_image": "images/McZeb_80WP.jpg",
+  "medicine_name": "Mancozeb",
+  "category_name": "Fungicides",
+  "description": "McZeb 80WP is a broad-spectrum contact fungicide with protective action, used to control a wide range of fungal diseases like early and late blight of tomato and potato.",
+  "application_rates": "2 gm/ Liter water",
+  "frequency_of_use": "Apply 2-3 times at 10-14 day intervals",
+  "side_effect": "May cause skin and eye irritation. Wear protective clothing and mask. Avoid inhalation of spray mist.",
+  "crops_pests": "Tomato - Early blight; Potato - Late Blight",
+  "crops": "Tomato, Potato",
+  "pest": "Early blight, Late Blight",
+  "symptoms": "dark, circular spots with concentric \"bullseye\" rings on the lower leaves, stems, and fruit, often surrounded by a yellow halo",
+  "causes": "Alternaria solani",
+  "product_tags": [
+    "mczeb 80 wp",
+    "mancozeb",
+    "tomato",
+    "early blight",
+    "fungicide"
+  ],
+  "product_price": "",
+  "reg_no": "AP - 3597",
+  "serial_no": "70",
+  "product_url": "https://www.mcdonaldbd.com/product/mczeb-80wp/",
+  "origin": "Krishi Rassayan, India",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

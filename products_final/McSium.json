@@ -1,0 +1,30 @@
+{
+  "product_id": "MBL-078",
+  "product_name": "McSium",
+  "product_image": "images/McSium.jpg",
+  "medicine_name": "Magnesium Sulphate/MgSO4",
+  "category_name": "Fertilizers (Macro & Micro)",
+  "description": "McSium is a magnesium fertilizer containing Magnesium Sulphate with 9.5% Mg and 12.5% S. Essential for chlorophyll formation and proper plant growth.",
+  "application_rates": "3-6 Kg / Bigha (33 decimal); 4-8 Kg / Bigha (33 decimal); 200-300 gm / Tree; Both before and after sowing/transplanting it can be used as broadcast.",
+  "frequency_of_use": "Apply 1-2 times during growing season, preferably during vegetative growth stage",
+  "side_effect": "Generally safe for plants and environment. Use protective equipment during application. Store away from children and animals.",
+  "crops_pests": "Rice, Wheat & Maize; Potato, Chili, Tomato, Brinjal, Potol, Cabbages, Cauliflowers etc.; Mango, Banana, Jackfruit, Papaya and others fruits.",
+  "crops": "Rice, Wheat, Maize, Potato, Chili, Tomato, Brinjal, Potol, Cabbages, Cauliflowers, Mango, Banana, Jackfruit, Papaya",
+  "pest": "Magnesium deficiency",
+  "symptoms": "Yellowing between leaf veins, stunted growth, poor fruit development, reduced chlorophyll production",
+  "causes": "Magnesium deficiency in soil affecting chlorophyll formation and plant growth",
+  "product_tags": [
+    "mcsium",
+    "magnesium sulphate",
+    "mgso4",
+    "fertilizer"
+  ],
+  "product_price": "",
+  "reg_no": "IMP 1115",
+  "serial_no": "3",
+  "product_url": "https://www.mcdonaldbd.com/product/mcsium/",
+  "origin": "China",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

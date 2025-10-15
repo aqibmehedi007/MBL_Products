@@ -1,0 +1,31 @@
+{
+  "product_id": "MBL-012",
+  "product_name": "Porishker 10 WP",
+  "product_image": "images/Porishker_10WP.jpg",
+  "medicine_name": "Pyrazosulfuran Ethyl",
+  "category_name": "Herbicides / Weedicides",
+  "description": "Porishker 10WP is a selective systemic herbicide containing Pyrazosulfuran-ethyl. It provides both pre and post-emergence control of weeds in rice fields, targeting sedges, grasses, and broadleaf weeds.",
+  "application_rates": "17 gm / bigha 50 gm / acre 125 gm / ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "side_effect": "May cause mild skin irritation. Avoid inhalation of dust. Use protective clothing and mask during application. Keep away from food and feed.",
+  "crops_pests": "Rice - Weeds (sedge, grass & broad leaved)",
+  "crops": "Rice",
+  "pest": "Weeds, Sedges, Grasses, Broadleaf weeds",
+  "symptoms": "",
+  "causes": "",
+  "product_tags": [
+    "porishker 10 wp",
+    "pyrazosulfuran ethyl",
+    "rice",
+    "weeds",
+    "herbicide"
+  ],
+  "product_price": "",
+  "reg_no": "AP-2591",
+  "serial_no": "22",
+  "product_url": "https://www.mcdonaldbd.com/product/porishker-10wp/",
+  "origin": "Asiatic, Singapore",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

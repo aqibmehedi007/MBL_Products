@@ -1,0 +1,31 @@
+{
+  "product_id": "MBL-029",
+  "product_name": "2,4-D Weeder 72 SL",
+  "product_image": "images/2,4-D_Weeder_72SL.jpg",
+  "medicine_name": "2,4-D Amine Salt",
+  "category_name": "Herbicides / Weedicides",
+  "description": "2,4-D Weeder 72SL is a selective, systemic herbicide for post-emergence control of broadleaf weeds in various crops like tea, rubber, wheat, and rice.",
+  "application_rates": "Tea: 2.24 L/ha, Rice: 1.5 L/ha, Wheat: 1.8 L/ha, Rubber: 2.0 L/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "side_effect": "Can cause skin and eye irritation. Harmful if swallowed. Users should wear protective clothing, gloves, and eye protection. Avoid spray drift to non-target crops as it can cause severe damage.",
+  "crops_pests": "Tea - Weeds/ Bagracot, Ulu; Rubber - Weeds; Wheat - Weeds; Rice - Weeds",
+  "crops": "Tea, Rubber, Wheat, Rice",
+  "pest": "Weeds, Bagracot, Ulu, Broadleaf weeds",
+  "symptoms": "",
+  "causes": "",
+  "product_tags": [
+    "2,4-d weeder 72 sl",
+    "2,4-d amine salt",
+    "tea",
+    "weeds",
+    "herbicide"
+  ],
+  "product_price": "",
+  "reg_no": "AP - 1197",
+  "serial_no": "54",
+  "product_url": "https://www.mcdonaldbd.com/product/24-d-weeder-72sl/",
+  "origin": "Sandong Chaichang Chem. Co. China",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

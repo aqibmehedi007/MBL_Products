@@ -1,0 +1,31 @@
+{
+  "product_id": "MBL-031",
+  "product_name": "Weedoxone",
+  "product_image": "images/Weedoxone.jpg",
+  "medicine_name": "Paraquat",
+  "category_name": "Herbicides / Weedicides",
+  "description": "Weedoxone is a contact, selective herbicide containing Paraquat. It provides effective early post-emergence weed control in tea gardens, rubber plantations, and fallow lands.",
+  "application_rates": "Banana- 3 ml/L of water Tea – 2.8 L/ha",
+  "frequency_of_use": "1 time",
+  "side_effect": "Highly toxic if ingested. Causes severe skin and eye irritation. Use full protective equipment. Avoid drift to desirable plants. Keep away from children and animals.",
+  "crops_pests": "Tea - Weeds/ Bagracot, Ulu; Rubber - Weeds; Fallow land - Weeds",
+  "crops": "Tea, Rubber, Fallow land, Banana",
+  "pest": "Weeds, Bagracot, Ulu",
+  "symptoms": "",
+  "causes": "",
+  "product_tags": [
+    "weedoxone",
+    "paraquat",
+    "tea",
+    "weeds",
+    "herbicide"
+  ],
+  "product_price": "",
+  "reg_no": "AP - 1094",
+  "serial_no": "56",
+  "product_url": "https://www.mcdonaldbd.com/product/weedoxone/",
+  "origin": "Sandong Chaichang Chem. Co. China",
+  "isActive": "false",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

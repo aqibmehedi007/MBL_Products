@@ -1,0 +1,32 @@
+{
+  "product_id": "MBL-080",
+  "product_name": "Clipper 25 SC",
+  "product_image": "images/Clipper_25_SC.jpg",
+  "medicine_name": "Paclobutrazol 25%",
+  "category_name": "Plant Growth Regulator (PGR)",
+  "description": "Clipper 25 SC is a plant growth regulator containing Paclobutrazol. It is used for growth control and yield enhancement in various crops. Paclobutrazol belongs to the triazole fungicide class but functions as a growth regulator rather than a fungicide.",
+  "application_rates": "As per manufacturer recommendations",
+  "frequency_of_use": "As per crop requirements",
+  "side_effect": "Follow manufacturer's safety guidelines. Use protective equipment during application. Not suitable for water ripening applications.",
+  "crops_pests": "Various crops for growth regulation and yield enhancement",
+  "crops": "Rice, Potato, Cabbage, Brinjal, Chili, Tomato, Cucumber, Okra, Cauliflower, Gourd, Ginger, Capsicum",
+  "pest": "Growth regulation, Yield enhancement",
+  "symptoms": "Poor plant growth, excessive vegetative growth, reduced flowering, low fruit set, stunted development",
+  "causes": "Imbalanced plant hormone levels affecting growth and development",
+  "product_tags": [
+    "clipper 25 sc",
+    "paclobutrazol",
+    "pgr",
+    "plant growth regulator",
+    "growth control",
+    "yield enhancement"
+  ],
+  "product_price": "",
+  "reg_no": "",
+  "serial_no": "80",
+  "product_url": "https://krishigor.com/products/clipper-25-sc",
+  "origin": "McDonald Bangladesh (Pvt.) Limited",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-01-27T00:00:00"
+}

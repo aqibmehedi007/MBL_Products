@@ -1,0 +1,30 @@
+{
+  "product_id": "MBL-075",
+  "product_name": "Brass 481 Plus",
+  "product_image": "images/Brass_481_Plus.jpg",
+  "medicine_name": "Brassinolide 0.01% SP",
+  "category_name": "Plant Growth Regulator (PGR)",
+  "description": "Brass 481 Plus is a plant growth regulator that contains Brassinolide, a natural plant hormone that helps improve plant growth and yield.",
+  "application_rates": "@ 4-5 g/10 L of water",
+  "frequency_of_use": "Apply 2-3 times during growing season at 15-20 day intervals",
+  "side_effect": "Generally safe for plants and environment. Use protective equipment during application. Store away from children and animals.",
+  "crops_pests": "All Crops",
+  "crops": "All Crops",
+  "pest": "Growth promotion, Flowering enhancement, Fruit development",
+  "symptoms": "Poor plant growth, reduced flowering, low fruit set, stunted development",
+  "causes": "Natural plant hormone deficiency affecting growth and development",
+  "product_tags": [
+    "brass 481 plus",
+    "brassinolide",
+    "plant growth regulator",
+    "pgr"
+  ],
+  "product_price": "",
+  "reg_no": "IMP - 6132",
+  "serial_no": "2",
+  "product_url": "https://www.mcdonaldbd.com/product/brass-481-plus/",
+  "origin": "Newsun, China",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "product_id": "MBL-034",
+  "product_name": "Cardion 50 WP",
+  "product_image": "images/Cardion_50WP.jpg",
+  "medicine_name": "Iprodione 25% + Carbendazim 25%",
+  "category_name": "Fungicides",
+  "description": "Cardion 50WP is a fungicide with both contact and systemic action, effective against a broad range of fungal pathogens, including Purple Blotch of Onion.",
+  "application_rates": "2 gm/L of water or, 1 Kg/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "side_effect": "Use of protective gloves and clothing is recommended. Avoid inhaling dust. Store in a cool, dry place.",
+  "crops_pests": "Onion - Purple blotch",
+  "crops": "Onion",
+  "pest": "Purple blotch",
+  "symptoms": "sunken, purplish-brown spots with a \"bull's-eye\" pattern on leaves, wilting, and spongy rot in bulbs",
+  "causes": "Fungus Alternaria porri",
+  "product_tags": [
+    "cardion 50 wp",
+    "iprodione",
+    "carbendazim",
+    "onion",
+    "purple blotch",
+    "fungicide"
+  ],
+  "product_price": "",
+  "reg_no": "AP - 3632",
+  "serial_no": "62",
+  "product_url": "https://www.mcdonaldbd.com/product/cardion-50wp/",
+  "origin": "Krishi Rassayan, India",
+  "isActive": "false",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "product_id": "MBL-049",
+  "product_name": "McVo 75WG",
+  "product_image": "images/McVo_75WG.jpg",
+  "medicine_name": "Tebuconazole 50% + Trifloxystrobin 25%",
+  "category_name": "Fungicides",
+  "description": "McVo 75WG is a broad-spectrum fungicide with mesostemic and systemic properties, offering protective and curative disease control.",
+  "application_rates": "300 g/ha (6 g/ 10 L of water)",
+  "frequency_of_use": "1 time in each cropping season",
+  "side_effect": "Can cause skin and eye irritation. Wear appropriate PPE. Toxic to aquatic life. Do not spray near water bodies.",
+  "crops_pests": "Rice Blast; Sweet Gourd - Powdery mildew",
+  "crops": "Rice, Sweet Gourd",
+  "pest": "Rice Blast, Powdery mildew",
+  "symptoms": "white, powdery patches on leaves, stems, and fruit, which can spread to form large, discolored blotches that cover the entire surface",
+  "causes": "Podosphaera xanthii",
+  "product_tags": [
+    "mcvo 75wg",
+    "tebuconazole",
+    "trifloxystrobin",
+    "fungicide"
+  ],
+  "product_price": "",
+  "reg_no": "AP - 4674",
+  "serial_no": "7",
+  "product_url": "https://www.mcdonaldbd.com/product/mcvo-75wg-2/",
+  "origin": "Sundat, Singapore",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

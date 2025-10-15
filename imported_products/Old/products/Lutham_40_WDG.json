@@ -1,0 +1,32 @@
+{
+  "product_id": "MBL-007",
+  "product_name": "Lutham 40 WDG",
+  "product_image": "images/Lutham_40_WDG.jpg",
+  "medicine_name": "Thiamethoxam 30% + Lufenuron 10%",
+  "category_name": "Insecticides",
+  "description": "Lutham 40 WDG is a combination insecticide with systemic and insect growth regulator (IGR) properties for broad-spectrum pest control. It controls a wide range of sucking pests like aphids and jassids in tea, cotton and vegetables, as well as lepidopteran pests. Lufenuron prevents larval development.",
+  "application_rates": "Tea - 150 g/ha Rice - 50 g/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "side_effect": "Toxic to bees. Do not spray on flowering crops. Use protective clothing during application to prevent skin contact.",
+  "crops_pests": "Rice - BPH (Brown Plant Hopper); Tea - Aphid",
+  "crops": "Rice, Tea, Cotton, Vegetables",
+  "pest": "BPH (Brown Plant Hopper), Aphids, Jassids, Lepidopteran pests",
+  "symptoms": "Hopperburn or yellowing, browning and drying of plant",
+  "causes": "Brown plant hopper",
+  "product_tags": [
+    "lutham 40 wdg",
+    "thiamethoxam",
+    "lufenuron",
+    "rice",
+    "bph",
+    "insecticide"
+  ],
+  "product_price": "",
+  "reg_no": "AP-5522",
+  "serial_no": "7",
+  "product_url": "https://www.mcdonaldbd.com/product/lutham-40-wdg/",
+  "origin": "Shandong United, China",
+  "isActive": "false",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

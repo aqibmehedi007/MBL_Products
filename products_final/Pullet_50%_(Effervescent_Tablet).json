@@ -1,0 +1,30 @@
+{
+  "product_id": "MBL-015",
+  "product_name": "Pullet 50% (Effervescent Tablet)",
+  "product_image": "images/Pullet_50%_(Effervescent_Tablet).jpg",
+  "medicine_name": "Pymetrozine",
+  "category_name": "Insecticides",
+  "description": "Pullet 50% is a selective insecticide specifically targeting sucking pests. It acts by preventing the insect from feeding.",
+  "application_rates": "200 g/ha",
+  "frequency_of_use": "Apply 1-2 times per cropping season",
+  "side_effect": "Low toxicity to mammals and beneficial insects, but protective measures are still recommended. Avoid spray drift.",
+  "crops_pests": "Rice BPH",
+  "crops": "Rice, Vegetables, Potatoes, Ornamentals",
+  "pest": "BPH, Aphids, Whiteflies",
+  "symptoms": "Hopperburn or yellowing, browning and drying of plant",
+  "causes": "Brown plant hopper",
+  "product_tags": [
+    "pullet",
+    "pymetrozine",
+    "insecticide",
+    "bph"
+  ],
+  "product_price": "",
+  "reg_no": "AP-5570",
+  "serial_no": "5",
+  "product_url": "https://www.mcdonaldbd.com/product/pullet-50-effervescent-tablet/",
+  "origin": "Chengdu Newsun, China",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

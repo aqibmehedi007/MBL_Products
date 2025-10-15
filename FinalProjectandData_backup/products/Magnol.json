@@ -1,0 +1,30 @@
+{
+  "product_id": "MBL-074",
+  "product_name": "Magnol",
+  "product_image": "images/Magnol.jpg",
+  "medicine_name": "Triacontanol 0.05% (500 mg/L)",
+  "category_name": "Plant Growth Regulator (PGR)",
+  "description": "Magnol is a plant growth regulator containing Triacontanol 0.05% (500 mg/L). It helps overcome growth stunting and flower dropping in all crops. The product promotes healthy plant growth and improves flowering and fruiting.",
+  "application_rates": "3-5 ml / 10 Liter of water",
+  "frequency_of_use": "",
+  "side_effect": "Generally safe when used as directed. Avoid excessive application. Use protective clothing during application. Store in cool, dry place away from children.",
+  "crops_pests": "Growth stunting of all crops; Flower dropping of all crops",
+  "crops": "All crops",
+  "pest": "Growth stunting, Flower dropping",
+  "symptoms": "",
+  "causes": "",
+  "product_tags": [
+    "magnol",
+    "triacontanol",
+    "plant growth regulator",
+    "pgr"
+  ],
+  "product_price": "",
+  "reg_no": "IMP-3793",
+  "serial_no": "1",
+  "product_url": "https://www.mcdonaldbd.com/product/magnol/",
+  "origin": "Krishi Rasayan, India",
+  "isActive": "false",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

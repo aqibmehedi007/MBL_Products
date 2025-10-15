@@ -1,0 +1,32 @@
+{
+  "product_id": "MBL-106",
+  "product_name": "SUNZOLE PLUS 70 WP",
+  "product_image": "images/SUNZOLE_PLUS_70_WP.jpg",
+  "medicine_name": "Fenoxanil + Tricyclazole",
+  "category_name": "Fungicides",
+  "description": "SUNZOLE PLUS 70 WP is a combination fungicide containing Fenoxanil and Tricyclazole. It provides effective control of powdery mildew and other fungal diseases in cucumber and other crops through systemic action.",
+  "application_rates": "0.5 gm/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "side_effect": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land.",
+  "crops_pests": "Cucumber - Powdery mildew",
+  "crops": "Cucumber",
+  "pest": "Powdery mildew",
+  "symptoms": "white, powdery patches on leaves and stems, which can lead to yellowing, wilting, and premature death of the plant",
+  "causes": "Podosphaera xanthii and Erysiphe cichoracearum",
+  "product_tags": [
+    "sunzole plus 70 wp",
+    "fenoxanil",
+    "tricyclazole",
+    "cucumber",
+    "powdery mildew",
+    "fungicide"
+  ],
+  "product_price": "",
+  "reg_no": "",
+  "serial_no": "106",
+  "product_url": "",
+  "origin": "",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

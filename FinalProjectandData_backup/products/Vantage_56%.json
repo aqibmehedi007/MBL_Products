@@ -1,0 +1,29 @@
+{
+  "product_id": "MBL-041",
+  "product_name": "Vantage 56%",
+  "product_image": "images/Vantage_56%.jpg",
+  "medicine_name": "Aluminium phosphide",
+  "category_name": "Fumigant",
+  "description": "Vantage 56% is a solid fumigant that releases toxic phosphine gas when exposed to moisture. It is used for controlling pests in stored commodities.",
+  "application_rates": "4 Tab/MT Grain",
+  "frequency_of_use": "-",
+  "side_effect": "Extremely toxic. For professional use only. Requires specialized application equipment and safety gear, including respirators. The gas is colorless and deadly.",
+  "crops_pests": "Lesser grain borer, Lesser grain weevil, Lesser grain beetle",
+  "crops": "Wheat",
+  "pest": "Lesser grain borer, Lesser grain weevil, Lesser grain beetle",
+  "symptoms": "usually seen in stored wheat",
+  "causes": "",
+  "product_tags": [
+    "vantage 56%",
+    "aluminium phosphide",
+    "fumigant"
+  ],
+  "product_price": "",
+  "reg_no": "AP - 253",
+  "serial_no": "31",
+  "product_url": "https://www.mcdonaldbd.com/product/vantage-56/",
+  "origin": "Asiatic, Singapore",
+  "isActive": "false",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

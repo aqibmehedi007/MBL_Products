@@ -1,0 +1,31 @@
+{
+  "product_id": "MBL-XXX",
+  "product_name": "McCol 70 WP",
+  "product_image": "images/McCol_70_WP.jpg",
+  "medicine_name": "Copper Oxychloride 50% + Mancozeb 20%",
+  "category_name": "Fungicides",
+  "description": "McCol 70WP is a combination fungicide containing Copper Oxychloride and Mancozeb. Provides both contact and systemic protection against various fungal diseases in crops.",
+  "application_rates": "2-3 gm/L of water or 1-1.5 kg/ha",
+  "frequency_of_use": "Apply 2-3 times at 10-14 day intervals",
+  "side_effect": "May cause skin and eye irritation. Use protective equipment during application. Avoid inhalation of dust. Store away from children and animals.",
+  "crops_pests": "Various crops - Fungal diseases",
+  "crops": "Rice, Wheat, Vegetables, Fruits",
+  "pest": "Fungal diseases, Blight, Leaf spot",
+  "symptoms": "Leaf spots, blight, wilting, fruit rot",
+  "causes": "Fungal pathogens",
+  "product_tags": [
+    "mccol 70 wp",
+    "copper oxychloride",
+    "mancozeb",
+    "fungicide",
+    "blight control"
+  ],
+  "product_price": "",
+  "reg_no": "",
+  "serial_no": "",
+  "product_url": "",
+  "origin": "McDonald Bangladesh Private Limited",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

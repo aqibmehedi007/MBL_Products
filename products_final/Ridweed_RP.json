@@ -1,0 +1,31 @@
+{
+  "product_id": "MBL-028",
+  "product_name": "Ridweed RP",
+  "product_image": "images/Ridweed_RP.jpg",
+  "medicine_name": "Glyphosate",
+  "category_name": "Herbicides / Weedicides",
+  "description": "Ridweed RP is a systemic, non-selective herbicide containing Glyphosate. It provides effective control of a wide range of weeds including grasses, broadleaf weeds, and woody plants in tea gardens, rubber plantations, and fallow lands.",
+  "application_rates": "3.7 L/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "side_effect": "Highly toxic to non-target plants. Avoid drift to desirable vegetation. May cause skin and eye irritation. Use protective equipment during application. Do not apply near water bodies.",
+  "crops_pests": "Tea - Weeds/ Bagracot, Ulu; Rubber - Weeds; Fallow land - Weeds",
+  "crops": "Tea, Rubber, Fallow land",
+  "pest": "Weeds, Bagracot, Ulu",
+  "symptoms": "Weed infestation causing competition for nutrients, water, and sunlight, leading to reduced crop yield and quality",
+  "causes": "Broadleaf weeds, grasses, and woody plants competing with crops for resources",
+  "product_tags": [
+    "ridweed rp",
+    "glyphosate",
+    "tea",
+    "weeds",
+    "herbicide"
+  ],
+  "product_price": "",
+  "reg_no": "AP - 319",
+  "serial_no": "53",
+  "product_url": "https://www.mcdonaldbd.com/product/ridweed-rp/",
+  "origin": "Asiatic, Singapore",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

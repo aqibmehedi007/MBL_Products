@@ -1,0 +1,31 @@
+{
+  "product_id": "MBL-018",
+  "product_name": "Sunthrin 2.5 EC",
+  "product_image": "images/Sunthrin_2.5EC.jpg",
+  "medicine_name": "Bifenthrin",
+  "category_name": "Insecticides",
+  "description": "Sunthrin 2.5EC is a synthetic pyrethroid insecticide and acaricide with contact and stomach action. It is effective against a wide range of pests, including Tea Mosquito Bug (Helopeltis) and Cotton Bollworm.",
+  "application_rates": "Tea- 500 ml/ha Cotton- 600 ml/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "side_effect": "May cause skin and eye irritation. Highly toxic to fish and aquatic organisms. Do not apply near water. Toxic to bees.",
+  "crops_pests": "Cotton - Ballworm; Tea - Mosquito bug (Helopeltis)",
+  "crops": "Cotton, Tea",
+  "pest": "Ballworm, Mosquito bug (Helopeltis)",
+  "symptoms": "boring holes into buds and bolls, which can then be hollowed out, leading to shedding of young buds or premature cracking and rot in older bolls",
+  "causes": "bollworm moth species like Helicoverpa armigera",
+  "product_tags": [
+    "sunthrin 2.5 ec",
+    "bifenthrin",
+    "cotton",
+    "ballworm",
+    "insecticide"
+  ],
+  "product_price": "",
+  "reg_no": "AP-1277",
+  "serial_no": "34",
+  "product_url": "https://www.mcdonaldbd.com/product/sunthrin-2-5ec/",
+  "origin": "Sundat, Singapore",
+  "isActive": "false",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

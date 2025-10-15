@@ -1,0 +1,30 @@
+{
+  "product_id": "MBL-078",
+  "product_name": "McSium",
+  "product_image": "images/McSium.jpg",
+  "medicine_name": "Magnesium Sulphate/MgSO4",
+  "category_name": "Fertilizers (Macro & Micro)",
+  "description": "McSium (Magnesium Sulphate): Mg = 9.5%, S = 12.5%.",
+  "application_rates": "3-6 Kg / Bigha (33 decimal); 4-8 Kg / Bigha (33 decimal); 200-300 gm / Tree; Both before and after sowing/transplanting it can be used as broadcast.",
+  "frequency_of_use": "",
+  "side_effect": "",
+  "crops_pests": "Rice, Wheat & Maize; Potato, Chili, Tomato, Brinjal, Potol, Cabbages, Cauliflowers etc.; Mango, Banana, Jackfruit, Papaya and others fruits.",
+  "crops": "Rice, Wheat, Maize, Potato, Chili, Tomato, Brinjal, Potol, Cabbages, Cauliflowers, Mango, Banana, Jackfruit, Papaya",
+  "pest": "",
+  "symptoms": "",
+  "causes": "",
+  "product_tags": [
+    "mcsium",
+    "magnesium sulphate",
+    "mgso4",
+    "fertilizer"
+  ],
+  "product_price": "",
+  "reg_no": "IMP 1115",
+  "serial_no": "3",
+  "product_url": "https://www.mcdonaldbd.com/product/mcsium/",
+  "origin": "China",
+  "isActive": "false",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

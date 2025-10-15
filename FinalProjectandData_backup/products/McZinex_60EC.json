@@ -1,0 +1,31 @@
+{
+  "product_id": "MBL-033",
+  "product_name": "McZinex 60 EC",
+  "product_image": "images/McZinex_60EC.jpg",
+  "medicine_name": "Diazinon",
+  "category_name": "Insecticides",
+  "description": "McZinex 60EC is a contact, stomach, respiratory & locally penetrable insecticide. It is effective against Tea Flush worm.",
+  "application_rates": "603 ml/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "side_effect": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land.",
+  "crops_pests": "Tea - Flush worm",
+  "crops": "Tea",
+  "pest": "Flush worm",
+  "symptoms": "rough, crinkled, and leathery leaves",
+  "causes": "Cricula trifenestrata",
+  "product_tags": [
+    "mczinex 60 ec",
+    "diazinon",
+    "tea",
+    "flush worm",
+    "insecticide"
+  ],
+  "product_price": "",
+  "reg_no": "AP-1434",
+  "serial_no": "61",
+  "product_url": "https://www.mcdonaldbd.com/product/mczinex-60ec/",
+  "origin": "Panchem, Singapore",
+  "isActive": "false",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

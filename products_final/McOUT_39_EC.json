@@ -1,0 +1,32 @@
+{
+  "product_id": "MBL-020",
+  "product_name": "McOUT 39 EC",
+  "product_image": "images/McOUT_39_EC.jpg",
+  "medicine_name": "Clomazone 12% + Propanil 27%",
+  "category_name": "Herbicides / Weedicides",
+  "description": "McOUT 39 EC is a combination herbicide containing Clomazone and Propanil. It provides effective control of weeds in rice fields through both pre-emergence and post-emergence action.",
+  "application_rates": "1.5 L/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "side_effect": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land.",
+  "crops_pests": "Rice - Weeds",
+  "crops": "Rice",
+  "pest": "Weeds",
+  "symptoms": "Weed infestation causing competition for nutrients, water, and sunlight, leading to reduced crop yield and quality",
+  "causes": "Broadleaf weeds and grasses competing with rice crops for resources",
+  "product_tags": [
+    "mcout 39 ec",
+    "clomazone",
+    "propanil",
+    "rice",
+    "weeds",
+    "herbicide"
+  ],
+  "product_price": "",
+  "reg_no": "",
+  "serial_no": "20",
+  "product_url": "",
+  "origin": "",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

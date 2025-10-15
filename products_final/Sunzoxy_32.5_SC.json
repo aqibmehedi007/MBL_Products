@@ -1,0 +1,30 @@
+{
+  "product_id": "MBL-047",
+  "product_name": "Sunzoxy 32.5 SC",
+  "product_image": "images/Sunzoxy_32.5_SC.jpg",
+  "medicine_name": "Azoxystrobin 20% + Difenoconazole 12.5%",
+  "category_name": "Fungicides",
+  "description": "Sunzoxy 32.5 SC is a broad-spectrum fungicide with systemic and translaminar properties, providing both preventive and curative action.",
+  "application_rates": "@ 1.0 ml / L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "side_effect": "Wear protective equipment to avoid skin and eye contact. Toxic to aquatic organisms. Avoid spray drift to water bodies.",
+  "crops_pests": "Mango Anthracnose",
+  "crops": "Mango",
+  "pest": "Anthracnose, powdery mildews, rusts, and leaf spots",
+  "symptoms": "Dark lesions on fruits and leaves, circular spots with concentric rings, fruit rot and premature drop",
+  "causes": "Fungal pathogen Colletotrichum gloeosporioides",
+  "product_tags": [
+    "sunzoxy 32.5 sc",
+    "azoxystrobin",
+    "difenoconazole",
+    "fungicide"
+  ],
+  "product_price": "",
+  "reg_no": "AP - 4658",
+  "serial_no": "5",
+  "product_url": "https://www.mcdonaldbd.com/product/sunzoxy-32-5-sc-2/",
+  "origin": "Sundat, Singapore",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

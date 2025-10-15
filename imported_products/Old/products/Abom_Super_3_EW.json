@@ -1,0 +1,32 @@
+{
+  "product_id": "MBL-020",
+  "product_name": "Abom Super 3 EW",
+  "product_image": "images/Abom_Super_3EW.jpg",
+  "medicine_name": "Abamectin 3%",
+  "category_name": "Insecticides/Acaricides",
+  "description": "Abom Super 3EW is an insecticide and miticide with translaminar movement, effective against Tea Red Spider mite.",
+  "application_rates": "1 ml/L of water or 500 ml/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "side_effect": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land.",
+  "crops_pests": "Tea - Red mite",
+  "crops": "Tea",
+  "pest": "Red mite, Red Spider mite",
+  "symptoms": "yellowish or reddish-brown spots along the midrib of leaves, bronzing of leaves, and eventual defoliation",
+  "causes": "Oligonychus coffeae",
+  "product_tags": [
+    "abom super 3 ew",
+    "abamectin",
+    "tea",
+    "red mite",
+    "acaricide",
+    "insecticide"
+  ],
+  "product_price": "",
+  "reg_no": "AP - 4871",
+  "serial_no": "36",
+  "product_url": "https://www.mcdonaldbd.com/product/abom-super-3ew/",
+  "origin": "Shandong, China",
+  "isActive": "false",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

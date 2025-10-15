@@ -1,0 +1,2545 @@
+{
+  "Rice": [
+  {
+  "pest": "BPH (Brown Plant Hopper)",
+  "symptoms": "Hopperburn or yellowing, browning and drying of plant",
+  "causes": "Brown plant hopper",
+  "products": [
+  {
+  "product_name": "BENEFIT 20 EC",
+  "medicine_name": "Carbosulfan",
+  "application_rates": "Rice- 1L/ha\nCotton- 1.2L/ha",
+  "frequency_of_use": "Rice- 2 times \nCotton – 2 times",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "GAIN 20 SL",
+  "medicine_name": "Imidacloprid",
+  "application_rates": "Rice- 125 ml/ha\nTea- 1.5 L/ha\nSugarcane- 1 L/ha",
+  "frequency_of_use": "Rice: 1-2 times\nTea: 1-2 times\nSugarcane: 1-2 times",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "GAIN SUPER 70 WG",
+  "medicine_name": "Imidacloprid",
+  "application_rates": "15 gm/acre or 35.70 gm/ ha",
+  "frequency_of_use": "1-2 times",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "Kriphate 75SP",
+  "medicine_name": "Acephate",
+  "application_rates": "Rice - 750 gm/ha\nTea - 500 gm/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "ABAMID 38 WDG",
+  "medicine_name": "Abamectin + Imidacloprid",
+  "application_rates": "Rice- 125 gm/ha \nBrinjal - 0.5 gm/L\nTea – 250 gm/ha",
+  "frequency_of_use": "Rice- 2 times \nBrinjal – 10 times\nTea – as necessary",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "SABION 60 EC",
+  "medicine_name": "Diazinon",
+  "application_rates": "Rice YSB- 34ml/10L water i.e. 1.7 L/ha\nRice GLH- 30ml/10L water i.e. 1.5 L/ha\nRice BPH- 20ml/10L water i.e. 1 L/ha\nMustard Aphid- 20ml/10L water i.e. 1 L/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "LUTHAM 40 WDG",
+  "medicine_name": "Thiamethoxam 30% + Lufenuron 10%",
+  "application_rates": "Tea - 150 g/ha\nRice - 50 g/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "GLH (Green Leaf Hopper)",
+  "symptoms": "stunted growth, yellowing or orange-yellowing of leaves, wilting, and reduced tiller numbers",
+  "causes": "Green Leafhoppers",
+  "products": [
+  {
+  "product_name": "SUNTAP 50 SP",
+  "medicine_name": "Cartap",
+  "application_rates": "Rice- 28 gm/ 10 L water i.e. 1.4 kg / ha (YSB & GLH)\n32 gm / 10 L water i.e. 1.6 kg / ha (BPH)\n16 gm / 10 L water i.e. 800 gm / ha (HISPA)\nBrinjal – 24 gm / 10 L water (BSFB)",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "Rice hispa",
+  "symptoms": "white, parallel streaks on leaves caused by adult feeding and blisters or blotches formed by larval tunneling",
+  "causes": "Dicladispa armigera",
+  "products": [
+  {
+  "product_name": "SUNTAP 50 SP",
+  "medicine_name": "Cartap",
+  "application_rates": "Rice- 28 gm/ 10 L water i.e. 1.4 kg / ha (YSB & GLH)\n32 gm / 10 L water i.e. 1.6 kg / ha (BPH)\n16 gm / 10 L water i.e. 800 gm / ha (HISPA)\nBrinjal – 24 gm / 10 L water (BSFB)",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "SABION 60 EC",
+  "medicine_name": "Diazinon",
+  "application_rates": "Rice YSB- 34ml/10L water i.e. 1.7 L/ha\nRice GLH- 30ml/10L water i.e. 1.5 L/ha\nRice BPH- 20ml/10L water i.e. 1 L/ha\nMustard Aphid- 20ml/10L water i.e. 1 L/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "Yellow stem borer",
+  "symptoms": "\"deadhearts\" (drying of central shoots) during the vegetative stage, and \"whiteheads\" (empty, white panicles) during the reproductive stage",
+  "causes": "yellow stem borer",
+  "products": [
+  {
+  "product_name": "MCNIL PLUS 2.30 GR",
+  "medicine_name": "Imidacloprid 2% + Fipronil 0.3%",
+  "application_rates": "10 kg/ha; 4 kg/acre",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "Vita Supra 0.5 GR",
+  "medicine_name": null,
+  "application_rates": null,
+  "frequency_of_use": null,
+  "safety_precautions": null
+  },
+  {
+  "product_name": "SUNTAP 50 SP",
+  "medicine_name": "Cartap",
+  "application_rates": "Rice- 28 gm/ 10 L water i.e. 1.4 kg / ha (YSB & GLH)\n32 gm / 10 L water i.e. 1.6 kg / ha (BPH)\n16 gm / 10 L water i.e. 800 gm / ha (HISPA)\nBrinjal – 24 gm / 10 L water (BSFB)",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "SUNTAP PLUS 50 WP",
+  "medicine_name": "Cartap hydrochloride 47.5% + Fipronil 2.5%",
+  "application_rates": "750 gm/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "SABION 60 EC",
+  "medicine_name": "Diazinon",
+  "application_rates": "Rice YSB- 34ml/10L water i.e. 1.7 L/ha\nRice GLH- 30ml/10L water i.e. 1.5 L/ha\nRice BPH- 20ml/10L water i.e. 1 L/ha\nMustard Aphid- 20ml/10L water i.e. 1 L/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "McNIL 3 GR",
+  "medicine_name": "Fipronil",
+  "application_rates": "10 kg/ha or 4 Kg/acre",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "VITAFURAN 5G",
+  "medicine_name": null,
+  "application_rates": null,
+  "frequency_of_use": null,
+  "safety_precautions": null
+  }
+  ]
+  },
+  {
+  "pest": "Weeds",
+  "symptoms": "",
+  "causes": "",
+  "products": [
+  {
+  "product_name": "TRIPLE GOLD 30 WP",
+  "medicine_name": "Bispyribac sodium 20% + Pyrazosulfuron-ethyl 10%",
+  "application_rates": "150 gm/ha; 60 gm/acre; 20 gm/bigha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "HALOFOP 24 ME",
+  "medicine_name": "Cyhalofop-butyl 4% + Bentazone Sodium salt 20%",
+  "application_rates": "150 ml/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "McOUT 39 EC",
+  "medicine_name": "Clomazone 12% + Propanil 27%",
+  "application_rates": "1.5 L/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "ACTIVER 25 EC",
+  "medicine_name": "Oxadiazon",
+  "application_rates": "2 ml/L of water or \n1 L/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "Porishker 10 WP",
+  "medicine_name": "Pyrazosulfuran Ethyl",
+  "application_rates": "17 gm / bigha \n50 gm / acre\n125 gm / ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "Weeds/ Pani kochu, Holde mutha, Shayma",
+  "symptoms": "",
+  "causes": "",
+  "products": [
+  {
+  "product_name": "SUNCHANCE 18 WP",
+  "medicine_name": "Bensulfuron methyl + Acetachlor",
+  "application_rates": "Tea- 3 kg/ha\nRice- 750 gm/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "Sheath blight",
+  "symptoms": "greenish-gray, water-soaked spots that enlarge and develop gray-white centers with brown margins",
+  "causes": "Rhizoctonia solani",
+  "products": [
+  {
+  "product_name": "KNOWIN 50 WP",
+  "medicine_name": "Carbendazim",
+  "application_rates": "Rice- 1kg/ha\nMango- 1 gm/L water\nTea- 750 gm/ha\nBanana- 2 gm/L water\nGuava- 2 gm/L water\nSugarcane- 1 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  }
+  ],
+  "Potato": [
+  {
+  "pest": "Weeds",
+  "symptoms": "",
+  "causes": "",
+  "products": [
+  {
+  "product_name": "McOUT 39 EC",
+  "medicine_name": "Clomazone 12% + Propanil 27%",
+  "application_rates": "1.5 L/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "ACTIVER 25 EC",
+  "medicine_name": "Oxadiazon",
+  "application_rates": "2 ml/L of water or \n1 L/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "Lately 33 EC",
+  "medicine_name": "Pendimethalin",
+  "application_rates": "1 L/ha; 400 ml/acre; 2 ml/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "Late blight",
+  "symptoms": "water-soaked, irregular, dark spots on leaves and stems that develop into brown, necrotic lesions with a white, fuzzy mold in humid conditions, and tubers show brown, purplish patches with a reddish-brown internal rot",
+  "causes": "Phytophthora infestans",
+  "products": [
+  {
+  "product_name": "McZIDAN SUPER 80 WP",
+  "medicine_name": "Mancozeb",
+  "application_rates": "2 gm/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "Sunoxanil 72 WP",
+  "medicine_name": "Mancozeb 64% + cymoxanil 8%",
+  "application_rates": "2 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  }
+  ],
+  "Cotton": [
+  {
+  "pest": "Aphid",
+  "symptoms": "stunted growth, yellowing and curling leaves, and deformed buds and bolls",
+  "causes": "Aphids",
+  "products": [
+  {
+  "product_name": "BENEFIT 20 EC",
+  "medicine_name": "Carbosulfan",
+  "application_rates": "Rice- 1L/ha\nCotton- 1.2L/ha",
+  "frequency_of_use": "Rice- 2 times \nCotton – 2 times",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "GAIN 20 SL",
+  "medicine_name": "Imidacloprid",
+  "application_rates": "Rice- 125 ml/ha\nTea- 1.5 L/ha\nSugarcane- 1 L/ha",
+  "frequency_of_use": "Rice: 1-2 times\nTea: 1-2 times\nSugarcane: 1-2 times",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "Jassid",
+  "symptoms": "leaf yellowing, curling, and reddening, leading to a \"hopper burn\" browning of leaf margins, stunted growth, and reduced yield",
+  "causes": "Jassid",
+  "products": [
+  {
+  "product_name": "BENEFIT 20 EC",
+  "medicine_name": "Carbosulfan",
+  "application_rates": "Rice- 1L/ha\nCotton- 1.2L/ha",
+  "frequency_of_use": "Rice- 2 times \nCotton – 2 times",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "Ballworm",
+  "symptoms": "boring holes into buds and bolls, which can then be hollowed out, leading to shedding of young buds or premature cracking and rot in older bolls",
+  "causes": "bollworm moth species like Helicoverpa armigera",
+  "products": [
+  {
+  "product_name": "SUNMERIN 10 EC",
+  "medicine_name": "Cypermethrin",
+  "application_rates": "Mango Hopper – 1 ml/L water\nCotton Ballworm- 1.2 ml/L water i.e. 600 ml/ha\nTea Helopeltis- 1 ml/L water i.e. 500 ml/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "SUNTHRIN 2.5 EC",
+  "medicine_name": "Bifenthrin",
+  "application_rates": "Tea- 500 ml/ha\nCotton- 600 ml/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  }
+  ],
+  "Tea": [
+  {
+  "pest": "Red mite",
+  "symptoms": "yellowish or reddish-brown spots along the midrib of leaves, bronzing of leaves, and eventual defoliation",
+  "causes": "Oligonychus coffeae",
+  "products": [
+  {
+  "product_name": "ABOM 1.8 EC",
+  "medicine_name": "Abamectin",
+  "application_rates": "1 ml/L of water or \n500 ml/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "ABOM SUPER 3 EW",
+  "medicine_name": "Abamectin",
+  "application_rates": "1 ml/L of water or \n500 ml/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "BINTA 2 EC",
+  "medicine_name": "Abamectin 0.5% + Beta cypermethrin 1.5%",
+  "application_rates": "1 ml/L of water or \n500 ml/ha",
+  "frequency_of_use": "2-3 times depending on crops",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "FENMITE 5 SC",
+  "medicine_name": "Fenpyroximate",
+  "application_rates": "1 L/ha,\n2 ml/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "SUMITE 57 EC",
+  "medicine_name": "Propergite",
+  "application_rates": "1.68 L/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "PYRIN 20 WP",
+  "medicine_name": "Pyridaben",
+  "application_rates": "500 gm/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "Polysuf 80 WG",
+  "medicine_name": "Sulphur",
+  "application_rates": "Cucurbits- 2 gm/L of water; Tea – 2.2kg/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "Termite",
+  "symptoms": "wilting and eventual death of tea plants, with affected plants showing hollowed-out roots and stems filled with soil",
+  "causes": "",
+  "products": [
+  {
+  "product_name": "GAIN 20 SL",
+  "medicine_name": "Imidacloprid",
+  "application_rates": "Rice- 125 ml/ha\nTea- 1.5 L/ha\nSugarcane- 1 L/ha",
+  "frequency_of_use": "Rice: 1-2 times\nTea: 1-2 times\nSugarcane: 1-2 times",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "Aphid",
+  "symptoms": "leaf curling, yellowing, and stunted growth",
+  "causes": "",
+  "products": [
+  {
+  "product_name": "ABAMID 38 WDG",
+  "medicine_name": "Abamectin + Imidacloprid",
+  "application_rates": "Rice- 125 gm/ha \nBrinjal - 0.5 gm/L\nTea – 250 gm/ha",
+  "frequency_of_use": "Rice- 2 times \nBrinjal – 10 times\nTea – as necessary",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "LUTHAM 40 WDG",
+  "medicine_name": "Thiamethoxam 30% + Lufenuron 10%",
+  "application_rates": "Tea - 150 g/ha\nRice - 50 g/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "Dieback",
+  "symptoms": "yellowing or browning of leaves, premature leaf drop, and wilting",
+  "causes": "Nectria, Pestalotiopsis, Pseudopestalotiopsis, and Neopestalotiopsis",
+  "products": [
+  {
+  "product_name": "THIZA 20 SC",
+  "medicine_name": null,
+  "application_rates": null,
+  "frequency_of_use": null,
+  "safety_precautions": null
+  },
+  {
+  "product_name": "Polyco 50 WP",
+  "medicine_name": "Copper Oxychloride",
+  "application_rates": "2.8 kg/ha; 1.15 kg/acre",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "Helopeltis Bugs",
+  "symptoms": "discolored, necrotic lesions, leaf curling and deformation, dieback of young shoots, and even premature fruit drop in affected plants",
+  "causes": "Helopeltis antonii",
+  "products": [
+  {
+  "product_name": "SUNMERIN 10 EC",
+  "medicine_name": "Cypermethrin",
+  "application_rates": "Mango Hopper – 1 ml/L water\nCotton Ballworm- 1.2 ml/L water i.e. 600 ml/ha\nTea Helopeltis- 1 ml/L water i.e. 500 ml/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "ETHER PLUS 40 WG",
+  "medicine_name": "Emamectin benzoate 20% + Thiamethoxam 20%",
+  "application_rates": "100 gm/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "SUNTHRIN 2.5 EC",
+  "medicine_name": "Bifenthrin",
+  "application_rates": "Tea- 500 ml/ha\nCotton- 600 ml/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "Weeds/ Bagracot, Ulu",
+  "symptoms": "",
+  "causes": "",
+  "products": [
+  {
+  "product_name": "REREWEED 32 SC",
+  "medicine_name": "Glufosinate -ammonium 24%+ Oxyfluorfen 8%",
+  "application_rates": "3 L/ha; 1.5 L/acre",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "Ridweed Plus 28 SL",
+  "medicine_name": "Glufosinate -ammonium",
+  "application_rates": "3 L/ha; 1.2 L/acre; 6 ml/L of water",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "SUNCHANCE 18 WP",
+  "medicine_name": "Bensulfuron methyl + Acetachlor",
+  "application_rates": "Tea- 3 kg/ha\nRice- 750 gm/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "RIDWEED RP",
+  "medicine_name": "Glyphosate",
+  "application_rates": "3.7 L/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "2,4 D-WEEDER 72 SL",
+  "medicine_name": "2,4-D Amine Salt",
+  "application_rates": "2.24 L/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "CLEANOXONE 24 SL",
+  "medicine_name": "Paraquat",
+  "application_rates": "Banana- 3 ml/L of water\nTea – 2.8 L/ha",
+  "frequency_of_use": "1 time ",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "Weedoxone",
+  "medicine_name": "Paraquat",
+  "application_rates": "Banana- 3 ml/L of water\nTea – 2.8 L/ha",
+  "frequency_of_use": "1 time ",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "Black rot",
+  "symptoms": "angular or V-shaped chlorotic (yellowing) lesions on leaf edges, which may later turn tan or brown with black veins",
+  "causes": "Corticium theae and Corticium invisum",
+  "products": [
+  {
+  "product_name": "Polyco 50 WP",
+  "medicine_name": "Copper Oxychloride",
+  "application_rates": "2.8 kg/ha; 1.15 kg/acre",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "Red rust, rusty or reddish-brown spots on leaves and stems",
+  "symptoms": "",
+  "causes": "Cephaleuros parasiticus",
+  "products": [
+  {
+  "product_name": "Polyco 50 WP",
+  "medicine_name": "Copper Oxychloride",
+  "application_rates": "2.8 kg/ha; 1.15 kg/acre",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "KNOWIN 50 WP",
+  "medicine_name": "Carbendazim",
+  "application_rates": "Rice- 1kg/ha\nMango- 1 gm/L water\nTea- 750 gm/ha\nBanana- 2 gm/L water\nGuava- 2 gm/L water\nSugarcane- 1 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "SUNVIT 50 WP",
+  "medicine_name": "Copper Oxychloride",
+  "application_rates": "Sesame- 3.4 kg/ha; 68 gm/10 L water\nTea- 2.8 kg/ha; 56 gm/10 L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "Flush worm",
+  "symptoms": "rough, crinkled, and leathery leaves",
+  "causes": "Cricula trifenestrata",
+  "products": [
+  {
+  "product_name": "MCZINEX 60 EC",
+  "medicine_name": "Diazinon",
+  "application_rates": "603 ml/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  }
+  ],
+  "Onion": [
+  {
+  "pest": "Purple blotch",
+  "symptoms": "sunken, purplish-brown spots with a \"bull's-eye\" pattern on leaves, wilting, and spongy rot in bulbs",
+  "causes": "Fungus Alternaria porri",
+  "products": [
+  {
+  "product_name": "CARDION 50 WP",
+  "medicine_name": "Iprodione 25% + Carbendazim 25%",
+  "application_rates": "2 gm/L of water or, \n1 Kg/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "McCol 70 WP",
+  "medicine_name": "Propineb",
+  "application_rates": "1 kg/ha; 2 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "McZIDAN SUPER 80 WP",
+  "medicine_name": "Mancozeb",
+  "application_rates": "2 gm/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  }
+  ],
+  "Chilli": [
+  {
+  "pest": "Mite",
+  "symptoms": "leaf curling, yellowing, browning, crinkling, and brittle leaves, along with stunted growth and distorted flowers and fruits",
+  "causes": "",
+  "products": [
+  {
+  "product_name": "FENMITE 5 SC",
+  "medicine_name": "Fenpyroximate",
+  "application_rates": "1 L/ha,\n2 ml/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  }
+  ],
+  "Sugarcane": [
+  {
+  "pest": "Termite",
+  "symptoms": "yellowing leaves, dried shoots, and setts that are hollow and filled with soil or mud",
+  "causes": "Termite",
+  "products": [
+  {
+  "product_name": "GAIN 20 SL",
+  "medicine_name": "Imidacloprid",
+  "application_rates": "Rice- 125 ml/ha\nTea- 1.5 L/ha\nSugarcane- 1 L/ha",
+  "frequency_of_use": "Rice: 1-2 times\nTea: 1-2 times\nSugarcane: 1-2 times",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "Red rot",
+  "symptoms": "wilting, yellowing, and drying of leaves, along with distinctive red, interrupted patches inside the stalk",
+  "causes": "Colletotrichum falcatum",
+  "products": [
+  {
+  "product_name": "KNOWIN 50 WP",
+  "medicine_name": "Carbendazim",
+  "application_rates": "Rice- 1kg/ha\nMango- 1 gm/L water\nTea- 750 gm/ha\nBanana- 2 gm/L water\nGuava- 2 gm/L water\nSugarcane- 1 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "White blight",
+  "symptoms": "narrower, softer leaves, stunted growth, proliferation of tillers leading to a bushy, broom-like appearance, and reduced vigor and sugar content",
+  "causes": "sugarcane white leaf phytoplasma",
+  "products": [
+  {
+  "product_name": "MCNIL PLUS 2.30 GR",
+  "medicine_name": "Imidacloprid 2% + Fipronil 0.3%",
+  "application_rates": "10 kg/ha; 4 kg/acre",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  }
+  ],
+  "Tomato": [
+  {
+  "pest": "Early blight",
+  "symptoms": "dark, circular spots with concentric \"bullseye\" rings on the lower leaves, stems, and fruit, often surrounded by a yellow halo",
+  "causes": "Alternaria solani",
+  "products": [
+  {
+  "product_name": "CM 75 WP",
+  "medicine_name": "Mancozeb 63% + Carbendazim 12%",
+  "application_rates": "2 gm/L of water",
+  "frequency_of_use": "",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "McZeb 80 WP",
+  "medicine_name": null,
+  "application_rates": null,
+  "frequency_of_use": null,
+  "safety_precautions": null
+  },
+  {
+  "product_name": "McZIDAN SUPER 80 WP",
+  "medicine_name": "Mancozeb",
+  "application_rates": "2 gm/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "Wilt",
+  "symptoms": "one-sided yellowing and wilting",
+  "causes": "Fusarium and Verticillium",
+  "products": [
+  {
+  "product_name": "SUNSARTO 11 WP",
+  "medicine_name": "Hexaconazole 2.5% + Validamycin 8.5%",
+  "application_rates": "500 gm/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  }
+  ],
+  "Brinjal": [
+  {
+  "pest": "Bacterial Wilt",
+  "symptoms": "stunted growth, leaf yellowing and drooping, and sudden wilting that may recover overnight but become permanent",
+  "causes": "Ralstonia solanacearum",
+  "products": [
+  {
+  "product_name": "KROSIN-AG 10SP",
+  "medicine_name": "Streptomycin sulphate 9% + Tetracycline hydrochloride 1%",
+  "application_rates": "0.5 gm/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "Red mite",
+  "symptoms": "a speckled, yellow, or white appearance on leaves due to cell contents being sucked out, which progresses to drying, browning, and leaf drop",
+  "causes": "Tetranychus urticae",
+  "products": [
+  {
+  "product_name": "ABAMID 38 WDG",
+  "medicine_name": "Abamectin + Imidacloprid",
+  "application_rates": "Rice- 125 gm/ha \nBrinjal - 0.5 gm/L\nTea – 250 gm/ha",
+  "frequency_of_use": "Rice- 2 times \nBrinjal – 10 times\nTea – as necessary",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "SUNABAPRID 4 EC",
+  "medicine_name": null,
+  "application_rates": null,
+  "frequency_of_use": null,
+  "safety_precautions": null
+  }
+  ]
+  },
+  {
+  "pest": "Fruit & shoot borer",
+  "symptoms": "wilting of shoot tips and flowers, \"dead hearts\" in stems, and fruit damage with entry holes sealed by frass",
+  "causes": "Leucinodes orbonalis",
+  "products": [
+  {
+  "product_name": "SUNTAP 50 SP",
+  "medicine_name": "Cartap",
+  "application_rates": "Rice- 28 gm/ 10 L water i.e. 1.4 kg / ha (YSB & GLH)\n32 gm / 10 L water i.e. 1.6 kg / ha (BPH)\n16 gm / 10 L water i.e. 800 gm / ha (HISPA)\nBrinjal – 24 gm / 10 L water (BSFB)",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "Aphid",
+  "symptoms": "leaf yellowing, curling, and stunting",
+  "causes": "Aphid infestation",
+  "products": [
+  {
+  "product_name": "CYPERFOS 55 EC",
+  "medicine_name": "Chlorpyriphos 50% + Cypermethrin 5%",
+  "application_rates": "1 ml / L water; \n200 ml/acre",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "FULLMOON 9 OD",
+  "medicine_name": null,
+  "application_rates": null,
+  "frequency_of_use": null,
+  "safety_precautions": null
+  },
+  {
+  "product_name": "McDoate 5 WDG",
+  "medicine_name": "Emamectin benzoate",
+  "application_rates": "1 gm/L water; 200gm/acre",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "SUNINE 6 WDG",
+  "medicine_name": "Abamectin 2% + Emamectin Benzoate 4%",
+  "application_rates": "0.5 g/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "Indoxiprid 22.2 SC",
+  "medicine_name": "Indoxacarb 14.5% + Acetamiprid 7.7%",
+  "application_rates": "500 ml/ha; 200 ml/acre;\n1 ml/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "NYZIN 80 WDG",
+  "medicine_name": "Nitenpyram 20% + Pymetrozin 60%",
+  "application_rates": "0.5 gm/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  }
+  ],
+  "Banana": [
+  {
+  "pest": "Sigatoka",
+  "symptoms": "dark streaks and spots on leaves, leading to yellowing, browning, and leaf death, which reduces photosynthesis and yield",
+  "causes": "Pseudocercospora fijiensis and Mycosphaerella fijiensis",
+  "products": [
+  {
+  "product_name": "KRIZOLE 5 EC",
+  "medicine_name": "Hexaconazole",
+  "application_rates": "10 ml per 10 L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "KNOWIN 50 WP",
+  "medicine_name": "Carbendazim",
+  "application_rates": "Rice- 1kg/ha\nMango- 1 gm/L water\nTea- 750 gm/ha\nBanana- 2 gm/L water\nGuava- 2 gm/L water\nSugarcane- 1 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "Weeds",
+  "symptoms": "",
+  "causes": "",
+  "products": [
+  {
+  "product_name": "CLEANOXONE 24 SL",
+  "medicine_name": "Paraquat",
+  "application_rates": "Banana- 3 ml/L of water\nTea – 2.8 L/ha",
+  "frequency_of_use": "1 time ",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  }
+  ],
+  "Mango": [
+  {
+  "pest": "Anthracnose",
+  "symptoms": "small, dark, sunken spots on leaves, flowers, twigs, and fruit",
+  "causes": "Colletotrichum gloeosporioides",
+  "products": [
+  {
+  "product_name": "DAZIM 50 WP",
+  "medicine_name": null,
+  "application_rates": null,
+  "frequency_of_use": null,
+  "safety_precautions": null
+  },
+  {
+  "product_name": "McZIDAN SUPER 80 WP",
+  "medicine_name": "Mancozeb",
+  "application_rates": "2 gm/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "KRIZOLE 5 EC",
+  "medicine_name": "Hexaconazole",
+  "application_rates": "10 ml per 10 L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "CARDION 50 WP",
+  "medicine_name": "Iprodione 25% + Carbendazim 25%",
+  "application_rates": "2 gm/L of water or, \n1 Kg/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "SUNZOXY 32.5 SC",
+  "medicine_name": "Azoxystrobin 20% + Difenoconazole 12.5%",
+  "application_rates": "10 ml per 10 L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "SUNFIGHTER 25 SC",
+  "medicine_name": "Hexaconazole 3% + Tricyclazole 22%",
+  "application_rates": "0.5 ml/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "MORE 720 WP",
+  "medicine_name": "Mancozeb 64% + cymoxanil 8%",
+  "application_rates": "2 gm/L water",
+  "frequency_of_use": "1-3 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "POSITIVE 30 SE",
+  "medicine_name": "Difenoconazole 15% + Propiconazol 15%",
+  "application_rates": "1 ml/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "KNOWIN 50 WP",
+  "medicine_name": "Carbendazim",
+  "application_rates": "Rice- 1kg/ha\nMango- 1 gm/L water\nTea- 750 gm/ha\nBanana- 2 gm/L water\nGuava- 2 gm/L water\nSugarcane- 1 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "Sunoxanil 72 WP",
+  "medicine_name": "Mancozeb 64% + cymoxanil 8%",
+  "application_rates": "2 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "Hopper",
+  "symptoms": "yellowing and wilting of young leaves, brown and dried-up flowers, and increased fruit drop due to sap-sucking by nymphs and adults, Honeydew secretion.",
+  "causes": "Idioscopus clypealis and Idioscopus niveosparsus",
+  "products": [
+  {
+  "product_name": "SUNMERIN 10 EC",
+  "medicine_name": "Cypermethrin",
+  "application_rates": "Mango Hopper – 1 ml/L water\nCotton Ballworm- 1.2 ml/L water i.e. 600 ml/ha\nTea Helopeltis- 1 ml/L water i.e. 500 ml/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "Lambdafos 33 EC",
+  "medicine_name": "Profenofos 30% + Lambda Cyhalothrin 3%",
+  "application_rates": "1 ml/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "NYZIN 80 WDG",
+  "medicine_name": "Nitenpyram 20% + Pymetrozin 60%",
+  "application_rates": "0.5 gm/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "Powdery mildew",
+  "symptoms": "white, powdery growth on leaves, flower stalks, flowers, and young fruits",
+  "causes": "Oidium mangiferae",
+  "products": [
+  {
+  "product_name": "Sunoxanil 72 WP",
+  "medicine_name": "Mancozeb 64% + cymoxanil 8%",
+  "application_rates": "2 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  }
+  ],
+  "Wheat": [
+  {
+  "pest": "Foot Rot & Seedling blight",
+  "symptoms": "seedling damping-off, poor root development, dark brown stem discolouration, stunted growth, and shriveled kernels",
+  "causes": "Fusarium and Microdochium species",
+  "products": [
+  {
+  "product_name": "ASAVAX 40 WP",
+  "medicine_name": null,
+  "application_rates": null,
+  "frequency_of_use": null,
+  "safety_precautions": null
+  }
+  ]
+  },
+  {
+  "pest": "Weeds",
+  "symptoms": "",
+  "causes": "",
+  "products": [
+  {
+  "product_name": "SUNFINITY 50.75 WP",
+  "medicine_name": "Carfentrazone-ethyl 0.75% + Isoproturon 50%",
+  "application_rates": "1.50 Kg/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "Lesser grain borer, Lesser grain weevil, Lesser grain beetle",
+  "symptoms": "usually seen in stored wheat",
+  "causes": "",
+  "products": [
+  {
+  "product_name": "VANTAGE 56%",
+  "medicine_name": "Aluminium phosphide",
+  "application_rates": "4 Tab/MT Grain",
+  "frequency_of_use": "-",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  }
+  ],
+  "Mustard": [
+  {
+  "pest": "Aphid",
+  "symptoms": "leaf curling, yellowing, stunted growth, and potential plant death",
+  "causes": "Aphid infestation",
+  "products": [
+  {
+  "product_name": "SABION 60 EC",
+  "medicine_name": "Diazinon",
+  "application_rates": "Rice YSB- 34ml/10L water i.e. 1.7 L/ha\nRice GLH- 30ml/10L water i.e. 1.5 L/ha\nRice BPH- 20ml/10L water i.e. 1 L/ha\nMustard Aphid- 20ml/10L water i.e. 1 L/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "Late blight",
+  "symptoms": "small, dark brown circular spots with concentric rings on the leaves, which enlarge and coalesce, leading to yellowing and leaf fall",
+  "causes": "Alternaria brassicae and Alternaria brassicicola",
+  "products": [
+  {
+  "product_name": "CARDION SUPER 50 WP",
+  "medicine_name": "Iprodione 25% + Carbendazim 25%",
+  "application_rates": " 2 gm/L of water or, \n1 Kg/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  }
+  ],
+  "Cucumber": [
+  {
+  "pest": "Powdery mildew",
+  "symptoms": "white, powdery patches on leaves and stems, which can lead to yellowing, wilting, and premature death of the plant",
+  "causes": "Podosphaera xanthii and Erysiphe cichoracearum",
+  "products": [
+  {
+  "product_name": "SUNCA 50 SC",
+  "medicine_name": "Boscalid",
+  "application_rates": "1 ml/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "SUNZOLE PLUS 70 WP",
+  "medicine_name": "Fenoxanil + Tricyclazole",
+  "application_rates": "0.5 gm/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  }
+  ],
+  "Sweet Gourd": [
+  {
+  "pest": "Powdery mildew",
+  "symptoms": "white, powdery patches on leaves, stems, and fruit, which can spread to form large, discolored blotches that cover the entire surface",
+  "causes": "Podosphaera xanthii",
+  "products": [
+  {
+  "product_name": "MCVO 75 WG",
+  "medicine_name": "Tebuconazole 50% + Trifloxystrobin 25%",
+  "application_rates": "0.5 gm/L of water",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "SUNPUMA 54 WP",
+  "medicine_name": "Kasugamycin hydrochloride hydrate 4% + Carbendazim 50%",
+  "application_rates": "1.5 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  }
+  ],
+  "Jute": [
+  {
+  "pest": "Weeds",
+  "symptoms": "",
+  "causes": "",
+  "products": [
+  {
+  "product_name": "SUNWELL 5 EC",
+  "medicine_name": "Quizalofop-p-ethyl",
+  "application_rates": "650 ml/ha or 260 ml/acre",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  },
+  {
+  "pest": "Hairy Caterpillar",
+  "symptoms": "Leaf Scrapping, Net-like Appearance, Defoliation and Skeletonization and Stunted Growth",
+  "causes": "Spilosoma obliqua",
+  "products": [
+  {
+  "product_name": "VITABRYL 85 WP",
+  "medicine_name": "Carbaryl",
+  "application_rates": "30 gm/ 10 L water i.e. 1.5 kg /ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  }
+  ],
+  "Cucurbits": [
+  {
+  "pest": "Powdery mildew",
+  "symptoms": "white, powdery patches on leaves and stems, which can lead to yellowing, wilting, and premature death of the plant",
+  "causes": "Podosphaera xanthii",
+  "products": [
+  {
+  "product_name": "McVIT 80 DF",
+  "medicine_name": "Sulphur",
+  "application_rates": "2 gm/L of water",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  },
+  {
+  "product_name": "Polysuf 80 WG",
+  "medicine_name": "Sulphur",
+  "application_rates": "Cucurbits- 2 gm/L of water; Tea – 2.2kg/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  }
+  ],
+  "Guava": [
+  {
+  "pest": "Anthracnose",
+  "symptoms": "dieback of twigs, dark brown, sunken, corky spots on unripe fruits, and necrotic lesions on leaves",
+  "causes": "Colletotrichum gloeosporioides",
+  "products": [
+  {
+  "product_name": "KNOWIN 50 WP",
+  "medicine_name": "Carbendazim",
+  "application_rates": "Rice- 1kg/ha\nMango- 1 gm/L water\nTea- 750 gm/ha\nBanana- 2 gm/L water\nGuava- 2 gm/L water\nSugarcane- 1 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  }
+  ],
+  "Sesame": [
+  {
+  "pest": "Leaf spot",
+  "symptoms": "small, dark spots that expand into larger necrotic areas with yellow or purplish borders, often coalescing",
+  "causes": "Cercospora sesami",
+  "products": [
+  {
+  "product_name": "SUNVIT 50 WP",
+  "medicine_name": "Copper Oxychloride",
+  "application_rates": "Sesame- 3.4 kg/ha; 68 gm/10 L water\nTea- 2.8 kg/ha; 56 gm/10 L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  }
+  ],
+  "Maize": [
+  {
+  "pest": "Weeds",
+  "symptoms": "",
+  "causes": "",
+  "products": [
+  {
+  "product_name": "Mezine 33 SC",
+  "medicine_name": "Mesotrione 3% + Atrazine 30%",
+  "application_rates": "1.75 L/ha; 3.5 ml/L",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land."
+  }
+  ]
+  }
+  ],
+  "ধান": [
+  {
+  "pest": "বিপিএইচ (ব্রাউন প্লান্ট হপার)/কারেন্ট পোকা",
+  "symptoms": "হপার বার্ন, গাছ প্রথমে হলুদ হয়ে যায় ও পরে বাদামী হয়ে যায়, দুর থেকে মনে হয় ক্ষেতের ধান পুড়ে গেছে।",
+  "causes": "বিপিএইচ (ব্রাউন প্লান্ট হপার)/কারেন্ট পোকা",
+  "products": [
+  {
+  "product_name": "গেইন ২০ এসএল",
+  "medicine_name": "Imidacloprid",
+  "application_rates": "Rice- 125 ml/ha\nTea- 1.5 L/ha\nSugarcane- 1 L/ha",
+  "frequency_of_use": "Rice: 1-2 times\nTea: 1-2 times\nSugarcane: 1-2 times",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "গেইন সুপার ৭০ ডব্লিউজি",
+  "medicine_name": "Imidacloprid",
+  "application_rates": "15 gm/acre or 35.70 gm/ ha",
+  "frequency_of_use": "1-2 times",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "ক্রিফেট ৭৫এসপি",
+  "medicine_name": "Acephate",
+  "application_rates": "Rice - 750 gm/ha\nTea - 500 gm/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "লুথাম ৪০ ডব্লিউজি",
+  "medicine_name": "Thiamethoxam 30% + Lufenuron 10%",
+  "application_rates": "Tea - 150 g/ha\nRice - 50 g/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন। এই পণ্যটি সালফার ও কপার জাতীয় পণ্যের সাথে একত্রে মিশিয়ে ব্যবহার করা যাবে না।"
+  },
+  {
+  "product_name": "এবামিড ৩৮ডব্লিউজি",
+  "medicine_name": "Abamectin + Imidacloprid",
+  "application_rates": "Rice- 125 gm/ha \nBrinjal - 0.5 gm/L\nTea – 250 gm/ha",
+  "frequency_of_use": "Rice- 2 times \nBrinjal – 10 times\nTea – as necessary",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "বেনিফিট ২০ইসি",
+  "medicine_name": "Carbosulfan",
+  "application_rates": "Rice- 1L/ha\nCotton- 1.2L/ha",
+  "frequency_of_use": "Rice- 2 times \nCotton – 2 times",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "সেবিয়ন ৬০ইসি",
+  "medicine_name": "Diazinon",
+  "application_rates": "Rice YSB- 34ml/10L water i.e. 1.7 L/ha\nRice GLH- 30ml/10L water i.e. 1.5 L/ha\nRice BPH- 20ml/10L water i.e. 1 L/ha\nMustard Aphid- 20ml/10L water i.e. 1 L/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  }
+  ]
+  },
+  {
+  "pest": "সবুজ পাতা ফড়িং/গ্রিন লিফ হপার/জিএলএইচ",
+  "symptoms": "বৃদ্ধি ব্যহত হয়ে যায়, গাছ খর্বাকৃতি হয়ে যায়, পাতা কমলা বা হলুদ হয়ে যায়, গাছ নেতিয়ে পরে, টিলারিং কমে যাওয়া।",
+  "causes": "সবুজ পাতা ফড়িং/গ্রিন লিফ হপার/জিএলএইচ",
+  "products": [
+  {
+  "product_name": "সানটাপ ৫০এসপি",
+  "medicine_name": "Cartap",
+  "application_rates": "Rice- 28 gm/ 10 L water i.e. 1.4 kg / ha (YSB & GLH)\n32 gm / 10 L water i.e. 1.6 kg / ha (BPH)\n16 gm / 10 L water i.e. 800 gm / ha (HISPA)\nBrinjal – 24 gm / 10 L water (BSFB)",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ১৫-২০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  }
+  ]
+  },
+  {
+  "pest": "হলুদ মাজরা পোকা",
+  "symptoms": "গাছের ভেজিটেটিভ স্টেজ এ \"ডেড হার্ট” (কেন্দ্রিয় অংকুর শুকিয়ে যায়) এবং প্রজনন পর্যায়ে \"হোয়াইট হেড\" (খালি সাদা পেনিকেল)",
+  "causes": "হলুদ মাজরা পোকা",
+  "products": [
+  {
+  "product_name": "সানটাপ ৫০এসপি",
+  "medicine_name": "Cartap",
+  "application_rates": "Rice- 28 gm/ 10 L water i.e. 1.4 kg / ha (YSB & GLH)\n32 gm / 10 L water i.e. 1.6 kg / ha (BPH)\n16 gm / 10 L water i.e. 800 gm / ha (HISPA)\nBrinjal – 24 gm / 10 L water (BSFB)",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ১৫-২০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "সানটাপ প্লাস ৫০ ডব্লিউপি",
+  "medicine_name": "Cartap hydrochloride 47.5% + Fipronil 2.5%",
+  "application_rates": "750 gm/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ১৫-২০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "ম্যাকনিল ৩জিআর",
+  "medicine_name": "Fipronil",
+  "application_rates": "10 kg/ha or 4 Kg/acre",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম।"
+  },
+  {
+  "product_name": "ম্যাকনিল প্লাস ২.৩জিআর",
+  "medicine_name": "Imidacloprid 2% + Fipronil 0.3%",
+  "application_rates": "10 kg/ha; 4 kg/acre",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "কীটনাশক, দানাদার কীটনাশকটি শুধুমাত্র মাটিতে প্রয়োগ করার জন্য। সরাসরি গাছে প্রয়োগ করা থেকে বিরত থাকুন"
+  },
+  {
+  "product_name": "সেবিয়ন ৬০ইসা",
+  "medicine_name": "Diazinon",
+  "application_rates": "Rice YSB- 34ml/10L water i.e. 1.7 L/ha\nRice GLH- 30ml/10L water i.e. 1.5 L/ha\nRice BPH- 20ml/10L water i.e. 1 L/ha\nMustard Aphid- 20ml/10L water i.e. 1 L/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "ভিটা-সুপরা ০.৫জিআর",
+  "medicine_name": null,
+  "application_rates": null,
+  "frequency_of_use": null,
+  "safety_precautions": "কীটনাশক, ধান লাগানোর ২০-৩০ দিনের মধ্যে ছিটিয়ে দিন। এ সময় জমিতে প্রয়োজনীয় পানি থাকতে হবে"
+  }
+  ]
+  },
+  {
+  "pest": "আগাছা (শ্যামা, পানি কচু, আরাইল, শাক-নটে, কাটা-নটে, শুশনি শাক, মুথা, বড় চুচা, চেচরা, জয়না, বন মরিচ, হেলেঞ্চা ইত্যাদি)",
+  "symptoms": "ধান পাছের বৃদ্ধি ব্যহত হয়, খাদ্য উপাদান আলো-বাতাস ও জায়গার জন্য ভাগ বসায়, পোকা-মাকড়ের বসতবাড়ী হয়, ফলে ফলন কমে যায়",
+  "causes": "বিভিন্ন আগাছা",
+  "products": [
+  {
+  "product_name": "পরিষ্কার ১০ ডব্লিউপি",
+  "medicine_name": "Pyrazosulfuran Ethyl",
+  "application_rates": "17 gm / bigha \n50 gm / acre\n125 gm / ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "আগাছানাশক, ২-৪ পাতা বিশিষ্ট আগাছা ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "সানচান্স ১৮ডব্লিউপি",
+  "medicine_name": "Bensulfuron methyl + Acetachlor",
+  "application_rates": "Tea- 3 kg/ha\nRice- 750 gm/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "আগাছানাশক, ধান ক্ষেতে চারা রোপণের ৭-১০ দিন পরে ধানের জমিতে পানি থাকা অবস্থায় স্প্রে করার চেয়ে সারের সাথে মিশিয়ে প্রয়োগ করা উত্তম।"
+  },
+  {
+  "product_name": "ট্রিপল গোল্ড ৩০ ডব্লিউপি",
+  "medicine_name": "Bispyribac sodium 20% + Pyrazosulfuron-ethyl 10%",
+  "application_rates": "150 gm/ha; 60 gm/acre; 20 gm/bigha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "আগাছানাশক, ২-৪ পাতা বিশিষ্ট আগাছা ভিজিয়ে স্প্রে করুন। মৌসুমে একবার ব্যবহার করতে হবে।"
+  },
+  {
+  "product_name": "হ্যালোফপ ২৪এমই",
+  "medicine_name": "Cyhalofop-butyl 4% + Bentazone Sodium salt 20%",
+  "application_rates": "150 ml/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "আগাছানাশক, সরাসরি বীজ বপন করা ধান ক্ষেতে: বীজ বপন করার ১০ দিন পরে, শ্যামা ঘাসের ৫ পাতা হওয়ার আগে, ফসল কাটার ৫০ দিন আগে প্রয়োগ করতে হবে। শুকনা জমিতে প্রয়োগ করতে হবে।<br>চারা রোপন করা ধান ক্ষেতে: চারা রোপন করার ১৫ দিন পরে, শ্যামা ঘাস ৫ পাতার হওয়ার আগে প্রয়োগ করতে হবে।<br>প্রয়োগের সময় জমিতে সামান্য (১/২ ইঞ্চি) পানি থাকা প্রয়োজন।"
+  },
+  {
+  "product_name": "ম্যাকআউট ৩৯ইসি",
+  "medicine_name": "Clomazone 12% + Propanil 27%",
+  "application_rates": "1.5 L/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "আগাছানাশক, আগাছার ৩টি পাতা জন্মানোর পূর্বে এবং ফসলের ৩-৪টি পাতা জন্মানোর পরে আগাছানাশকের ব্যবহার করা ভালো"
+  }
+  ]
+  },
+  {
+  "pest": "খোল পোড়া/ শিথ ব্লাইট রোগ/খোল পচাঁ রোগ",
+  "symptoms": "ধানের খোসার ক্ষত পাতার খোসার উপর জল-সিক্ত, সবুজ-ধুসর দাগের মাধ্যমে শুরু হয়, সাধারনত গাচের গোড়ার দিকে জররেখার কাছে, উক্ত ক্ষত গুলো একত্রিত হলে গোখরা সাপের চামড়ার মতো দেখায়",
+  "causes": "রাইজোকটোনিয়া সোলানী নামক ছত্রাক",
+  "products": [
+  {
+  "product_name": "সানফাইটার ২৫এসসি",
+  "medicine_name": "Hexaconazole 3% + Tricyclazole 22%",
+  "application_rates": "0.5 ml/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "সানজক্সি ৩২.৫এসসি",
+  "medicine_name": "Azoxystrobin 20% + Difenoconazole 12.5%",
+  "application_rates": "10 ml per 10 L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "নোইন ৫০ ডব্লিউপি",
+  "medicine_name": "Carbendazim",
+  "application_rates": "Rice- 1kg/ha\nMango- 1 gm/L water\nTea- 750 gm/ha\nBanana- 2 gm/L water\nGuava- 2 gm/L water\nSugarcane- 1 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "ক্রিজল ৫ইসি",
+  "medicine_name": "Hexaconazole",
+  "application_rates": "10 ml per 10 L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  }
+  ]
+  },
+  {
+  "pest": "ব্লাস্ট",
+  "symptoms": "ধানের ব্লাস্ট রোগের লক্ষনগুলোর মধ্যে রয়েছে পাতা ও পাতার খোলের উপর ধুসর কেন্দ্র এবং বাদামী সীমানা সহ স্পিন্ডল আকৃতির ক্ষত যা বড় হয়ে পাতা মরে যায়, এই রোগ কান্ডের নোডে হলে সেখানে কালো হয়ে ভেঙ্গে যায়, গাছের ঘাড়ে একই লক্ষণ দেখা যায় যাকে পেনিকেল ব্লাসট বলে।",
+  "causes": "পাইরিকুলারিয়া অরাইজি নামক ছত্রাক",
+  "products": [
+  {
+  "product_name": "ম্যাকভো ৭৫ডব্লিউজি",
+  "medicine_name": "Tebuconazole 50% + Trifloxystrobin 25%",
+  "application_rates": "0.5 gm/L of water",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "নোইন ৫০ ডব্লিউপি",
+  "medicine_name": "Carbendazim",
+  "application_rates": "Rice- 1kg/ha\nMango- 1 gm/L water\nTea- 750 gm/ha\nBanana- 2 gm/L water\nGuava- 2 gm/L water\nSugarcane- 1 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "সানফাইটার ২৫এসসি",
+  "medicine_name": "Hexaconazole 3% + Tricyclazole 22%",
+  "application_rates": "0.5 ml/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  }
+  ]
+  }
+  ],
+  "আলু": [
+  {
+  "pest": "আগাছা (বথুয়া, কাকড়া, কাটা-নটে, মাক-নটে ইত্যাদি)",
+  "symptoms": "আলু পাছের বৃদ্ধি ব্যহত হয়, খাদ্য উপাদান আলো-বাতাস ও জায়গার জন্য ভাগ বসায়, পোকা-মাকড়ের বসতবাড়ী হয়, ফলে ফলন কমে যায়।",
+  "causes": "আগাছা",
+  "products": [
+  {
+  "product_name": "একটিভার ২৫ইসি",
+  "medicine_name": "Oxadiazon",
+  "application_rates": "2 ml/L of water or \n1 L/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "আগাছানাশক, ধান ক্ষেতে আগাছা গজানোর আগে ও আলুর জমিতে আলুর চারা অঙ্করোদগমের পূর্বে ব্যবহারযোগ্য। ধানের জমিতে পানি থাকা অবস্থায় স্প্রে করার চেয়ে সারের সাথে মিশিয়ে প্রয়োগ করা উত্তম"
+  },
+  {
+  "product_name": "ম্যাকআউট ৩৯ইসি",
+  "medicine_name": "Clomazone 12% + Propanil 27%",
+  "application_rates": "1.5 L/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "আগাছানাশক, আগাছার ৩টি পাতা জন্মানোর পূর্বে এবং ফসলের ৩-৪টি পাতা জন্মানোর পরে আগাছানাশকের ব্যবহার করা ভালো"
+  }
+  ]
+  },
+  {
+  "pest": "আলুর আগাম পঁচা রোগ বা আরলি ব্লাইট, আলুর মড়ক রোগ/ লেইট ব্লাইট",
+  "symptoms": "আররি ব্লাইট: পুরাতন পাতায় ছোট, গাঢ় দাগ যা বৃত্তাকার বা ডিম্বাকৃতি, বাদামী থেকে কালো ক্সত আকারে বিস্তৃত হয়, দাগ গুলো হলুদ বা সবুজাভ-হলুদ প্রভা দ্বারা বেস্টিত থাকে, সংক্রমিত পাতা হলুদ, শুষ্ক এবং মারা যায়, প্রায়শই গাছের সাথে সংযুক্ত থাকে। লেইট ব্লাইট: জলে ভেজা অনিয়মিত আকৃতির দাগ যা দ্রুত প্রসারিত হয়ে পাতার শিরা জুড়ে ছড়িয়ে যেতে পারে। ও ভেজা অবস্থায় সংক্রমিত পাতার নীচে সাদা ছত্রাকের বৃদ্ধি হয়, গাছ দূর্বল হয়ে নেতিয়ে পরে, পচনের ফলে দূর্গন্ধ হয়ে যায়।",
+  "causes": "ফাইটোফথোরা ইনফেসটেন্স",
+  "products": [
+  {
+  "product_name": "সানোক্সানিল ৭২ ডব্লিউপি",
+  "medicine_name": "Mancozeb 64% + cymoxanil 8%",
+  "application_rates": "2 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "প্রয়োজনীয় পরিমাণ সানোক্সানিল সরাসরি স্প্রে মেশিনে না ঢেলে আলাদা পাত্রে সামান্য পানি দিয়ে ভালোভাবে গুলিয়ে নিন। তারপর স্প্রে মেশিনে ঢেলে নিয়ে সম্পূর্ণ পানির সাথে মিশিয়ে স্প্রে করুন"
+  },
+  {
+  "product_name": "মোর ৭২০ ডব্লিউপি",
+  "medicine_name": "Mancozeb 64% + cymoxanil 8%",
+  "application_rates": "2 gm/L water",
+  "frequency_of_use": "1-3 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "ম্যাকজেব",
+  "medicine_name": null,
+  "application_rates": null,
+  "frequency_of_use": null,
+  "safety_precautions": null
+  },
+  {
+  "product_name": "ম্যাকজিডান সুপার ৮০ ডব্লিউপি",
+  "medicine_name": "Mancozeb",
+  "application_rates": "2 gm/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন। প্রয়োজনীয় পরিমাণ ম্যাকজিডান সুপার ৮০ ডব্লিউপি সরাসরি স্প্রে মেশিনে না ঢেলে আলাদা পাত্রে সামান্য পানি দিয়ে ভালোভাবে গুলিয়ে নিন। তারপর স্প্রে মেশিনে ঢেলে নিয়ে সম্পূর্ণ পানির সাথে মিশিয়ে স্প্রে করুন।"
+  }
+  ]
+  }
+  ],
+  "তুলা": [
+  {
+  "pest": "এফিড/জাবপোকা",
+  "symptoms": "গাছ খর্বাকার হয়ে যায়, পাতা হলুদ হয়ে বেঁকে/কুচকে যায়, কুঁড়ি ও বোল আকার বিকৃতি হয়ে যায়",
+  "causes": "এফিড",
+  "products": [
+  {
+  "product_name": "গেইন ২০ এসএল",
+  "medicine_name": "Imidacloprid",
+  "application_rates": "Rice- 125 ml/ha\nTea- 1.5 L/ha\nSugarcane- 1 L/ha",
+  "frequency_of_use": "Rice: 1-2 times\nTea: 1-2 times\nSugarcane: 1-2 times",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "গেইন সুপার ৭০ ডব্লিউজি",
+  "medicine_name": "Imidacloprid",
+  "application_rates": "15 gm/acre or 35.70 gm/ ha",
+  "frequency_of_use": "1-2 times",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "বেনিফিট ২০ইসি",
+  "medicine_name": "Carbosulfan",
+  "application_rates": "Rice- 1L/ha\nCotton- 1.2L/ha",
+  "frequency_of_use": "Rice- 2 times \nCotton – 2 times",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  }
+  ]
+  },
+  {
+  "pest": "জ্যাসিড",
+  "symptoms": "পাতা হলুদ ও বাঁকা/কুচকে হয়ে যায়, \"ফড়িং পোড়া\" রোগে পাতার কিনারা বাদামী হয়ে যায়, বৃদ্ধি ব্যহত হয়, ফলন কমে যায়।",
+  "causes": "জ্যাসিড",
+  "products": [
+  {
+  "product_name": "বেনিফিট ২০ইসি",
+  "medicine_name": "Carbosulfan",
+  "application_rates": "Rice- 1L/ha\nCotton- 1.2L/ha",
+  "frequency_of_use": "Rice- 2 times \nCotton – 2 times",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  }
+  ]
+  },
+  {
+  "pest": "বোলওয়ার্ম",
+  "symptoms": "কুঁড়ি ও গুঁড়িতে ছিদ্র করা, যা পরে ফাপা হয়ে যেতে পাওে, ফলে তরুন কুঁড়ি ঝরে পড়ে াথবা পুড়োনো গুঁড়িতে ফাটল ও পচন দেখা দেয়।",
+  "causes": "হেলিকোভার্পা আরমিজেরা",
+  "products": [
+  {
+  "product_name": "সানমেরিন ১০ ইসি",
+  "medicine_name": "Cypermethrin",
+  "application_rates": "Mango Hopper – 1 ml/L water\nCotton Ballworm- 1.2 ml/L water i.e. 600 ml/ha\nTea Helopeltis- 1 ml/L water i.e. 500 ml/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "সানথ্রিন ২.৫ইসি",
+  "medicine_name": "Bifenthrin",
+  "application_rates": "Tea- 500 ml/ha\nCotton- 600 ml/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  }
+  ]
+  }
+  ],
+  "চা": [
+  {
+  "pest": "রেড স্পাইডার মাইট/ লাল মাকড়",
+  "symptoms": "পাতার মধ্যশিরা বরাবর হলুদ বা লালচে বাদামী দাগ বা ব্রোঞ্জ হয়ে যায়, অবশেষে পাতা ঝরে পরে।",
+  "causes": "অরিগোনাইগাছ কফিই",
+  "products": [
+  {
+  "product_name": "এবোম ১.৮ ইসি",
+  "medicine_name": "Abamectin",
+  "application_rates": "1 ml/L of water or \n500 ml/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "মাকড়নাশক, মাকড়ের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "এবোম সুপার ৩ইডব্লিউ",
+  "medicine_name": "Abamectin",
+  "application_rates": "1 ml/L of water or \n500 ml/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "মাকড়নাশক, মাকড়ের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "বিন্তা ২ইসি",
+  "medicine_name": "Abamectin 0.5% + Beta cypermethrin 1.5%",
+  "application_rates": "1 ml/L of water or \n500 ml/ha",
+  "frequency_of_use": "2-3 times depending on crops",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "ফেনমাইট ৫এসসি",
+  "medicine_name": "Fenpyroximate",
+  "application_rates": "1 L/ha,\n2 ml/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "মাকড়নাশক ও কীটনাশক, মাকড়ের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম।"
+  },
+  {
+  "product_name": "সুমাইট ৫৭ইসি",
+  "medicine_name": "Propergite",
+  "application_rates": "1.68 L/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "মাকড়নাশক, মাকড়ের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "পাহারিন ২০ ডব্লিউপি",
+  "medicine_name": "Pyridaben",
+  "application_rates": "500 gm/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": null
+  },
+  {
+  "product_name": "পরিসাফ ৮০ ডাব্লউজি",
+  "medicine_name": "Sulphur",
+  "application_rates": "Cucurbits- 2 gm/L of water; Tea – 2.2kg/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক ও মাকড়নাশক, মাকড় ও ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  }
+  ]
+  },
+  {
+  "pest": "উইপোকা/টারমাইট",
+  "symptoms": "চা গাছ শুকিয়ে যায়, শেষ পর্যন্ত গাছ মারা যায়, আক্রান্ত গাছের মূল ফাঁপা হয়ে যায়, কান্ড মাটিতে ভরা থাকে।",
+  "causes": "উইপোকা/টারমাইট",
+  "products": [
+  {
+  "product_name": "গেইন ২০এসএল",
+  "medicine_name": "Imidacloprid",
+  "application_rates": "Rice- 125 ml/ha\nTea- 1.5 L/ha\nSugarcane- 1 L/ha",
+  "frequency_of_use": "Rice: 1-2 times\nTea: 1-2 times\nSugarcane: 1-2 times",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "সাইপারফস ৫৫ইসি",
+  "medicine_name": "Chlorpyriphos 50% + Cypermethrin 5%",
+  "application_rates": "1 ml / L water; \n200 ml/acre",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  }
+  ]
+  },
+  {
+  "pest": "এফিড/জাবপোকা",
+  "symptoms": "গাছ খর্বাকার হয়ে যায়, পাতা হলুদ হয়ে বেঁকে/কুচকে যায়, কুঁড়ি ও বোল আকার বিকৃতি হয়ে যায়।",
+  "causes": "এফিড",
+  "products": [
+  {
+  "product_name": "গেইন ২০ এসএল",
+  "medicine_name": "Imidacloprid",
+  "application_rates": "Rice- 125 ml/ha\nTea- 1.5 L/ha\nSugarcane- 1 L/ha",
+  "frequency_of_use": "Rice: 1-2 times\nTea: 1-2 times\nSugarcane: 1-2 times",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "গেইন সুপার ৭০ ডব্লিউজি",
+  "medicine_name": "Imidacloprid",
+  "application_rates": "15 gm/acre or 35.70 gm/ ha",
+  "frequency_of_use": "1-2 times",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "বেনিফিট ২০ইসি",
+  "medicine_name": "Carbosulfan",
+  "application_rates": "Rice- 1L/ha\nCotton- 1.2L/ha",
+  "frequency_of_use": "Rice- 2 times \nCotton – 2 times",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  }
+  ]
+  },
+  {
+  "pest": "ডাইব্যাক/আগামরা রোগ",
+  "symptoms": "চা গাছের পাতা ঝিমিয়ে পড়ে, পাতার রং হলুদ বা বাদামী হয়ে যায়, পাতা ঝুলে পড়ে, মৃত কান্ড যা শাখার ডগা থেকে নীচের দিকে ধীরে ধীরে মারা যায়, ধূসর বা কালো রং-এর উঁচু প্রান্ত থাকে। এই রোগের কারনে খাদ্য উপাদান ও পানি পরিবহনে বাধাগ্রস্ত হয়, ফলে ব্যপকভাবে পাতা মরে যায়।",
+  "causes": "ফিউজারিয়াম স্পেসিস",
+  "products": [
+  {
+  "product_name": "সানভিট ৫০ ডব্লিউপি",
+  "medicine_name": "Copper Oxychloride",
+  "application_rates": "Sesame- 3.4 kg/ha; 68 gm/10 L water\nTea- 2.8 kg/ha; 56 gm/10 L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "পলিকো ৫০ ডব্লিউপি",
+  "medicine_name": "Copper Oxychloride",
+  "application_rates": "2.8 kg/ha; 1.15 kg/acre",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "থিজা ২০এসসি",
+  "medicine_name": null,
+  "application_rates": null,
+  "frequency_of_use": null,
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  }
+  ]
+  },
+  {
+  "pest": "চা'এর মশা/টি হেলোপেলটিস/ টি মসকুইটো বাগ",
+  "symptoms": "আক্রান্ত গাছের পাতায় ব্যপক কালো দাগ হয়, পাতা কুঁচকে যায়, প্লাকিং এর অযোগ্য হয়ে যায়",
+  "causes": "হেলোপেলটিস থিভোরা",
+  "products": [
+  {
+  "product_name": "সানমেরিন ১০ ইসি",
+  "medicine_name": "Cypermethrin",
+  "application_rates": "Mango Hopper – 1 ml/L water\nCotton Ballworm- 1.2 ml/L water i.e. 600 ml/ha\nTea Helopeltis- 1 ml/L water i.e. 500 ml/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "সানথ্রিন ২.৫ইসি",
+  "medicine_name": "Bifenthrin",
+  "application_rates": "Tea- 500 ml/ha\nCotton- 600 ml/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "ইথার প্লাস ৪০ ডব্লিউজি",
+  "medicine_name": "Emamectin benzoate 20% + Thiamethoxam 20%",
+  "application_rates": "100 gm/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  }
+  ]
+  },
+  {
+  "pest": "আগাছাসমুহ",
+  "symptoms": "পাছের বৃদ্ধি ব্যহত হয়, খাদ্য উপাদান আলো-বাতাস ও জায়গার জন্য ভাগ বসায়, পোকা-মাকড়ের বসতবাড়ী হয়, ফলে ফলন কমে যায়।",
+  "causes": "মিশ্র আগাছাসমুহ",
+  "products": [
+  {
+  "product_name": "রিডউইড আরপি",
+  "medicine_name": "Glyphosate",
+  "application_rates": "3.7 L/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "আগাছানাশক, ইহা প্রয়োগের সময় কোন ক্রমেই যেন ফসলের পাতা ও ডগায় না পড়ে শুধু আগাছার উপরই প্রয়োগ করতে হবে"
+  },
+  {
+  "product_name": "২,৪-ডি উইডার",
+  "medicine_name": "2,4-D Amine Salt",
+  "application_rates": "2.24 L/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "আগাছানাশক, চওড়া পাতা বিশিষ্ট আগাছা সমূলে ধ্বংস করে। আগাছার বাড়ন্ত চারার ফুল ফোটার পূর্ব পর্যন্ত স্প্রে করে দিলে আগাছা ধ্বংস হবে।"
+  },
+  {
+  "product_name": "উইডোক্সোন",
+  "medicine_name": "Paraquat",
+  "application_rates": "Banana- 3 ml/L of water\nTea – 2.8 L/ha",
+  "frequency_of_use": "1 time ",
+  "safety_precautions": "আগাছানাশক, আগাছার মাত্রা ক্ষতির দ্বারপ্রান্তে পৌছালে উইডোক্সোন ব্যবহার করুন।"
+  },
+  {
+  "product_name": "ক্লিনোক্সোন",
+  "medicine_name": "Paraquat",
+  "application_rates": "Banana- 3 ml/L of water\nTea – 2.8 L/ha",
+  "frequency_of_use": "1 time ",
+  "safety_precautions": "আগাছানাশক, ২-৪ পাতা বিশিষ্ট আগাছা ভিজিয়ে স্প্রে করুন"
+  },
+  {
+  "product_name": "রেয়ারউইড ৩২এসসি",
+  "medicine_name": "Glufosinate -ammonium 24%+ Oxyfluorfen 8%",
+  "application_rates": "3 L/ha; 1.5 L/acre",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "আগাছানাশক, ২-৪ পাতা বিশিষ্ট আগাছা ভিজিয়ে স্প্রে করুন"
+  },
+  {
+  "product_name": "রিডউইড প্লাস ২৮ এসএল",
+  "medicine_name": "Glufosinate -ammonium",
+  "application_rates": "3 L/ha; 1.2 L/acre; 6 ml/L of water",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "আগাছানাশক, চা গাছের সকল পর্যায়েই এটি ব্যবহার করা যায়"
+  }
+  ]
+  },
+  {
+  "pest": "ব্লাক রট/পচন রোগ",
+  "symptoms": "পাতার কিনারায় কৌনিক বা ভি-আকৃতির ক্লোরোটিক (হলুদ) ক্ষত, যা পরে কালো মিরা সহ বাদামী হয়ে যায়।",
+  "causes": "করটিকাম থি বা, করটিকাম ইনবিসাম",
+  "products": [
+  {
+  "product_name": "পলিকো ৫০ ডব্লিউপি",
+  "medicine_name": "Copper Oxychloride",
+  "application_rates": "2.8 kg/ha; 1.15 kg/acre",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  }
+  ]
+  },
+  {
+  "pest": "রেড রাস্ট/লাল মরিচা রোগ",
+  "symptoms": "পাতা ও কান্ডে মরিচা পড়ে বা লালচে বাদামী দাগ পড়ে।",
+  "causes": "সেফালোরাস স্পেসিস",
+  "products": [
+  {
+  "product_name": "পলিকো ৫০ ডব্লিউপি",
+  "medicine_name": "Copper Oxychloride",
+  "application_rates": "2.8 kg/ha; 1.15 kg/acre",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "নোইন ৫০ ডব্লিউপি",
+  "medicine_name": "Carbendazim",
+  "application_rates": "Rice- 1kg/ha\nMango- 1 gm/L water\nTea- 750 gm/ha\nBanana- 2 gm/L water\nGuava- 2 gm/L water\nSugarcane- 1 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "সানভিট ৫০ ডব্লিউপি",
+  "medicine_name": "Copper Oxychloride",
+  "application_rates": "Sesame- 3.4 kg/ha; 68 gm/10 L water\nTea- 2.8 kg/ha; 56 gm/10 L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  }
+  ]
+  },
+  {
+  "pest": "ফ্লাস ওয়ার্ম",
+  "symptoms": "ক্তক্ষ, কুঁচকে যাওয়া চামড়ার মতো পাতা",
+  "causes": "ক্রিকুলা ট্রাইফেনেসট্রাটা পোকা",
+  "products": [
+  {
+  "product_name": "ম্যাকজিনেক্স ৬০ইসি",
+  "medicine_name": "Diazinon",
+  "application_rates": "603 ml/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  }
+  ]
+  }
+  ],
+  "পেঁয়াজ": [
+  {
+  "pest": "পার্পল ব্লচ রোগ",
+  "symptoms": "পেঁয়াজের উপর বেগুনি রঙের দাগের লক্ষণগুলি ছোট, ডুবে যাওযা, সাদা দাগ হিসাবে শুরু হয যা দ্রুত হলুদ সীমানা সহ উপবৃত্তাকার, বেগুনি-বাদামী ক্ষতগুলিতে পরিণত হয, প্রাযশই ঘনকেন্দ্রিক বলয তৈরি করে। এই ক্ষতগুলি ছড়িয়ে পড়তে পারে, পাতাগুলি মারা যেতে পারে এমনকি ফুলের ডালপালাও আটকে যেতে পারে, যার ফলে শুকিয়ে যায এবং হলুদ হয়ে যায। সংরক্ষণের সময, ছত্রাকের কারণে বাল্বের ঘাড েজলীয, হলুদ থেকে লালচে পচন দেখা দিতে পারে, যা শুকিয়ে যায এবং কালো হয়ে যায়।",
+  "causes": "অলটারনারিয়া পরী",
+  "products": [
+  {
+  "product_name": "সানোক্সানিল ৭২ ডব্লিউপি",
+  "medicine_name": "Mancozeb 64% + cymoxanil 8%",
+  "application_rates": "2 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "প্রয়োজনীয় পরিমাণ সানোক্সানিল সরাসরি স্প্রে মেশিনে না ঢেলে আলাদা পাত্রে সামান্য পানি দিয়ে ভালোভাবে গুলিয়ে নিন। তারপর স্প্রে মেশিনে ঢেলে নিয়ে সম্পূর্ণ পানির সাথে মিশিয়ে স্প্রে করুন"
+  },
+  {
+  "product_name": "মোর ৭২০ ডব্লিউপি",
+  "medicine_name": "Mancozeb 64% + cymoxanil 8%",
+  "application_rates": "2 gm/L water",
+  "frequency_of_use": "1-3 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "ম্যাকজেব",
+  "medicine_name": null,
+  "application_rates": null,
+  "frequency_of_use": null,
+  "safety_precautions": null
+  },
+  {
+  "product_name": "ম্যাকজিডান সুপার ৮০ ডব্লিউপি",
+  "medicine_name": "Mancozeb",
+  "application_rates": "2 gm/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন। প্রয়োজনীয় পরিমাণ ম্যাকজিডান সুপার ৮০ ডব্লিউপি সরাসরি স্প্রে মেশিনে না ঢেলে আলাদা পাত্রে সামান্য পানি দিয়ে ভালোভাবে গুলিয়ে নিন। তারপর স্প্রে মেশিনে ঢেলে নিয়ে সম্পূর্ণ পানির সাথে মিশিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "কার্ডিওন ৫০ ডব্লিউপি",
+  "medicine_name": "Iprodione 25% + Carbendazim 25%",
+  "application_rates": "2 gm/L of water or, \n1 Kg/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  }
+  ]
+  }
+  ],
+  "মরিচ": [
+  {
+  "pest": "মাকড়/লাল মাকড়",
+  "symptoms": "পাতা কুঁচকে যাওয়া, হলুদ হয়ে যাওয়া, বাদামী হয়ে যাওয়া, কুঁচকে যাওয়া এবং ভঙ্গুর পাতা, সেই সাথে বৃদ্ধি ব্যাহত হওয়া এবং বিকৃত ফুল ও ফল",
+  "causes": "মাকড়",
+  "products": [
+  {
+  "product_name": "এবোম ১.৮ ইসি",
+  "medicine_name": "Abamectin",
+  "application_rates": "1 ml/L of water or \n500 ml/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "মাকড়নাশক, মাকড়ের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "এবোম সুপার ৩ইডব্লিউ",
+  "medicine_name": "Abamectin",
+  "application_rates": "1 ml/L of water or \n500 ml/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "মাকড়নাশক, মাকড়ের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "বিন্তা ২ইসি",
+  "medicine_name": "Abamectin 0.5% + Beta cypermethrin 1.5%",
+  "application_rates": "1 ml/L of water or \n500 ml/ha",
+  "frequency_of_use": "2-3 times depending on crops",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "ফেনমাইট ৫এসসি",
+  "medicine_name": "Fenpyroximate",
+  "application_rates": "1 L/ha,\n2 ml/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "মাকড়নাশক ও কীটনাশক, মাকড়ের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম।"
+  },
+  {
+  "product_name": "সুমাইট ৫৭ইসি",
+  "medicine_name": "Propergite",
+  "application_rates": "1.68 L/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "মাকড়নাশক, মাকড়ের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "পাইরিন ২০ ডব্লিউপি",
+  "medicine_name": "Pyridaben",
+  "application_rates": "500 gm/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "মাকড়নাশক, মাকড়ের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম। লাল মাকড়ের জীবন চক্রের প্রায় সব ধাপেই ক্রিয়াশীল বিশেষ করে লার্ভা ও নিম্ফ পর্যায়ে বেশী কার্যকর।"
+  },
+  {
+  "product_name": "পরিসাফ ৮০ ডাব্লউজি",
+  "medicine_name": "Sulphur",
+  "application_rates": "Cucurbits- 2 gm/L of water; Tea – 2.2kg/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক ও মাকড়নাশক, মাকড় ও ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  }
+  ]
+  }
+  ],
+  "আখ": [
+  {
+  "pest": "উইপোকা/টারমাইট",
+  "symptoms": "গাছ শুকিয়ে যায়, শেষ পর্যন্ত গাছ মারা যায়, আক্রান্ত গাছের মূল ফাঁপা হয়ে যায়, কান্ড মাটিতে ভরা থাকে। হলুদ পাতা, শুকনো কান্ড এবং গুল্ম যা ফাঁপা এবং মাটি বা কাদা দিয়ে ভরা।",
+  "causes": "উইপোকা/টারমাইট",
+  "products": [
+  {
+  "product_name": "গেইন ২০এসএল",
+  "medicine_name": "Imidacloprid",
+  "application_rates": "Rice- 125 ml/ha\nTea- 1.5 L/ha\nSugarcane- 1 L/ha",
+  "frequency_of_use": "Rice: 1-2 times\nTea: 1-2 times\nSugarcane: 1-2 times",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "সাইপারফস ৫৫ইসি",
+  "medicine_name": "Chlorpyriphos 50% + Cypermethrin 5%",
+  "application_rates": "1 ml / L water; \n200 ml/acre",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  }
+  ]
+  },
+  {
+  "pest": "রেড রট/ লাল পঁচা রোগ",
+  "symptoms": "আখের লাল পচনের লক্ষণগুলির মধ্যে রয়েছে পাতা হলুদ হয়ে যাওযা এবং ঝুলে পড়া, বিশেষ করে উপর থেকে তৃতীয বা চতুর্থ অংশ, মধ্যশিরায লাল ক্ষত সহ। ভিতরে, কান্ডগুলিতে লাল বিবর্ণ টিস্যু সাদা দাগের সাথে মিশে থাকে এবং গাঁজন থেকে অ্যালকোহলযুক্ত গন্ধ নির্গত হয়। পরিপক্ক কান্ডগুলিতে তন্ত্র দিয়ে ভরা গর্তও থাকতে পারে এবং আখ হালকা হয়ে যায় এবং সহজেই ভেঙে যায।",
+  "causes": "কলেটোট্রিকাম ফ্যাকাটাম",
+  "products": [
+  {
+  "product_name": "নোইন ৫০ ডব্লিউপি",
+  "medicine_name": "Carbendazim",
+  "application_rates": "Rice- 1kg/ha\nMango- 1 gm/L water\nTea- 750 gm/ha\nBanana- 2 gm/L water\nGuava- 2 gm/L water\nSugarcane- 1 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  }
+  ]
+  },
+  {
+  "pest": "সাদা ঝলসানো/হোইট ব্লাইট",
+  "symptoms": "আখের সাদা দাগের লক্ষণগুলির মধ্যে রপডছে পাতাড সাদা থেকে ক্রিম রঙের ডোরাকাটা দাগ দেখা যায়, যা ছড়িয়ে পড়ে পুরো পাতা ঢেকে ফেলে। রোগটি বাড়ার সাথে সাথে এর বৃদ্ধি ব্যাহত হয়, অতিরিক্ত কুঁড়ি ঝোপঝাড়ের মতো দেখা যায় এবং প্রাণশক্তি হ্রাস পায়। পাতাগুলি সরু হয়ে যায় এবং গুরুতর ক্ষেত্রে, পুরো গাছটি হ্রাস পেতে পারে, যা ফলনযোগ্য আখ উৎপাদন করতে ব্যর্থ হয়।",
+  "causes": "ফাইটোপ্লাজমা",
+  "products": [
+  {
+  "product_name": "ম্যাকনিল ৩জিআর",
+  "medicine_name": "Fipronil",
+  "application_rates": "10 kg/ha or 4 Kg/acre",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম।"
+  },
+  {
+  "product_name": "ম্যাকনিল প্লাস ২.৩জিআর",
+  "medicine_name": "Imidacloprid 2% + Fipronil 0.3%",
+  "application_rates": "10 kg/ha; 4 kg/acre",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "কীটনাশক, দানাদার কীটনাশকটি শুধুমাত্র মাটিতে প্রয়োগ করার জন্য। সরাসরি গাছে প্রয়োগ করা থেকে বিরত থাকুন"
+  }
+  ]
+  }
+  ],
+  "টমেটো": [
+  {
+  "pest": "আরলি ব্লাইট/আগাম ধ্বসা রোগ",
+  "symptoms": "টমেটোর আগাম পচা রোগের লক্ষণগুলির মধ্যে রয়েছে \"ষাঁড়ের চোখের মতো\" দাগ, যার পুরোনো পাতায় ঘনকেন্দ্রিক বলয় থাকে, যা হলুদ বলয় দ্বারা বেষ্টিত থাকে, যা পরে একত্রিত হতে পারে, যার ফলে পাতা হলুদ হয়ে ঝরে পড়ে। কান্ড এবং ফলের উপরও গাঢ়, ডুবে যাওয়া ক্ষত দেখা দিতে পারে এবং গুরুতর সংক্রমণের ফলে পাতা ঝরে পরে এবং ফলন হ্রাস পায়।",
+  "causes": "অলটারনারিয়া সোলানি",
+  "products": [
+  {
+  "product_name": "সিএম ৭৫ডব্লিউপি",
+  "medicine_name": "Mancozeb 63% + Carbendazim 12%",
+  "application_rates": "2 gm/L of water",
+  "frequency_of_use": "",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "ম্যাকজেব",
+  "medicine_name": null,
+  "application_rates": null,
+  "frequency_of_use": null,
+  "safety_precautions": null
+  },
+  {
+  "product_name": "ম্যাকজিডান সুপার ৮০ ডব্লিউপি",
+  "medicine_name": "Mancozeb",
+  "application_rates": "2 gm/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন। প্রয়োজনীয় পরিমাণ ম্যাকজিডান সুপার ৮০ ডব্লিউপি সরাসরি স্প্রে মেশিনে না ঢেলে আলাদা পাত্রে সামান্য পানি দিয়ে ভালোভাবে গুলিয়ে নিন। তারপর স্প্রে মেশিনে ঢেলে নিয়ে সম্পূর্ণ পানির সাথে মিশিয়ে স্প্রে করুন।"
+  }
+  ]
+  },
+  {
+  "pest": "উইল্ট/ঢলে পড়া রোগ",
+  "symptoms": "টমেটো গাছের ঢলে পড়ার লক্ষণ রোগভেদে ভিন্ন হয, তবে প্রায়শই পাতা ঝরে পড়া (বিশেষ করে বিকেলে), পাতা হলুদ বা ব্রোঞ্জ হয়ে যাওয়া, বৃদ্ধি ব্যাহত হওয়া এবং কান্ডের টিস্যু বিবর্ণ হয়ে যাওয়া, যা কাটার সময় বাদামী দেখায়। ফলেও রিং বা দাগ দেখা যেতে পারে।",
+  "causes": "ফিউজারিয়াম এন্ড ভার্টিসিলিয়াম",
+  "products": [
+  {
+  "product_name": "ক্রোসিন",
+  "medicine_name": "Streptomycin sulphate 9% + Tetracycline hydrochloride 1%",
+  "application_rates": "0.5 gm/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ব্যাকটেরিয়ানাশক, ব্যাকটেরিয়ার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "সানসার্টো",
+  "medicine_name": "Hexaconazole 2.5% + Validamycin 8.5%",
+  "application_rates": "500 gm/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক ও এন্টিবায়োটিক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন"
+  },
+  {
+  "product_name": "সানপুমা",
+  "medicine_name": "Kasugamycin hydrochloride hydrate 4% + Carbendazim 50%",
+  "application_rates": "1.5 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক ও ব্যাকটেরিয়ানাশক, ব্যাকটেরিয়া ও ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  }
+  ]
+  }
+  ],
+  "বেগুন": [
+  {
+  "pest": "উইল্ট/ঢলে পড়া রোগ",
+  "symptoms": "বেগুন গাছের ঢলে পড়ার লক্ষণ রোগভেদে ভিন্ন হয, তবে প্রায়শই পাতা ঝরে পড়া (বিশেষ করে বিকেলে), পাতা হলুদ বা ব্রোঞ্জ হয়ে যাওয়া, বৃদ্ধি ব্যাহত হওয়া এবং কান্ডের টিস্যু বিবর্ণ হয়ে যাওয়া, যা কাটার সময় বাদামী দেখায়। ফলেও রিং বা দাগ দেখা যেতে পারে।",
+  "causes": "ফিউজারিয়াম এন্ড ভার্টিসিলিয়াম",
+  "products": [
+  {
+  "product_name": "ক্রোসিন",
+  "medicine_name": "Streptomycin sulphate 9% + Tetracycline hydrochloride 1%",
+  "application_rates": "0.5 gm/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ব্যাকটেরিয়ানাশক, ব্যাকটেরিয়ার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "সানসার্টো",
+  "medicine_name": "Hexaconazole 2.5% + Validamycin 8.5%",
+  "application_rates": "500 gm/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক ও এন্টিবায়োটিক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন"
+  },
+  {
+  "product_name": "সানপুমা",
+  "medicine_name": "Kasugamycin hydrochloride hydrate 4% + Carbendazim 50%",
+  "application_rates": "1.5 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক ও ব্যাকটেরিয়ানাশক, ব্যাকটেরিয়া ও ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  }
+  ]
+  },
+  {
+  "pest": "মাকড়/লাল মাকড়",
+  "symptoms": "পাতা কুঁচকে যাওয়া, হলুদ হয়ে যাওয়া, বাদামী হয়ে যাওয়া, কুঁচকে যাওয়া এবং ভঙ্গুর পাতা, সেই সাথে বৃদ্ধি ব্যাহত হওয়া এবং বিকৃত ফুল ও ফল",
+  "causes": "মাকড়",
+  "products": [
+  {
+  "product_name": "এবোম ১.৮ ইসি",
+  "medicine_name": "Abamectin",
+  "application_rates": "1 ml/L of water or \n500 ml/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "মাকড়নাশক, মাকড়ের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "এবোম সুপার ৩ইডব্লিউ",
+  "medicine_name": "Abamectin",
+  "application_rates": "1 ml/L of water or \n500 ml/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "মাকড়নাশক, মাকড়ের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "বিন্তা ২ইসি",
+  "medicine_name": "Abamectin 0.5% + Beta cypermethrin 1.5%",
+  "application_rates": "1 ml/L of water or \n500 ml/ha",
+  "frequency_of_use": "2-3 times depending on crops",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "ফেনমাইট ৫এসসি",
+  "medicine_name": "Fenpyroximate",
+  "application_rates": "1 L/ha,\n2 ml/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "মাকড়নাশক ও কীটনাশক, মাকড়ের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম।"
+  },
+  {
+  "product_name": "সুমাইট ৫৭ইসি",
+  "medicine_name": "Propergite",
+  "application_rates": "1.68 L/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "মাকড়নাশক, মাকড়ের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "পাইরিন ২০ ডব্লিউপি",
+  "medicine_name": "Pyridaben",
+  "application_rates": "500 gm/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "মাকড়নাশক, মাকড়ের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম। লাল মাকড়ের জীবন চক্রের প্রায় সব ধাপেই ক্রিয়াশীল বিশেষ করে লার্ভা ও নিম্ফ পর্যায়ে বেশী কার্যকর।"
+  },
+  {
+  "product_name": "পরিসাফ ৮০ ডাব্লউজি",
+  "medicine_name": "Sulphur",
+  "application_rates": "Cucurbits- 2 gm/L of water; Tea – 2.2kg/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক ও মাকড়নাশক, মাকড় ও ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  }
+  ]
+  },
+  {
+  "pest": "বেগুনের ডগা ও ফল ছিদ্রকারী পোকা/বেগুনের মাজরা পোকা/বিএসএফবি",
+  "symptoms": "কান্ডের ডগা এবং ফুল শুকিয়ে যাওয়া, কান্ডে ডেড হার্ট\" এবং ফলের ছিদ্র দৃশ্যমান, যা কাওয়া ও বাজারে বিক্রির অযোগ্য করে তোলে।",
+  "causes": "",
+  "products": []
+  },
+  {
+  "pest": "এফিড/জাবপোকা",
+  "symptoms": "গাছ খর্বাকার হয়ে যায়, পাতা হলুদ হয়ে বেঁকে/কুচকে যায়, কুঁড়ি ও বোল আকার বিকৃতি হয়ে যায়।",
+  "causes": "এফিড",
+  "products": [
+  {
+  "product_name": "গেইন ২০ এসএল",
+  "medicine_name": "Imidacloprid",
+  "application_rates": "Rice- 125 ml/ha\nTea- 1.5 L/ha\nSugarcane- 1 L/ha",
+  "frequency_of_use": "Rice: 1-2 times\nTea: 1-2 times\nSugarcane: 1-2 times",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "গেইন সুপার ৭০ডব্লিউজি",
+  "medicine_name": "Imidacloprid",
+  "application_rates": "15 gm/acre or 35.70 gm/ ha",
+  "frequency_of_use": "1-2 times",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "বেনিফিট ২০ইসি",
+  "medicine_name": "Carbosulfan",
+  "application_rates": "Rice- 1L/ha\nCotton- 1.2L/ha",
+  "frequency_of_use": "Rice- 2 times \nCotton – 2 times",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  }
+  ]
+  }
+  ],
+  "কলা": [
+  {
+  "pest": "সিগাটোকা",
+  "symptoms": "পাতায় কালো রেখা ও দাগ দেখা দেয় যার ফলে পাতা হলুদ, বাদামী এবং শেষে মারা যায়, যা সালোকসংশ্লেষণ এবং ফলন হ্রাস করে।",
+  "causes": "সিউডোসারকোস্পোরা ফিজিয়েনসিস এবং মাইকোস্ফারেলা ফিজিয়েনসিস",
+  "products": [
+  {
+  "product_name": "ক্রিজল ৫ ইসি",
+  "medicine_name": "Hexaconazole",
+  "application_rates": "10 ml per 10 L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "নোইন ৫০ ডব্লিউপি",
+  "medicine_name": "Carbendazim",
+  "application_rates": "Rice- 1kg/ha\nMango- 1 gm/L water\nTea- 750 gm/ha\nBanana- 2 gm/L water\nGuava- 2 gm/L water\nSugarcane- 1 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  }
+  ]
+  },
+  {
+  "pest": "আগাছাসমুহ",
+  "symptoms": "গাছের বৃদ্ধি ব্যহত হয়, খাদ্য উপাদান আলো-বাতাস ও জায়গার জন্য ভাগ বসায়, পোকা-মাকড়ের বসতবাড়ী হয়, ফলে ফলন কমে যায়।",
+  "causes": "মিশ্র আগাছাসমুহ",
+  "products": [
+  {
+  "product_name": "ক্লিনোক্সোন ২৪ এসএল",
+  "medicine_name": "Paraquat",
+  "application_rates": "Banana- 3 ml/L of water\nTea – 2.8 L/ha",
+  "frequency_of_use": "1 time ",
+  "safety_precautions": "আগাছানাশক, ২-৪ পাতা বিশিষ্ট আগাছা ভিজিয়ে স্প্রে করুন"
+  }
+  ]
+  }
+  ],
+  "আম": [
+  {
+  "pest": "এনথ্রাকনোজ",
+  "symptoms": "পাতা, ফুল, ডালপালা এবং ফলের উপর ছোট, কালো, নিমজ্জিত দাগ হয়",
+  "causes": "কোলেট্রোটিকাম গ্লোইস্পোরইডস",
+  "products": [
+  {
+  "product_name": "ডাজিম ৫০ ডব্লিউপি",
+  "medicine_name": null,
+  "application_rates": null,
+  "frequency_of_use": null,
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "ম্যাকজিডান সুপার ৮০ ডব্লিউপি",
+  "medicine_name": "Mancozeb",
+  "application_rates": "2 gm/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন। প্রয়োজনীয় পরিমাণ ম্যাকজিডান সুপার ৮০ ডব্লিউপি সরাসরি স্প্রে মেশিনে না ঢেলে আলাদা পাত্রে সামান্য পানি দিয়ে ভালোভাবে গুলিয়ে নিন। তারপর স্প্রে মেশিনে ঢেলে নিয়ে সম্পূর্ণ পানির সাথে মিশিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "ক্রিজল ৫ ইসি",
+  "medicine_name": "Hexaconazole",
+  "application_rates": "10 ml per 10 L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "কার্ডিওন ৫০ ডব্লিউপি",
+  "medicine_name": "Iprodione 25% + Carbendazim 25%",
+  "application_rates": "2 gm/L of water or, \n1 Kg/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "সানজক্সি ৩২.৫ এসসি",
+  "medicine_name": "Azoxystrobin 20% + Difenoconazole 12.5%",
+  "application_rates": "10 ml per 10 L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "সানফাইটার ২৫ এসসি",
+  "medicine_name": "Hexaconazole 3% + Tricyclazole 22%",
+  "application_rates": "0.5 ml/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "মোর ৭২০ ডব্লিউপি",
+  "medicine_name": "Mancozeb 64% + cymoxanil 8%",
+  "application_rates": "2 gm/L water",
+  "frequency_of_use": "1-3 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "পজিটিভ ৩০ এসই",
+  "medicine_name": "Difenoconazole 15% + Propiconazol 15%",
+  "application_rates": "1 ml/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "নোইন ৫০ ডব্লিউপি",
+  "medicine_name": "Carbendazim",
+  "application_rates": "Rice- 1kg/ha\nMango- 1 gm/L water\nTea- 750 gm/ha\nBanana- 2 gm/L water\nGuava- 2 gm/L water\nSugarcane- 1 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "সানোক্সানিল ৭২ ডব্লিউপি",
+  "medicine_name": "Mancozeb 64% + cymoxanil 8%",
+  "application_rates": "2 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "প্রয়োজনীয় পরিমাণ সানোক্সানিল সরাসরি স্প্রে মেশিনে না ঢেলে আলাদা পাত্রে সামান্য পানি দিয়ে ভালোভাবে গুলিয়ে নিন। তারপর স্প্রে মেশিনে ঢেলে নিয়ে সম্পূর্ণ পানির সাথে মিশিয়ে স্প্রে করুন"
+  }
+  ]
+  },
+  {
+  "pest": "হপার",
+  "symptoms": "কচিপাতা হলুদাভ এবং নেতিয়ে পড়ে, ফুল বাদামী বর্ণ ধারণ করে এবং শুকিয়ে যায়, নিম্ফ এবং প্রাপ্তবয়স্কদের দ্বারা রস চুষে ফেলার কারণে ফলের ঝরে পড়া বৃদ্ধি ও মধুচক্র নিঃসরণ হয়।",
+  "causes": "ইডিস্কোপাস ক্লাইপেলিস এবং ইডিস্কোপাস নিভোস্পারসাস",
+  "products": [
+  {
+  "product_name": "সানমেরিন ১০ ইসি",
+  "medicine_name": "Cypermethrin",
+  "application_rates": "Mango Hopper – 1 ml/L water\nCotton Ballworm- 1.2 ml/L water i.e. 600 ml/ha\nTea Helopeltis- 1 ml/L water i.e. 500 ml/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "সানভেলারেট ২০ ইসি",
+  "medicine_name": null,
+  "application_rates": null,
+  "frequency_of_use": null,
+  "safety_precautions": null
+  },
+  {
+  "product_name": "ল্যাম্বডাফস ৩৩ ইসি",
+  "medicine_name": "Profenofos 30% + Lambda Cyhalothrin 3%",
+  "application_rates": "1 ml/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  },
+  {
+  "product_name": "নাইজিন ৮০ ডব্লিউডিজি",
+  "medicine_name": "Nitenpyram 20% + Pymetrozin 60%",
+  "application_rates": "0.5 gm/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  }
+  ]
+  },
+  {
+  "pest": "পাউডারি মিলডিউ",
+  "symptoms": "পাতা, ফুলের ডাটা, ফুল এবং কচি ফলের উপর সাদা, পাউডার সদৃশ কণা দেখা যায়",
+  "causes": "অইডিয়াম ম্যানজিফেরা",
+  "products": [
+  {
+  "product_name": "সানোক্সানিল ৭২ ডব্লিউপি",
+  "medicine_name": "Mancozeb 64% + cymoxanil 8%",
+  "application_rates": "2 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "প্রয়োজনীয় পরিমাণ সানোক্সানিল সরাসরি স্প্রে মেশিনে না ঢেলে আলাদা পাত্রে সামান্য পানি দিয়ে ভালোভাবে গুলিয়ে নিন। তারপর স্প্রে মেশিনে ঢেলে নিয়ে সম্পূর্ণ পানির সাথে মিশিয়ে স্প্রে করুন"
+  }
+  ]
+  }
+  ],
+  "গম": [
+  {
+  "pest": "আগাছাসমুহ",
+  "symptoms": "গাছের বৃদ্ধি ব্যহত হয়, খাদ্য উপাদান আলো-বাতাস ও জায়গার জন্য ভাগ বসায়, পোকা-মাকড়ের বসতবাড়ী হয়, ফলে ফলন কমে যায়।",
+  "causes": "মিশ্র আগাছাসমুহ",
+  "products": [
+  {
+  "product_name": "সানফিনিটি ৫০.৭৫ ডব্লিউপি",
+  "medicine_name": "Carfentrazone-ethyl 0.75% + Isoproturon 50%",
+  "application_rates": "1.50 Kg/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "আগাছানাশক, গমের বীজ বপনের ২০-২৫ দিন পর ২-৪ পাতা বিশিষ্ট আগাছা ভিজিয়ে স্প্রে করুন"
+  }
+  ]
+  },
+  {
+  "pest": "গোড়া পঁচা ও চারার পঁচা রোগ",
+  "symptoms": "চারাগাছের গোড়ায় স্যাঁতস্যাঁতে ভাব, মূলের বিকাশ ভালো নাহওয়া, কান্ড বিবর্ণ হয়ে গাঢ় বাদামী রং ধারণ, চারার বৃদ্ধি ব্যাহত হয় এবং বীজ কুঁচকে যায়।",
+  "causes": "ফিউজারিয়াম এবং মাইক্রোডোকিয়াম প্রজাতিসমূহ",
+  "products": [
+  {
+  "product_name": "এসাভক্স ৪০ ডব্লিউপি",
+  "medicine_name": null,
+  "application_rates": null,
+  "frequency_of_use": null,
+  "safety_precautions": "ছত্রাকনাশক, প্রতি ১ লিটার পানিতে ৩ গ্রাম এসাভেক্স ভালোভাবে মিশিয়ে তাতে ১ কেজি বীজ ভিজিয়ে শোধন করতে হয়"
+  }
+  ]
+  },
+  {
+  "pest": "ছোট কেড়ি পোকা, ছোট শুঁড় পোকা, ছোট শুঁসরী পোকা",
+  "symptoms": "সাধারণত গুদামজাত গমের মধ্যে আর্দ্রতা বেড়ে গেলে, গুদামে স্যাঁতস্যাঁতে ভাব বেড়ে গেলে দেখা যায়",
+  "causes": "",
+  "products": [
+  {
+  "product_name": "ভ্যানটেজ ৫৬%",
+  "medicine_name": "Aluminium phosphide",
+  "application_rates": "4 Tab/MT Grain",
+  "frequency_of_use": "-",
+  "safety_precautions": "কীটনাশক, পণ্যের তাপমাত্রা ১৫০ এর কম হলে, এবং/অথবা আপেক্ষিক আর্দ্রতা ২৫% এর কম হলে এবং/অথবা কাঁচা শস্যের সাথে আর্দ্রতার পরিমাণ ৯% এর কম হলে ব্যবহার করবেন না। জনবহুল ভবনে ধোঁয়া দেবেন না।"
+  }
+  ]
+  }
+  ],
+  "সরিষা": [
+  {
+  "pest": "এফিড/জাবপোকা",
+  "symptoms": "গাছ খর্বাকার হয়ে যায়, পাতা হলুদ হয়ে বেঁকে/কুচকে যায়, শক্তিশালী গাছও আন্তে আস্তে মারা যায়",
+  "causes": "এফিড উপদ্রব",
+  "products": [
+  {
+  "product_name": "সেবিয়ন ৬০ ইসি",
+  "medicine_name": "Diazinon",
+  "application_rates": "Rice YSB- 34ml/10L water i.e. 1.7 L/ha\nRice GLH- 30ml/10L water i.e. 1.5 L/ha\nRice BPH- 20ml/10L water i.e. 1 L/ha\nMustard Aphid- 20ml/10L water i.e. 1 L/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  }
+  ]
+  },
+  {
+  "pest": "লেইট ব্লাইট / নাবী ধ্বসা রোগ",
+  "symptoms": "পাতায় সমকেন্দ্রিক বলয়সহ ছোট, গাঢ় বাদামী বৃত্তাকার দাগ, যা বড় হয় এবং একত্রিত হয়, যার ফলে হলুদ হয়ে যায় এবং পাতা ঝরে পড়ে যায়।",
+  "causes": "অল্টারনারিয়া ব্রাসিকা এবং অল্টারনারিয়া ব্রাসিসিকলা",
+  "products": [
+  {
+  "product_name": "কার্ডিওন সুপার ৫০ ডব্লিউপি",
+  "medicine_name": "Iprodione 25% + Carbendazim 25%",
+  "application_rates": " 2 gm/L of water or, \n1 Kg/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  }
+  ]
+  }
+  ],
+  "শসা": [
+  {
+  "pest": "পাউডারি মিলডিউ",
+  "symptoms": "পাতা ও কান্ডে সাদা, পাউডারি দাগ যা গাছের হলুদ হয়ে যাওয়া, শুকিয়ে যাওয়া এবং গাছের অকাল মৃত্যু হতে পারে।",
+  "causes": "ওডোস্কেরা জেছি এবং এসিফে সিকোরাসেরাম",
+  "products": [
+  {
+  "product_name": "সানকা ৫০ এসসি",
+  "medicine_name": "Boscalid",
+  "application_rates": "1 ml/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "সানজোল প্লাস ৭০ ডব্লিউপি",
+  "medicine_name": "Fenoxanil + Tricyclazole",
+  "application_rates": "0.5 gm/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  }
+  ]
+  }
+  ],
+  "মিষ্টি কুমড়া": [
+  {
+  "pest": "পাউডারি মিলডিউ",
+  "symptoms": "পাতা, কান্ড ও ফলের উপর সাদা, পাউডারি দাগ যা পুরো গাছে ছড়িয়ে পড়ে বড়, বিবর্ণ দাগ তৈরী করে এবং গাছের পুরো পৃষ্ঠকে ঢেকে রাখে।",
+  "causes": "ওডোস্কেরা জেছি",
+  "products": [
+  {
+  "product_name": "ম্যাকসান ৬২.৫ ডব্লিউজি",
+  "medicine_name": null,
+  "application_rates": null,
+  "frequency_of_use": null,
+  "safety_precautions": null
+  },
+  {
+  "product_name": "ম্যাকভো ৭৫ ডব্লিউজি",
+  "medicine_name": "Tebuconazole 50% + Trifloxystrobin 25%",
+  "application_rates": "0.5 gm/L of water",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৭-১০ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "সানপুমা ৫৪ ডব্লিউপি",
+  "medicine_name": "Kasugamycin hydrochloride hydrate 4% + Carbendazim 50%",
+  "application_rates": "1.5 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক ও ব্যাকটেরিয়ানাশক, ব্যাকটেরিয়া ও ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  }
+  ]
+  }
+  ],
+  "পাট": [
+  {
+  "pest": "আগাছাসমুহ",
+  "symptoms": "গাছের বৃদ্ধি ব্যহত হয়, খাদ্য উপাদান আলো-বাতাস ও জায়গার জন্য ভাগ বসায়, পোকা-মাকড়ের বসতবাড়ী হয়, ফলে ফলন কমে যায়।",
+  "causes": "মিশ্র আগাছাসমুহ",
+  "products": [
+  {
+  "product_name": "সানওয়েল ৫ ইসি",
+  "medicine_name": "Quizalofop-p-ethyl",
+  "application_rates": "650 ml/ha or 260 ml/acre",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "আগাছানাশক, ক্ষেতে আগাছা গজানোর আগে ও জমিতে পানি থাকা অবস্থায় স্প্রে করার চেয়ে সারের সাথে মিশিয়ে প্রয়োগ করা উত্তম"
+  }
+  ]
+  },
+  {
+  "pest": "লোমশ শুঁয়োপোকা",
+  "symptoms": "পাতা আঁচড়ে খাওয়া, জালের মতো দেখা যাওয়া, ঝড়ে পড়া, কঙ্কাল হয়ে যাওয়া এবং গাছের বৃদ্ধি ব্যাহত হয়।",
+  "causes": "স্পিলোসোমা অবলিকিউয়া",
+  "products": [
+  {
+  "product_name": "ভিটাব্রিল ৮৫ ডব্লিউপি",
+  "medicine_name": "Carbaryl",
+  "application_rates": "30 gm/ 10 L water i.e. 1.5 kg /ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।<br>কীটনাশক, পোকার আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং পরবর্তী ৪-৭ দিনের মধ্যে আরও একবার স্প্রে করা উত্তম"
+  }
+  ]
+  }
+  ],
+  "লাউ": [
+  {
+  "pest": "পাউডারি মিলডিউ",
+  "symptoms": "পাতা ও কান্ডে সাদা, পাউডারি দাগ যা গাছের হলুদ হয়ে যাওয়া, শুকিয়ে যাওয়া এবং গাছের অকাল মৃত্যু হতে পারে।",
+  "causes": "ওডোস্কেরা জেছি",
+  "products": [
+  {
+  "product_name": "ম্যাকভিট ৮০ ডিএফ",
+  "medicine_name": "Sulphur",
+  "application_rates": "2 gm/L of water",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  },
+  {
+  "product_name": "পলিসাফ ৮০ ডব্লিউজি",
+  "medicine_name": "Sulphur",
+  "application_rates": "Cucurbits- 2 gm/L of water; Tea – 2.2kg/ha",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক ও মাকড়নাশক, মাকড় ও ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  }
+  ]
+  }
+  ],
+  "পেয়ারা": [
+  {
+  "pest": "এনথ্রাকনোজ",
+  "symptoms": "কান্ডের আগা মরে যাওয়া, কাঁচা ফলের উপর গাঢ় বাদামী, রোদেপোঁড়া, উচ্ছল দাগ এবং পাতায় নেক্রোটিক ক্ষত দেখা যায়।",
+  "causes": "কোলেট্রোটিকাম গ্লোইস্পোরইডস",
+  "products": [
+  {
+  "product_name": "নোইন ৫০ ডব্লিউপি",
+  "medicine_name": "Carbendazim",
+  "application_rates": "Rice- 1kg/ha\nMango- 1 gm/L water\nTea- 750 gm/ha\nBanana- 2 gm/L water\nGuava- 2 gm/L water\nSugarcane- 1 gm/L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  }
+  ]
+  }
+  ],
+  "তিল": [
+  {
+  "pest": "লিফ স্পট/ পাতার দাগ রোগ",
+  "symptoms": "ছোট, গাঢ় দাগ যা হলুদ বা বেগুনি সীমানা সহ বড় নেত্রুটিক ক্ষতে প্রসারিত হয় এবং প্রায়শই একত্রিত হয়ে ক্ষত সৃষ্টি করে।",
+  "causes": "সারকোস্পোরা সিসেমিসানভিট",
+  "products": [
+  {
+  "product_name": "সানভিট ৫০ ডব্লিউপি",
+  "medicine_name": "Copper Oxychloride",
+  "application_rates": "Sesame- 3.4 kg/ha; 68 gm/10 L water\nTea- 2.8 kg/ha; 56 gm/10 L water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "safety_precautions": "ছত্রাকনাশক, ছত্রাকের আক্রমণ দেখা দেয়ার সাথে সাথে একবার এবং প্রয়োজনে পরবর্তী ৭ দিন পর পর স্প্রে করুন। গাছ ভালোভাবে ভিজিয়ে স্প্রে করুন।"
+  }
+  ]
+  }
+  ],
+  "ভুট্টা": [
+  {
+  "pest": "আগাছাসমুহ",
+  "symptoms": "গাছের বৃদ্ধি ব্যহত হয়, খাদ্য উপাদান আলো-বাতাস ও জায়গার জন্য ভাগ বসায়, পোকা-মাকড়ের বসতবাড়ী হয়, ফলে ফলন কমে যায়।",
+  "causes": "মিশ্র আগাছাসমুহ",
+  "products": [
+  {
+  "product_name": "মেজিন ৩৩ এসসি",
+  "medicine_name": "Mesotrione 3% + Atrazine 30%",
+  "application_rates": "1.75 L/ha; 3.5 ml/L",
+  "frequency_of_use": "1 time in each cropping season",
+  "safety_precautions": "আগাছানাশক, চওড়াপাতা ও ঘাসজাতীয় আগাছা ৩-৪ পাতা হলে স্প্রে করুন। সাধারনত বীজ বপনের ১০-১৫ দিনের মধ্যে জমিতে জো থাকা অবস্থায় স্প্রে করতে হবে। মৌসুমে একবার ব্যবহার করতে হবে।"
+  }
+  ]
+  }
+  ]
+ }

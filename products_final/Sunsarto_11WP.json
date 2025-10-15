@@ -1,0 +1,32 @@
+{
+  "product_id": "MBL-037",
+  "product_name": "Sunsarto 11 WP",
+  "product_image": "images/Sunsarto_11WP.jpg",
+  "medicine_name": "Hexaconazole 2.5% + Validamycin 8.5%",
+  "category_name": "Fungicides",
+  "description": "Sunsarto 11WP is a combination fungicide with systemic action for controlling soil-borne and foliar fungal diseases like tomato wilt and sheath blight of rice.",
+  "application_rates": "500 gm/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "side_effect": "Handle with care. Avoid contact with skin and eyes. Wear protective clothing.",
+  "crops_pests": "Tomato - Wilt; Rice - Sheath Blight",
+  "crops": "Tomato, Rice",
+  "pest": "Wilt, Sheath Blight",
+  "symptoms": "one-sided yellowing and wilting",
+  "causes": "Fusarium and Verticillium",
+  "product_tags": [
+    "sunsarto 11 wp",
+    "hexaconazole",
+    "validamycin",
+    "tomato",
+    "wilt",
+    "fungicide"
+  ],
+  "product_price": "",
+  "reg_no": "AP-5050",
+  "serial_no": "72",
+  "product_url": "https://www.mcdonaldbd.com/product/sunsarto-11wp/",
+  "origin": "Sundat, Singapore",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

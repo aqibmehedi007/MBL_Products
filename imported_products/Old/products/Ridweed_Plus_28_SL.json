@@ -1,0 +1,31 @@
+{
+  "product_id": "MBL-027",
+  "product_name": "Ridweed Plus 28 SL",
+  "product_image": "images/Ridweed_RP.jpg",
+  "medicine_name": "Glufosinate-ammonium",
+  "category_name": "Herbicides / Weedicides",
+  "description": "Ridweed Plus 28 SL is a non-selective herbicide containing Glufosinate-ammonium. It provides effective control of a wide range of weeds including grasses and broadleaf weeds in tea gardens.",
+  "application_rates": "3 L/ha; 1.2 L/acre; 6 ml/L of water",
+  "frequency_of_use": "1 time in each cropping season",
+  "side_effect": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land.",
+  "crops_pests": "Tea - Weeds/ Bagracot, Ulu",
+  "crops": "Tea",
+  "pest": "Weeds, Bagracot, Ulu",
+  "symptoms": "",
+  "causes": "",
+  "product_tags": [
+    "ridweed plus 28 sl",
+    "glufosinate-ammonium",
+    "tea",
+    "weeds",
+    "herbicide"
+  ],
+  "product_price": "",
+  "reg_no": "",
+  "serial_no": "51",
+  "product_url": "",
+  "origin": "",
+  "isActive": "false",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

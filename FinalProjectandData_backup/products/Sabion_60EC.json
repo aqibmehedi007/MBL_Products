@@ -1,0 +1,31 @@
+{
+  "product_id": "MBL-006",
+  "product_name": "Sabion 60 EC",
+  "product_image": "images/Sabion_60EC.jpg",
+  "medicine_name": "Diazinon",
+  "category_name": "Insecticides",
+  "description": "Sabion 60EC is a contact, stomach, respiratory & locally penetrable insecticide. It is effective against Stem Borer, BPH, GLH & Gall Midge of rice, and Aphid of Potato, Mustard and some other vegetables.",
+  "application_rates": "Rice YSB- 34ml/10L water i.e. 1.7 L/ha Rice GLH- 30ml/10L water i.e. 1.5 L/ha Rice BPH- 20ml/10L water i.e. 1 L/ha Mustard Aphid- 20ml/10L water i.e. 1 L/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "side_effect": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land.",
+  "crops_pests": "Rice - BPH (Brown Plant Hopper), YSB, GLH, Gall Midge; Mustard - Aphid; Potato - Aphid",
+  "crops": "Rice, Mustard, Potato",
+  "pest": "BPH (Brown Plant Hopper), YSB (Yellow Stem Borer), GLH (Green Leaf Hopper), Gall Midge, Aphid",
+  "symptoms": "Hopperburn or yellowing, browning and drying of plant",
+  "causes": "Brown plant hopper",
+  "product_tags": [
+    "sabion 60 ec",
+    "diazinon",
+    "rice",
+    "bph",
+    "insecticide"
+  ],
+  "product_price": "",
+  "reg_no": "AP - 160",
+  "serial_no": "6",
+  "product_url": "https://www.mcdonaldbd.com/product/sabion-60ec/",
+  "origin": "Sundat,  Singapore",
+  "isActive": "false",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

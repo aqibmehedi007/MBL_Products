@@ -1,0 +1,32 @@
+{
+  "product_id": "MBL-009",
+  "product_name": "Suntap Plus 50 WP",
+  "product_image": "images/Suntap_Plus_50WP.jpg",
+  "medicine_name": "Cartap hydrochloride 47.5% + Fipronil 2.5%",
+  "category_name": "Insecticides",
+  "description": "Suntap Plus 50WP is a combination insecticide with systemic, contact, and stomach action for controlling a range of pests in rice, including Yellow Stem Borer, leaf folder, and gall midge.",
+  "application_rates": "750 gm/ha",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "side_effect": "Wear protective equipment during handling. Toxic to fish and other aquatic organisms. Avoid contamination of ponds and waterways.",
+  "crops_pests": "Rice - Yellow stem borer, leaf folder, gall midge",
+  "crops": "Rice",
+  "pest": "Yellow stem borer, leaf folder, gall midge",
+  "symptoms": "\"deadhearts\" (drying of central shoots) during the vegetative stage, and \"whiteheads\" (empty, white panicles) during the reproductive stage",
+  "causes": "yellow stem borer",
+  "product_tags": [
+    "suntap plus 50 wp",
+    "cartap",
+    "fipronil",
+    "rice",
+    "yellow stem borer",
+    "insecticide"
+  ],
+  "product_price": "",
+  "reg_no": "AP - 4499",
+  "serial_no": "14",
+  "product_url": "https://www.mcdonaldbd.com/product/suntap-plus-500wp/",
+  "origin": "Sundat, Singapore",
+  "isActive": "false",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

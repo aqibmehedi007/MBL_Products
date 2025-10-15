@@ -1,0 +1,31 @@
+{
+  "product_id": "MBL-008",
+  "product_name": "Suntap 50 SP",
+  "product_image": "images/Suntap_50_SP.jpg",
+  "medicine_name": "Cartap",
+  "category_name": "Insecticides",
+  "description": "Suntap 50SP is a systemic insecticide effective against Yellow Stem Borer, Green Leaf Hopper, BPH & Hispa of Rice, BSFB of Brinjal, and Mango Fruit Borer.",
+  "application_rates": "Rice- 28 gm/ 10 L water i.e. 1.4 kg / ha (YSB & GLH) 32 gm / 10 L water i.e. 1.6 kg / ha (BPH) 16 gm / 10 L water i.e. 800 gm / ha (HISPA) Brinjal – 24 gm / 10 L water (BSFB)",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "side_effect": "Do not smell, swallow or drink while spraying. Do not spray against the wind or on your feet. Wash your body and clothes thoroughly after spraying. Bury the used packages in the fallow land.",
+  "crops_pests": "Rice - GLH (Green Leaf Hopper), YSB, BPH, Hispa; Brinjal - BSFB; Mango - Fruit Borer",
+  "crops": "Rice, Brinjal, Mango",
+  "pest": "GLH (Green Leaf Hopper), YSB (Yellow Stem Borer), BPH (Brown Plant Hopper), Hispa, BSFB (Brinjal Shoot and Fruit Borer), Fruit Borer",
+  "symptoms": "stunted growth, yellowing or orange-yellowing of leaves, wilting, and reduced tiller numbers",
+  "causes": "Green Leafhoppers",
+  "product_tags": [
+    "suntap 50 sp",
+    "cartap",
+    "rice",
+    "glh",
+    "insecticide"
+  ],
+  "product_price": "",
+  "reg_no": "AP - 217",
+  "serial_no": "8",
+  "product_url": "https://www.mcdonaldbd.com/product/suntap-50-sp/",
+  "origin": "Sundat, Singapore",
+  "isActive": "true",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

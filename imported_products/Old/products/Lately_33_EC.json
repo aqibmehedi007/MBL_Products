@@ -1,0 +1,31 @@
+{
+  "product_id": "MBL-015",
+  "product_name": "Lately 33 EC",
+  "product_image": "images/Lately_33_EC.jpg",
+  "medicine_name": "Pendimethalin",
+  "category_name": "Herbicides / Weedicides",
+  "description": "Lately 33 EC is a pre-emergence herbicide that controls annual grasses and certain broadleaf weeds in a variety of crops, including potatoes, onions, cotton, and soybeans.",
+  "application_rates": "1 L/ha; 400 ml/acre; 2 ml/L of water",
+  "frequency_of_use": "1-2 time in each cropping season",
+  "side_effect": "Can cause skin and eye irritation. Use of personal protective equipment (PPE) is recommended. Toxic to aquatic organisms.",
+  "crops_pests": "Potato - Weeds; Onion - Weeds; Cotton - Weeds; Soybeans - Weeds",
+  "crops": "Potato, Onion, Cotton, Soybeans",
+  "pest": "Weeds, Annual grasses, Broadleaf weeds",
+  "symptoms": "",
+  "causes": "",
+  "product_tags": [
+    "lately 33 ec",
+    "pendimethalin",
+    "potato",
+    "weeds",
+    "herbicide"
+  ],
+  "product_price": "",
+  "reg_no": "AP-",
+  "serial_no": "27",
+  "product_url": "https://www.mcdonaldbd.com/product/lately-33-ec/",
+  "origin": "Asiatic, Singapore",
+  "isActive": "false",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}

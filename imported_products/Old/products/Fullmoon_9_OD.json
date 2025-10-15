@@ -1,0 +1,32 @@
+{
+  "product_id": "MBL-041",
+  "product_name": "Fullmoon 9 OD",
+  "product_image": "images/Fullmoon_9OD.jpg",
+  "medicine_name": "Imidacloprid 7% + Beta- Cyfluthrin 2%",
+  "category_name": "Insecticides",
+  "description": "Fullmoon 9OD is a combination insecticide containing Imidacloprid and Beta-Cyfluthrin. It provides effective control of brinjal aphids through both systemic and contact action.",
+  "application_rates": "0.5 ml/L of water",
+  "frequency_of_use": "",
+  "side_effect": "May cause mild skin irritation. Avoid contact with eyes. Use protective clothing during application. Toxic to bees - avoid application during flowering. Keep away from children and animals.",
+  "crops_pests": "Brinjal - Aphid",
+  "crops": "Brinjal",
+  "pest": "Aphid",
+  "symptoms": "leaf yellowing, curling, and stunting",
+  "causes": "Aphid infestation",
+  "product_tags": [
+    "fullmoon 9 od",
+    "imidacloprid",
+    "beta-cyfluthrin",
+    "brinjal",
+    "aphid",
+    "insecticide"
+  ],
+  "product_price": "",
+  "reg_no": "AP-",
+  "serial_no": "78",
+  "product_url": "https://www.mcdonaldbd.com/product/fullmoon-9od/",
+  "origin": "Shandong Sino-Agri, China",
+  "isActive": "false",
+  "Stocks": "3654",
+  "extraction_date": "2025-10-15T00:00:00"
+}
